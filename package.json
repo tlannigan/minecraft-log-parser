@@ -1,6 +1,6 @@
 {
   "name": "minecraft-log-parser",
-  "version": "0.1.0",
+  "version": "0.1.1-alpha",
   "description": "Parse information and errors from Minecraft logs",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
