@@ -1,0 +1,300 @@
+[20:43:55] [main/INFO]: ModLauncher running: args [--username, Ymmit34, --version, forge-43.3.7, --gameDir, D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2, --assetsDir, D:\MCModsCurseforge\Install\assets, --assetIndex, 1.19, --uuid, fb3036ee1f504c2aa3957e9ad0e64dd7, --accessToken, ????????, --clientId, MjY2YzNkMDQtNjQxZS00ZmU2LWFlOWUtM2M2ODRkMGU5ZWJh, --xuid, 2535459246596936, --userType, msa, --versionType, release, --width, 1024, --height, 768, --launchTarget, forgeclient, --fml.forgeVersion, 43.3.7, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[20:43:55] [main/INFO]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.8 by Microsoft; OS Windows 10 arch amd64 version 10.0
+[20:43:57] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/D:/MCModsCurseforge/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2397!/ Service=ModLauncher Env=CLIENT
+[20:43:57] [main/INFO]: Found mod file 0.3-Camera-mods-1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file [1.19.2] SecurityCraft v1.9.6.1.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file [FORGE 1.19.2] Oceanvillagertrader-1.0.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file [Forge]backported_wolves_forge-1.0.3-1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file AardvarksWeirdWonderfulbugsv4.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file additional-guns-0.8.2-1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file aeroblender-1.19.2-1.0.1.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file aether-1.19.2-1.4.2-forge.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file aether-redux-2.0.16c-1.19.2-forge.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file alexsmobs-1.21.1.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file AmbientEnvironment-forge-1.19.2-8.0+3.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file AmbientSounds_FORGE_v5.2.13_mc1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file another_furniture-forge-1.19.2-2.1.4.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file antlers-1.0.0-1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Apollyon v1.0.0 (1.19.2).jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file appleskin-forge-mc1.19-2.4.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Aquaculture-1.19.2-2.4.17.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file aquamirae-6.API15.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file architectury-6.6.92-forge.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file ArPhEx_2.0.7_1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file assimilatorV1.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Atlas-Lib-1.19.2-1.1.6.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file atmospheric-1.19.2-5.1.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file AutoRegLib-1.8.2-55.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file azurelib-forge-1.19.2-1.0.43.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Battle_allays_1.4.3_1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file bedspreads-forge-6.0.0+1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file betterfoliage-4.0.6.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file betterweather-1.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file bfendcities-1.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file BiomesOPlenty-1.19.2-17.1.1.162.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file blueprint-1.19.2-6.2.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file BOH_0.0.2.5.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file bygonenether-1.3.2-1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file CamoCreepers-1.19-1.2.1.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file carryon-forge-1.19.2-2.1.2.23.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Cave Dweller Reimagined.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file cave-enhancements-1.19.2-2.1.12-forge.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file caverns_and_chasms-1.19.2-1.0.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file caves__canyons-1.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file CCTV_Craft_4.6.2_Forge_1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file cfm-7.0.0-pre35-1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file cgm-forge-1.19.2-1.3.7.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file citadel-2.1.4-1.19.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file clayworks-1.19.2-2.1.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file cloth-config-8.3.115-forge.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Clumps-forge-1.19.2-9.0.0+14.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file ColdSnapHorde-forge-1.19.2-1.8.2.7.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file collective-1.19.2-7.61.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Controlling-forge-1.19.2-10.0+7.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file copperandtuffbackport-1.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file CorgiLib-forge-1.19.2-1.0.0.34.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file coroutil-forge-1.19.2-1.3.6.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file corpse-forge-1.19.2-1.0.12.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file corpse_stalker-1.19.2-By FlamcO4.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file CreativeCore_FORGE_v2.9.4_mc1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file creeperaiupdated-forge-1.5.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Critters  Cryptids 1.5.1.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file cupboard-1.19.2-2.6.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file curios-forge-1.19.2-5.1.6.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file cursed_sheep-1.19.2-1.7.0 (2).jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file DamageTilt-1.19-forge-0.1.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Dangers in the Darkness_1.0.34_Forge_1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file darkness-forge-mc119-2.0.101.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file deep_aether-1.19.2-1.0.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file deeper_oceans-1.19-v1-0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Desolation 1.1.8 1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file DistantFriends-1.19.2-0.2.3.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file DistantHorizons-2.1.0-a-1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file do-a-barrel-roll-2.6.2+1.19.2-forge.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file DoggyTalents-1.19.2-2.6.10.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file dragonfight-1.19.2-4.4.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file dynamiclightsreforged-1.19.2_v1.4.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file eh1.3.1-1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file embeddium-0.3.18+mc1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file endergetic-1.19.2-4.0.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file EndlessBiomes 1.4s - 1.19.2 (Server-friendly).jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file endlessocean-1.19.2-0.3.1-BETA.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file endofherobrine-1.19.2-1.0.8.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Enhanced_Celestials-forge-1.19.2-2.1.0.6.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file environmental-1.19.2-3.1.1.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file exoticbirds-1.19.2-2.6.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Eyes-In-The-Sky-1.19-v1.1.1-Forge-Fabric.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file EyesInTheDark-forge-1.19.2-1.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file EyesInTheDarkness-1.19.2-1.3.10.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file fantasyfurniture-1.19.2-6.7.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file farsighted-mobs-forge-1.1-1.19.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file fazcraft-3.7.7-1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file fnafwp - UPDATE 4.0.5.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file framework-forge-1.19.2-0.6.16.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file From-The-Fog-1.19-v1.9.1-Forge-Fabric.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file geckolib-forge-1.19-3.1.40.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file goat_man-1.19.2-2.4.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file goatman-2.2-forge-1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Gothic_RPG_1.0.3_Forge_1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file grappling_hook_mod-1.19.2-1.19.2-v13.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file healingcampfire-1.19.2-5.3.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Herobrine Sword Mod Forge 1.19.2_1.2.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file HigherWorldDeeperOceans-1.19.x.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file hitindication-1.19.2-1.3.1.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file hitmarker-1.19.2-3.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Horror_elements_mod_1.5.6_1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Hurtful Stonecutter 1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file improvedmobs-1.19-1.11.0-forge.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file jei-1.19.2-forge-11.6.0.1019.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file JustEnoughProfessions-forge-1.19.2-2.0.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file JustEnoughResources-1.19.2-1.2.3.243.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file keebszs_battle_towers-0.5.0-1.19.x.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file LeonsBackportPaintings+M.1.19.2+ForM.2.0.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file LetSleepingDogsLie-1.19.2-Forge-1.2.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file lithosphere 1.1.1 06.06.2024.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file lostcities-1.19-6.0.29.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file lostsouls-1.19-3.0.4.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file LurkerEvolved1.19.2(Forge)vs1.0.3.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file macawsbridgesbop-1.19.2-1.4.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file macawsbridgesbyg-1.19.2-1.4.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file macawsroofsbop-1.19.2-1.4.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file macawsroofsbyg-1.19.2-1.3.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file mcw-bridges-3.0.0-mc1.19.2forge.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file mcw-doors-1.1.0forge-mc1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file mcw-fences-1.1.1-mc1.19.2forge.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file mcw-furniture-3.2.2-mc1.19.2forge.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file mcw-lights-1.0.6-mc1.19.2forge.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file mcw-paintings-1.0.5-1.19.2forge.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file mcw-paths-1.0.5-1.19.2forge.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file mcw-roofs-2.3.0-mc1.19.2forge.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file mcw-trapdoors-1.1.3-mc1.19.2forge.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file mcw-windows-2.2.1-mc1.19.2forge.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file mcwfencesbop-1.19.2-1.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file mcwfencesbyg-1.19.2-1.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file mcwfurnituresbop-1.19.2-1.3.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file mcwfurnituresbyg-1.19.2-1.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Mimic-forge-1.19.1-1.2.38.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file mimic_dweller-1.19.2-1.7.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file minecraft-comes-alive-7.5.14+1.19.2-universal.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file mining-dimension-forge-1.19.2-1.1.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file mobbattle-1.19-2.4.3-forge.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file mobsunscreen-forge-1.19.2-3.0.9.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file MoGuns-1.9.2-1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file MutantMonsters-v4.0.6-1.19.2-Forge.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file mutantmore-1.19.2-early-access-1.0.7.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Mutants Buff 1.0.1 - 1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Mutationcraft_1.19.2_1.0.6.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file mutil-1.19.2-5.2.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file netherdepthsupgrade-3.1.4-1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file new_120_content-1.19.2-2.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file nohostilesaroundcampfire-1.19.2-5.9.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file notdeer-1.3.0-forge-1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file notenoughanimations-forge-1.7.3-mc1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file obscure_api-15.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file oculus-mc1.19.2-1.6.9.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.1.6.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file old_goatman-1.19.2-1.7.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file One Twenty Backport 1.19.2 V1.2.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Orva Alarms V4.0.0 - 1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file paladin-furniture-mod-1.2.1-forge-mc1.19.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file pamhc2crops-1.19.2-1.0.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file pamhc2foodcore-1.19.2-1.0.1.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file pamhc2foodextended-1.19.2-1.0.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file pamhc2trees-1.19.2-1.0.1.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file ParCool-1.19.2-3.2.1.2-R.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Patchouli-1.19.2-77.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file pathogen_1.3.2_1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Pehkui-3.8.2+1.19.2-forge.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file personality-1.19.2-3.0.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file PlagueDoctor-forge-1.19.2-1.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file PuzzlesLib-v4.4.3-1.19.2-Forge.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Quark-3.4-418.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file realmrpg_fallen_adventurers_1.0.3_forge_1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file realmrpg_pots_and_mimics_1.0.2_forge_1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file rubidium-extra-0.4.19+mc1.19.2-build.105.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file rubidium-mc1.19.2-0.6.2c.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Ryan's Zombies v5.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file sanitydim-mc1.19.2-1.1.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file savage_and_ravage-1.19.2-5.0.5.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file scary_spiders_modv12_1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file scp_origin-1.19.2-1.0.5-bug-fix.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file screamer v1.0.2 1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file screaming_villager-1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file sculkhorde-1.19.2-0.8.1.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file secretrooms-1.19.2-1.2.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file SereneSeasons-1.19.2-8.1.0.24.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Silence's Turrets.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file simon_12-1.19.2-1.7.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Siren_Head_v1.2.7-1.19.2-Requires_Geckolib.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file skin_changer-0.5.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file skinlayers3d-forge-1.6.5-mc1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file skinned_lanterns-1.19.2-1.3.4.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file skinwalker_overhaul_new_health_2_1_-_Copy_4.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Slenderman1.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file smallships-forge-1.19.2-2.0.0-b1.3.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file snowundertrees-1.19.2-1.3.1.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file sons-of-sins-1.19.2-2.1.6.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file spark-1.10.37-forge.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file spawnanimations-v1.9.4-mc1.17x-1.20x-mod.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file SpelunkersCharm-3.5.9-1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file spiderstpo-1.19.2-2.0.4.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file spore_1.19.2_2.0.6b.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file stalkercreepers-1.19.2.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file steve_dweller-1.19.2-1.7.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file swingthroughgrass-1.19.2-1.10.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file tectonic-forge-1.19-2.3.5a.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file tectonicbop-1.19.2-Beta3.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file TemperedNetherite1.19.2(Forge)vs1.0.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file tenshilib-1.19.2-1.6.15-forge.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file TerraBlender-forge-1.19.2-2.0.1.166.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Terralith_1.19.3_v2.3.12.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file tetra-1.19.2-5.6.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file TFTH 0.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file The Rolling Giant v1.0.4 1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file The-Hordes-1.19.2-1.5.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file The-Man-From-The-Fog-1.3-1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file The_Graveyard_2.5.3_(FORGE)_for_1.19.2..jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file The_Graveyard_Biomes_1.4_(FORGE)_for_1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file the_impersonator-1.19.2-1.7.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file the_knocker-1.1.1-1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file the_midnight_lurker_3.2.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file the_silence-0.2 patch 2.0 Fixed -CENSORED ver.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file TheCreation-1.19.2-2.0.0V8.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file thefallenmonstersprehistoricaupdate.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file TheMutantMobsMod[MC1.19.2]V1.0.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file TheOneWhoWatches-V1.3.0-1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file thestarvedstalker.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file timecontrol-1.19.2-1.1.3.1.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file torchhit-1.19.2-6.0.2.0-forge.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file ToughAsNails-1.19-8.0.0.78.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Towns-and-Towers-v.1.10-_FORGE-1.19.2_.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file travelersbackpack-forge-1.19.2-8.2.40.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file TreeChop-1.19.2-forge-0.18.6.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file TrueHerobrine_1.1+1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file twilightforest-1.19.2-4.2.1518-universal.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file twistedhorrors.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file untamedwilds-1.19.2-3.0.4.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file upgrade_aquatic-1.19.2-5.1.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file upgradedcore-1.19.2-4.1.0.1-release.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file upgradednetherite-1.19.2-5.1.0.9-release.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file upgradednetherite_items-1.19.2-4.1.0.2-release.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file v2.0.2beta-accuratebackrooms_forge-1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file VehicleHungerBar-1.2.0-1.19.2-Forge.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file VillainousHordeLib-forge-1.19-0.3.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Whispers_of_the_Wendigo_0.1.1_1.19.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file whisperwoods-1.19-2.1.1-forge.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file woodworks-1.19.2-2.2.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file Xaeros_Minimap_24.2.0_Forge_1.19.1.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file XaerosWorldMap_1.38.8_Forge_1.19.1.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file YungsApi-1.19.2-Forge-3.8.10.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file YungsBetterDesertTemples-1.19.2-Forge-2.2.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file YungsBetterDungeons-1.19.2-Forge-3.2.2.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file YungsBetterEndIsland-1.19.2-Forge-1.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file YungsBetterJungleTemples-1.19.2-Forge-1.0.1.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file YungsBetterMineshafts-1.19.2-Forge-3.2.1.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file YungsBetterNetherFortresses-1.19.2-Forge-1.0.6.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file YungsBetterOceanMonuments-1.19.2-Forge-2.1.1.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file YungsBridges-1.19.2-Forge-3.1.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file YungsExtras-1.19.2-Forge-3.1.0.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file zombieawareness-1.19.2-1.12.3.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/INFO]: Found mod file zombiehorsespawn-1.19.2-4.8.jar of type MOD with provider {mods folder locator at D:\MCModsCurseforge\Instances\Minecraft but you feel 10 again 1.19.2\mods}
+[20:43:57] [main/WARN]: Mod file D:\MCModsCurseforge\Install\libraries\net\minecraftforge\fmlcore\1.19.2-43.3.7\fmlcore-1.19.2-43.3.7.jar is missing mods.toml file
+[20:43:57] [main/WARN]: Mod file D:\MCModsCurseforge\Install\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.3.7\javafmllanguage-1.19.2-43.3.7.jar is missing mods.toml file
+[20:43:57] [main/WARN]: Mod file D:\MCModsCurseforge\Install\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.3.7\lowcodelanguage-1.19.2-43.3.7.jar is missing mods.toml file
+[20:43:57] [main/WARN]: Mod file D:\MCModsCurseforge\Install\libraries\net\minecraftforge\mclanguage\1.19.2-43.3.7\mclanguage-1.19.2-43.3.7.jar is missing mods.toml file
+[20:43:57] [main/INFO]: Found mod file fmlcore-1.19.2-43.3.7.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3e7dfd44
+[20:43:57] [main/INFO]: Found mod file javafmllanguage-1.19.2-43.3.7.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3e7dfd44
+[20:43:57] [main/INFO]: Found mod file lowcodelanguage-1.19.2-43.3.7.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3e7dfd44
+[20:43:57] [main/INFO]: Found mod file mclanguage-1.19.2-43.3.7.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3e7dfd44
+[20:43:57] [main/INFO]: Found mod file client-1.19.2-20220805.130853-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3e7dfd44
+[20:43:57] [main/INFO]: Found mod file forge-1.19.2-43.3.7-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@3e7dfd44
+[20:43:57] [main/ERROR]: Found duplicate mods:
+	Mod ID: 'rubidium' from mod files: rubidium-mc1.19.2-0.6.2c.jar, embeddium-0.3.18+mc1.19.2.jar
+[20:43:57] [main/ERROR]: Failed to build unique mod list after mod discovery.
+net.minecraftforge.fml.loading.EarlyLoadingException: Duplicate mods found
+	at net.minecraftforge.fml.loading.UniqueModListBuilder.buildUniqueList(UniqueModListBuilder.java:87) ~[fmlloader-1.19.2-43.3.7.jar%23101!/:1.0]
+	at net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer.discoverMods(ModDiscoverer.java:105) ~[fmlloader-1.19.2-43.3.7.jar%23101!/:?]
+	at net.minecraftforge.fml.loading.FMLLoader.beginModScan(FMLLoader.java:166) ~[fmlloader-1.19.2-43.3.7.jar%23101!/:1.0]
+	at net.minecraftforge.fml.loading.FMLServiceProvider.beginScanning(FMLServiceProvider.java:86) ~[fmlloader-1.19.2-43.3.7.jar%23101!/:1.0]
+	at cpw.mods.modlauncher.TransformationServiceDecorator.runScan(TransformationServiceDecorator.java:112) ~[modlauncher-10.0.8.jar%2388!/:?]
+	at cpw.mods.modlauncher.TransformationServicesHandler.lambda$runScanningTransformationServices$8(TransformationServicesHandler.java:100) ~[modlauncher-10.0.8.jar%2388!/:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) [?:?]
+	at java.util.HashMap$ValueSpliterator.forEachRemaining(HashMap.java:1779) [?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) [?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) [?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:575) [?:?]
+	at java.util.stream.AbstractPipeline.evaluateToArrayNode(AbstractPipeline.java:260) [?:?]
+	at java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:616) [?:?]
+	at java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:622) [?:?]
+	at java.util.stream.ReferencePipeline.toList(ReferencePipeline.java:627) [?:?]
+	at cpw.mods.modlauncher.TransformationServicesHandler.runScanningTransformationServices(TransformationServicesHandler.java:102) [modlauncher-10.0.8.jar%2388!/:?]
+	at cpw.mods.modlauncher.TransformationServicesHandler.initializeTransformationServices(TransformationServicesHandler.java:55) [modlauncher-10.0.8.jar%2388!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:87) [modlauncher-10.0.8.jar%2388!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2388!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2388!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2388!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[20:43:57] [main/ERROR]: Mod Discovery failed. Skipping dependency discovery.

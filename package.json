@@ -1,0 +1,29 @@
+{
+  "name": "minecraft-log-parser",
+  "version": "0.1.0",
+  "description": "Parse information and errors from Minecraft logs",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "test": "vitest"
+  },
+  "keywords": [
+    "minecraft",
+    "logs",
+    "parser"
+  ],
+  "author": "Tristan Lannigan",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "tsup": "^8.3.5",
+    "typescript": "^5.6.3",
+    "vite-tsconfig-paths": "^5.1.2",
+    "vitest": "^2.1.4"
+  }
+}

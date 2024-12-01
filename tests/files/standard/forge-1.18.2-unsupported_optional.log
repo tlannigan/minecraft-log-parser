@@ -1,0 +1,73 @@
+[30Sep2024 16:42:45.437] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.0, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
+[30Sep2024 16:42:45.443] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.8 by Oracle Corporation
+[30Sep2024 16:42:45.627] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/leif/Desktop/server1.18.2/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[30Sep2024 16:42:46.200] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\leif\Desktop\server1.18.2\libraries\net\minecraftforge\fmlcore\1.18.2-40.2.0\fmlcore-1.18.2-40.2.0.jar is missing mods.toml file
+[30Sep2024 16:42:46.205] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\leif\Desktop\server1.18.2\libraries\net\minecraftforge\javafmllanguage\1.18.2-40.2.0\javafmllanguage-1.18.2-40.2.0.jar is missing mods.toml file
+[30Sep2024 16:42:46.208] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\leif\Desktop\server1.18.2\libraries\net\minecraftforge\lowcodelanguage\1.18.2-40.2.0\lowcodelanguage-1.18.2-40.2.0.jar is missing mods.toml file
+[30Sep2024 16:42:46.211] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\leif\Desktop\server1.18.2\libraries\net\minecraftforge\mclanguage\1.18.2-40.2.0\mclanguage-1.18.2-40.2.0.jar is missing mods.toml file
+[30Sep2024 16:42:46.458] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
+[30Sep2024 16:42:46.542] [main/ERROR] [net.minecraftforge.fml.loading.ModSorter/LOADING]: Unsupported installed optional dependencies:
+	Mod ID: 'jei', Requested by: 'storagenetwork', Expected range: '[9.7,10)', Actual version: '10.2.1.1005'
+[30Sep2024 16:42:49.344] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[30Sep2024 16:42:49.434] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[30Sep2024 16:42:49.488] [main/INFO] [com.abdelaziz.saturn.common.Saturn/]: Loaded Saturn config file with 4 configurable options
+[30Sep2024 16:42:49.534] [main/WARN] [mixin/]: Reference map 'yungsbridges.refmap.json' for yungsbridges.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Sep2024 16:42:49.535] [main/WARN] [mixin/]: Reference map 'yungsbridges.refmap.json' for yungsbridges_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Sep2024 16:42:49.944] [main/WARN] [mixin/]: Error loading class: io/github/mortuusars/sootychimneys/block/ChimneyBlock (java.lang.ClassNotFoundException: io.github.mortuusars.sootychimneys.block.ChimneyBlock)
+[30Sep2024 16:42:49.944] [main/WARN] [mixin/]: Error loading class: com/cozary/tintedcampfires/campfire/ColorCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.ColorCampfire)
+[30Sep2024 16:42:49.945] [main/WARN] [mixin/]: Error loading class: com/cozary/tintedcampfires/campfire/colors/BlueCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.BlueCampfire)
+[30Sep2024 16:42:49.946] [main/WARN] [mixin/]: Error loading class: com/cozary/tintedcampfires/campfire/colors/BrownCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.BrownCampfire)
+[30Sep2024 16:42:49.947] [main/WARN] [mixin/]: Error loading class: com/cozary/tintedcampfires/campfire/colors/CyanCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.CyanCampfire)
+[30Sep2024 16:42:49.947] [main/WARN] [mixin/]: Error loading class: com/cozary/tintedcampfires/campfire/colors/GrayCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.GrayCampfire)
+[30Sep2024 16:42:49.948] [main/WARN] [mixin/]: Error loading class: com/cozary/tintedcampfires/campfire/colors/GreenCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.GreenCampfire)
+[30Sep2024 16:42:49.948] [main/WARN] [mixin/]: Error loading class: com/cozary/tintedcampfires/campfire/colors/LightBlueCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.LightBlueCampfire)
+[30Sep2024 16:42:49.948] [main/WARN] [mixin/]: Error loading class: com/cozary/tintedcampfires/campfire/colors/LightGrayCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.LightGrayCampfire)
+[30Sep2024 16:42:49.949] [main/WARN] [mixin/]: Error loading class: com/cozary/tintedcampfires/campfire/colors/LimeCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.LimeCampfire)
+[30Sep2024 16:42:49.949] [main/WARN] [mixin/]: Error loading class: com/cozary/tintedcampfires/campfire/colors/MagentaCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.MagentaCampfire)
+[30Sep2024 16:42:49.949] [main/WARN] [mixin/]: Error loading class: com/cozary/tintedcampfires/campfire/colors/OrangeCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.OrangeCampfire)
+[30Sep2024 16:42:49.950] [main/WARN] [mixin/]: Error loading class: com/cozary/tintedcampfires/campfire/colors/PinkCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.PinkCampfire)
+[30Sep2024 16:42:49.950] [main/WARN] [mixin/]: Error loading class: com/cozary/tintedcampfires/campfire/colors/PurpleCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.PurpleCampfire)
+[30Sep2024 16:42:49.950] [main/WARN] [mixin/]: Error loading class: com/cozary/tintedcampfires/campfire/colors/RedCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.RedCampfire)
+[30Sep2024 16:42:49.951] [main/WARN] [mixin/]: Error loading class: com/cozary/tintedcampfires/campfire/colors/WhiteCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.WhiteCampfire)
+[30Sep2024 16:42:49.951] [main/WARN] [mixin/]: Error loading class: com/cozary/tintedcampfires/campfire/colors/YellowCampfire (java.lang.ClassNotFoundException: com.cozary.tintedcampfires.campfire.colors.YellowCampfire)
+[30Sep2024 16:42:49.991] [main/INFO] [terralith/]: No config file detected. Creating one...
+[30Sep2024 16:42:49.995] [main/INFO] [terralith/]: Overriding config for 'terrablender_compatibility': FALSE (Terrablender not installed)
+[30Sep2024 16:42:49.996] [main/INFO] [terralith/]: No config file detected. Creating one...
+[30Sep2024 16:42:49.998] [main/INFO] [terralith/]: Overriding config for 'cursed_skylands': NONE (Terrablender not installed)
+[30Sep2024 16:42:50.132] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.134] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.135] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.136] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.137] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.141] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.142] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.145] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.147] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.148] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.151] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.155] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.156] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.157] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.158] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.161] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.161] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.173] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.175] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.178] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.181] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.181] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.182] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.183] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.183] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.188] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.190] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.192] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.194] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.194] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.195] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.195] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.196] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.196] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.196] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 64)
+[30Sep2024 16:42:50.207] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[30Sep2024 16:42:50.220] [main/WARN] [mixin/]: Error loading class: java/util/concurrent/CompletableFuture (java.lang.IllegalArgumentException: Unsupported class file major version 64)

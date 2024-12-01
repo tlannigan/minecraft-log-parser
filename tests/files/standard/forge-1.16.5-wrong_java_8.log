@@ -1,0 +1,9 @@
+[18Jun2024 01:32:58.908] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, TymeTickTock, --version, 1.16.5, --gameDir, C:/Users/mason/AppData/Roaming/PrismLauncher/instances/MnM LITE - 1.4_hf/minecraft, --assetsDir, C:/Users/mason/AppData/Roaming/PrismLauncher/assets, --assetIndex, 1.16, --uuid, 1db17da1b00745d1a88b54636c3d7c51, --accessToken, ????????, --userType, msa, --versionType, release, --launchTarget, fmlclient, --fml.forgeVersion, 36.2.19, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210115.111550, --width, 854, --height, 480]
+[18Jun2024 01:32:58.910] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.0.9+86+master.3cf110c starting: java version 1.8.0_411 by Oracle Corporation
+[18Jun2024 01:32:59.448] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[18Jun2024 01:32:59.486] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/C:/Users/mason/AppData/Roaming/PrismLauncher/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
+[18Jun2024 01:33:01.564] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 2:141 token recognition error at: ';'
+[18Jun2024 01:33:01.579] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 2:141 token recognition error at: ';'
+[18Jun2024 01:33:01.579] [main/INFO] [STDERR/]: [org.antlr.v4.runtime.ConsoleErrorListener:syntaxError:38]: line 4:60 token recognition error at: ';'
+[18Jun2024 01:33:02.982] [main/ERROR] [mixin/]: Mixin config drippyloadingscreen.mixin.json does not specify "minVersion" property
+[18Jun2024 01:33:02.996] [main/ERROR] [mixin/]: Mixin config illagers_plus.mixin.json does not specify "minVersion" property

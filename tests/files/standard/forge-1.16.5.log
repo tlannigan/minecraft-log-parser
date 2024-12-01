@@ -1,0 +1,44 @@
+[17:45:05] [main/INFO]: ModLauncher running: args [--username, Tirsty_, --version, forge-36.2.42, --gameDir, C:\Users\tlannigan\curseforge\minecraft\Instances\1.16.5, --assetsDir, C:\Users\tlannigan\curseforge\minecraft\Install\assets, --assetIndex, 1.16, --uuid, ca3b0aa1677e495fa6db96b61b1217b2, --accessToken, ????????, --userType, msa, --versionType, release, --width, 2560, --height, 1440, --launchTarget, fmlclient, --fml.forgeVersion, 36.2.42, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210115.111550]
+[17:45:05] [main/INFO]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 1.8.0_51 by Oracle Corporation
+[17:45:05] [main/WARN]: LEGACY JDK DETECTED, SECURED JAR HANDLING DISABLED
+[17:45:05] [main/INFO]: Added Lets Encrypt root certificates as additional trust
+[17:45:05] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/C:/Users/tlannigan/curseforge/minecraft/Install/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=CLIENT
+[17:45:05] [main/WARN]: Configuration file C:\Users\tlannigan\curseforge\minecraft\Instances\1.16.5\config\fml.toml is not correct. Correcting
+[17:45:05] [main/WARN]: Incorrect key [defaultConfigPath] was corrected from null to defaultconfigs
+[17:45:08] [main/INFO]: Launching target 'fmlclient' with arguments [--version, forge-36.2.42, --gameDir, C:\Users\tlannigan\curseforge\minecraft\Instances\1.16.5, --assetsDir, C:\Users\tlannigan\curseforge\minecraft\Install\assets, --uuid, ca3b0aa1677e495fa6db96b61b1217b2, --username, Tirsty_, --assetIndex, 1.16, --accessToken, ????????, --userType, msa, --versionType, release, --width, 2560, --height, 1440]
+[17:45:15] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:45:16] [main/INFO]: Setting user: Tirsty_
+[17:45:16] [main/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[17:45:17] [modloading-worker-3/INFO]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[17:45:17] [modloading-worker-3/INFO]: MinecraftForge v36.2.42 Initialized
+[17:45:19] [main/INFO]: Narrator library for x64 successfully loaded
+[17:45:19] [main/INFO]: Reloading ResourceManager: Default, Mod Resources
+[17:45:19] [modloading-worker-1/WARN]: Configuration file C:\Users\tlannigan\curseforge\minecraft\Instances\1.16.5\config\forge-client.toml is not correct. Correcting
+[17:45:19] [modloading-worker-1/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:45:19] [modloading-worker-1/WARN]: Incorrect key client.zoomInMissingModelTextInGui was corrected from null to its default, false. 
+[17:45:19] [modloading-worker-1/WARN]: Incorrect key client.forgeCloudsEnabled was corrected from null to its default, true. 
+[17:45:19] [modloading-worker-1/WARN]: Incorrect key client.disableStairSlabCulling was corrected from null to its default, false. 
+[17:45:19] [modloading-worker-1/WARN]: Incorrect key client.alwaysSetupTerrainOffThread was corrected from null to its default, false. 
+[17:45:19] [modloading-worker-1/WARN]: Incorrect key client.forgeLightPipelineEnabled was corrected from null to its default, true. 
+[17:45:19] [modloading-worker-1/WARN]: Incorrect key client.experimentalForgeLightPipelineEnabled was corrected from null to its default, false. 
+[17:45:19] [modloading-worker-1/WARN]: Incorrect key client.selectiveResourceReloadEnabled was corrected from null to its default, true. 
+[17:45:19] [modloading-worker-1/WARN]: Incorrect key client.showLoadWarnings was corrected from null to its default, true. 
+[17:45:19] [modloading-worker-1/WARN]: Incorrect key client.useCombinedDepthStencilAttachment was corrected from null to its default, false. 
+[17:45:19] [modloading-worker-1/WARN]: Configuration file C:\Users\tlannigan\curseforge\minecraft\Instances\1.16.5\config\forge-common.toml is not correct. Correcting
+[17:45:19] [modloading-worker-1/WARN]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:45:19] [modloading-worker-1/WARN]: Incorrect key general.defaultWorldType was corrected from null to its default, default. 
+[17:45:19] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[17:45:20] [Forge Version Check/INFO]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[17:45:24] [main/INFO]: OpenAL initialized.
+[17:45:24] [main/INFO]: Sound engine started
+[17:45:24] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[17:45:24] [main/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[17:45:24] [main/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[17:45:24] [main/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[17:45:24] [main/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[17:45:24] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[17:45:24] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[17:45:25] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[17:45:25] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[17:45:25] [main/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[17:45:35] [main/INFO]: Stopping!

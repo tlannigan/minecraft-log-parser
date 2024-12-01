@@ -1,0 +1,186 @@
+[29May2024 12:50:50.535] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, Glitchy_File, --version, 1.18.2, --gameDir, C:\Users\autoc\AppData\Roaming\com.modrinth.theseus\profiles\Create War (1), --assetsDir, C:\Users\autoc\AppData\Roaming\com.modrinth.theseus\meta\assets, --assetIndex, 1.18, --uuid, 3d7d179e42d342fea3a972cb8c5012a4, --accessToken, ????????, --clientId, c4502edb-87c6-40cb-b595-64a280cf8906, --xuid, 0, --userType, msa, --versionType, release, --width, 854, --height, 480, --launchTarget, forgeclient, --fml.forgeVersion, 40.2.14, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
+[29May2024 12:50:50.542] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.8.1 by Azul Systems, Inc.
+[29May2024 12:50:51.400] [main/INFO] [gg.essential.loader.stage1.EssentialLoaderBase/]: Starting Essential Loader (stage2) version 1.6.2 (285f951adc7537f49ae3ef9fc0d2fd3e) [stable]
+[29May2024 12:50:51.491] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/autoc/AppData/Roaming/com.modrinth.theseus/meta/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2324!/ Service=ModLauncher Env=CLIENT
+[29May2024 12:50:53.142] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\autoc\AppData\Roaming\com.modrinth.theseus\meta\libraries\net\minecraftforge\fmlcore\1.18.2-40.2.14\fmlcore-1.18.2-40.2.14.jar is missing mods.toml file
+[29May2024 12:50:53.147] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\autoc\AppData\Roaming\com.modrinth.theseus\meta\libraries\net\minecraftforge\javafmllanguage\1.18.2-40.2.14\javafmllanguage-1.18.2-40.2.14.jar is missing mods.toml file
+[29May2024 12:50:53.151] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\autoc\AppData\Roaming\com.modrinth.theseus\meta\libraries\net\minecraftforge\lowcodelanguage\1.18.2-40.2.14\lowcodelanguage-1.18.2-40.2.14.jar is missing mods.toml file
+[29May2024 12:50:53.156] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\autoc\AppData\Roaming\com.modrinth.theseus\meta\libraries\net\minecraftforge\mclanguage\1.18.2-40.2.14\mclanguage-1.18.2-40.2.14.jar is missing mods.toml file
+[29May2024 12:50:53.993] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[29May2024 12:50:53.995] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: architectury. Using Mod File: C:\Users\autoc\AppData\Roaming\com.modrinth.theseus\profiles\Create War (1)\mods\architectury-4.12.94-forge.jar
+[29May2024 12:50:53.996] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: cloth_config. Using Mod File: C:\Users\autoc\AppData\Roaming\com.modrinth.theseus\profiles\Create War (1)\mods\cloth-config-6.5.102-forge.jar
+[29May2024 12:50:53.996] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 34 dependencies adding them to mods collection
+[29May2024 12:50:54.095] [main/INFO] [gg.essential.loader.stage2.util.KFFMerger/]: Found Kotlin-containing mod Jar[union:/C:/Users/autoc/AppData/Roaming/com.modrinth.theseus/profiles/Create%20War%20(1)/essential/libraries/forge_1.18.2/kotlin-for-forge-3.6.0-slim.jar%2364!/], checking whether we need to upgrade it..
+[29May2024 12:50:54.100] [main/INFO] [gg.essential.loader.stage2.util.KFFMerger/]: Found outdated Kotlin core libs 0.0.0 (we ship 1.9.23)
+[29May2024 12:50:54.100] [main/INFO] [gg.essential.loader.stage2.util.KFFMerger/]: Found outdated Kotlin Coroutines libs 0.0.0 (we ship 1.8.0)
+[29May2024 12:50:54.100] [main/INFO] [gg.essential.loader.stage2.util.KFFMerger/]: Found outdated Kotlin Serialization libs 0.0.0 (we ship 1.6.3)
+[29May2024 12:50:54.102] [main/INFO] [gg.essential.loader.stage2.util.KFFMerger/]: Generating jar with updated Kotlin at C:\Users\autoc\AppData\Local\Temp\kff-updated-kotlin-6635363868442823950-3.6.0-slim.jar
+[29May2024 12:50:55.025] [main/INFO] [gg.essential.loader.stage2.util.KFFMerger/]: Found Kotlin-containing mod Jar[union:/C:/Users/autoc/AppData/Roaming/com.modrinth.theseus/profiles/Create%20War%20(1)/mods/kotlinforforge-3.12.0-all.jar%23163!/], checking whether we need to upgrade it..
+[29May2024 12:50:55.032] [main/INFO] [gg.essential.loader.stage2.util.KFFMerger/]: Found outdated Kotlin core libs 1.8.21 (we ship 1.9.23)
+[29May2024 12:50:55.032] [main/INFO] [gg.essential.loader.stage2.util.KFFMerger/]: Found outdated Kotlin Coroutines libs 1.6.4 (we ship 1.8.0)
+[29May2024 12:50:55.032] [main/INFO] [gg.essential.loader.stage2.util.KFFMerger/]: Found outdated Kotlin Serialization libs 0.0.0 (we ship 1.6.3)
+[29May2024 12:50:55.034] [main/INFO] [gg.essential.loader.stage2.util.KFFMerger/]: Generating jar with updated Kotlin at C:\Users\autoc\AppData\Local\Temp\kff-updated-kotlin-17223415801680637575-3.12.0-all.jar
+[29May2024 12:51:03.602] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[29May2024 12:51:03.982] [main/ERROR] [mixin/]: Mixin config mixins.mocap.json does not specify "minVersion" property
+[29May2024 12:51:04.169] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, 1.18.2, --gameDir, C:\Users\autoc\AppData\Roaming\com.modrinth.theseus\profiles\Create War (1), --assetsDir, C:\Users\autoc\AppData\Roaming\com.modrinth.theseus\meta\assets, --uuid, 3d7d179e42d342fea3a972cb8c5012a4, --username, Glitchy_File, --assetIndex, 1.18, --accessToken, ????????, --clientId, c4502edb-87c6-40cb-b595-64a280cf8906, --xuid, 0, --userType, msa, --versionType, release, --width, 854, --height, 480]
+[29May2024 12:51:04.220] [main/WARN] [mixin/]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
+[29May2024 12:51:04.228] [main/WARN] [mixin/]: Reference map 'ritchiesprojectilelib-forge-refmap.json' for ritchiesprojectilelib-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[29May2024 12:51:04.305] [main/WARN] [mixin/]: Reference map 'interiors-forge-refmap.json' for interiors.mixins.json could not be read. If this is a development environment you can ignore this message
+[29May2024 12:51:04.384] [main/INFO] [Rubidium/]: Trying to switch memory allocators to work around memory leaks present with Jemalloc 5.0.0 through 5.2.0 on Windows
+[29May2024 12:51:04.403] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 194 options available, 1 override(s) found
+[29May2024 12:51:04.524] [main/WARN] [mixin/]: Reference map 'createframed.refmap.json' for createframed.mixins.json could not be read. If this is a development environment you can ignore this message
+[29May2024 12:51:04.621] [main/WARN] [mixin/]: Reference map 'createrailwaysnavigator-forge-refmap.json' for createrailwaysnavigator.mixins.json could not be read. If this is a development environment you can ignore this message
+[29May2024 12:51:04.636] [main/WARN] [mixin/]: Reference map 'create_crystal_clear.refmap.json' for create_crystal_clear.mixins.json could not be read. If this is a development environment you can ignore this message
+[29May2024 12:51:04.655] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
+[29May2024 12:51:04.700] [main/WARN] [mixin/]: Reference map 'tfmg.refmap.json' for design_decor.mixins.json could not be read. If this is a development environment you can ignore this message
+[29May2024 12:51:04.744] [main/WARN] [mixin/]: Reference map 'bloodmagic.refmap.json' for bloodmagic.mixins.json could not be read. If this is a development environment you can ignore this message
+[29May2024 12:51:04.752] [main/WARN] [mixin/]: Reference map 'dragonlib-forge-refmap.json' for dragonlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[29May2024 12:51:04.758] [main/WARN] [mixin/]: Reference map 'simplyswords-common-refmap.json' for simplyswords-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[29May2024 12:51:04.761] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[29May2024 12:51:04.910] [main/WARN] [mixin/]: Reference map 'bloodsmeltery.refmap.json' for bloodsmeltery.mixin.json could not be read. If this is a development environment you can ignore this message
+[29May2024 12:51:04.934] [main/WARN] [mixin/]: Reference map 'cristellib-common-refmap.json' for cristellib-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[29May2024 12:51:04.936] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[29May2024 12:51:04.977] [main/INFO] [Essential Logger - Plugin/]: Starting Essential v1.3.2.5 (#e4fdbcd438) [stable]
+[29May2024 12:51:05.054] [main/ERROR] [mixin/]: Error loading companion plugin class [gg.essential.mixins.InitPlugin] for mixin config [mixins.essential.init.json]. The plugin may be out of date: ClassNotFoundException:gg.essential.mixins.InitPlugin
+java.lang.ClassNotFoundException: gg.essential.mixins.InitPlugin
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-1.0.8.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Unknown Source) ~[?:?]
+	at org.spongepowered.asm.service.modlauncher.ModLauncherClassProvider.findClass(ModLauncherClassProvider.java:76) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.PluginHandle.<init>(PluginHandle.java:96) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.onSelect(MixinConfig.java:706) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.selectConfigs(MixinProcessor.java:498) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.select(MixinProcessor.java:460) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.checkSelect(MixinProcessor.java:438) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:290) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:250) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.service.modlauncher.MixinTransformationHandler.processClass(MixinTransformationHandler.java:131) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.processClass(MixinLaunchPluginLegacy.java:131) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at cpw.mods.modlauncher.serviceapi.ILaunchPluginService.processClassWithFlags(ILaunchPluginService.java:156) ~[modlauncher-9.1.3.jar:9.1.3+9.1.3+main.9b69c82a]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-9.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-9.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-9.1.3.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-1.0.8.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:?]
+	at java.lang.Class.forName(Unknown Source) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:31) ~[fmlloader-1.18.2-40.2.14.jar%2321!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-9.1.3.jar%238!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-9.1.3.jar%238!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-9.1.3.jar%238!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-9.1.3.jar%238!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.1.3.jar%238!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.1.3.jar%238!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.1.3.jar%238!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149) [bootstraplauncher-1.0.0.jar:?]
+[29May2024 12:51:06.310] [main/WARN] [mixin/]: Error loading class: com/copycatsplus/copycats/content/copycat/slab/CopycatSlabBlock (java.lang.ClassNotFoundException: com.copycatsplus.copycats.content.copycat.slab.CopycatSlabBlock)
+[29May2024 12:51:06.311] [main/WARN] [mixin/]: @Mixin target com.copycatsplus.copycats.content.copycat.slab.CopycatSlabBlock was not found create_connected.mixins.json:compat.CopycatBlockMixin
+[29May2024 12:51:06.314] [main/WARN] [mixin/]: Error loading class: com/copycatsplus/copycats/content/copycat/board/CopycatBoardBlock (java.lang.ClassNotFoundException: com.copycatsplus.copycats.content.copycat.board.CopycatBoardBlock)
+[29May2024 12:51:06.314] [main/WARN] [mixin/]: @Mixin target com.copycatsplus.copycats.content.copycat.board.CopycatBoardBlock was not found create_connected.mixins.json:compat.CopycatBlockMixin
+[29May2024 12:51:06.342] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
+[29May2024 12:51:06.684] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/world/biome/BlockColorCache (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.world.biome.BlockColorCache)
+[29May2024 12:51:06.685] [main/WARN] [mixin/]: @Mixin target me.jellysquid.mods.sodium.client.world.biome.BlockColorCache was not found betterbiomeblend.mixins.json:MixinBlockColorCache
+[29May2024 12:51:06.899] [main/WARN] [mixin/]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipeEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipeEventJS)
+[29May2024 12:51:06.899] [main/WARN] [mixin/]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipeEventJS was not found sliceanddice.mixins.json:RecipeEventJSMixin
+[29May2024 12:51:07.124] [main/INFO] [terralith/]: No config file detected. Creating one...
+[29May2024 12:51:07.134] [main/INFO] [terralith/]: Loading config for 'terrablender_compatibility': TRUE
+[29May2024 12:51:07.137] [main/INFO] [terralith/]: No config file detected. Creating one...
+[29May2024 12:51:07.140] [main/INFO] [terralith/]: Loading config for 'cursed_skylands': NONE
+[29May2024 12:51:07.830] [main/WARN] [mixin/]: Error loading class: dev/ftb/mods/ftbchunks/data/ClaimedChunkManager (java.lang.ClassNotFoundException: dev.ftb.mods.ftbchunks.data.ClaimedChunkManager)
+[29May2024 12:51:07.834] [main/WARN] [mixin/]: Error loading class: com/jamieswhiteshirt/reachentityattributes/ReachEntityAttributes (java.lang.ClassNotFoundException: com.jamieswhiteshirt.reachentityattributes.ReachEntityAttributes)
+[29May2024 12:51:07.922] [main/WARN] [mixin/]: Error loading class: com/sonicether/soundphysics/SoundPhysics (java.lang.ClassNotFoundException: com.sonicether.soundphysics.SoundPhysics)
+[29May2024 12:51:07.942] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/peripheral/speaker/SpeakerPosition (java.lang.ClassNotFoundException: dan200.computercraft.shared.peripheral.speaker.SpeakerPosition)
+[29May2024 12:51:07.947] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/turtle/core/TurtleBrain (java.lang.ClassNotFoundException: dan200.computercraft.shared.turtle.core.TurtleBrain)
+[29May2024 12:51:07.950] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/turtle/core/TurtleMoveCommand (java.lang.ClassNotFoundException: dan200.computercraft.shared.turtle.core.TurtleMoveCommand)
+[29May2024 12:51:07.958] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/peripheral/modem/wireless/WirelessNetwork (java.lang.ClassNotFoundException: dan200.computercraft.shared.peripheral.modem.wireless.WirelessNetwork)
+[29May2024 12:51:07.966] [main/WARN] [mixin/]: Error loading class: net/dries007/tfc/world/TFCChunkGenerator (java.lang.ClassNotFoundException: net.dries007.tfc.world.TFCChunkGenerator)
+[29May2024 12:51:07.970] [main/WARN] [mixin/]: Error loading class: cofh/core/block/entity/TileCoFH (java.lang.ClassNotFoundException: cofh.core.block.entity.TileCoFH)
+[29May2024 12:51:07.973] [main/WARN] [mixin/]: Error loading class: li/cil/tis3d/common/entity/InfraredPacketEntity (java.lang.ClassNotFoundException: li.cil.tis3d.common.entity.InfraredPacketEntity)
+[29May2024 12:51:07.977] [main/WARN] [mixin/]: Error loading class: me/desht/modularrouters/container/ContainerModularRouter (java.lang.ClassNotFoundException: me.desht.modularrouters.container.ContainerModularRouter)
+[29May2024 12:51:07.986] [main/WARN] [mixin/]: Error loading class: li/cil/tis3d/client/renderer/tileentity/CasingTileEntityRenderer (java.lang.ClassNotFoundException: li.cil.tis3d.client.renderer.tileentity.CasingTileEntityRenderer)
+[29May2024 12:51:07.988] [main/WARN] [mixin/]: Error loading class: li/cil/tis3d/client/renderer/RenderContextImpl (java.lang.ClassNotFoundException: li.cil.tis3d.client.renderer.RenderContextImpl)
+[29May2024 12:51:08.205] [main/WARN] [mixin/]: Error loading class: com/brewinandchewin/common/block/entity/KegBlockEntity (java.lang.ClassNotFoundException: com.brewinandchewin.common.block.entity.KegBlockEntity)
+[29May2024 12:51:08.205] [main/WARN] [mixin/]: @Mixin target com.brewinandchewin.common.block.entity.KegBlockEntity was not found create_central_kitchen.mixins.json:common.brewinandchewin.KegBlockEntityMixin
+[29May2024 12:51:08.281] [main/WARN] [mixin/]: Error loading class: com/farmersrespite/common/block/CoffeeBushBlock (java.lang.ClassNotFoundException: com.farmersrespite.common.block.CoffeeBushBlock)
+[29May2024 12:51:08.281] [main/WARN] [mixin/]: @Mixin target com.farmersrespite.common.block.CoffeeBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeBushBlockMixin
+[29May2024 12:51:08.285] [main/WARN] [mixin/]: Error loading class: com/farmersrespite/common/block/CoffeeBushTopBlock (java.lang.ClassNotFoundException: com.farmersrespite.common.block.CoffeeBushTopBlock)
+[29May2024 12:51:08.285] [main/WARN] [mixin/]: @Mixin target com.farmersrespite.common.block.CoffeeBushTopBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeBushTopBlockMixin
+[29May2024 12:51:08.289] [main/WARN] [mixin/]: Error loading class: com/farmersrespite/common/block/CoffeeDoubleStemBlock (java.lang.ClassNotFoundException: com.farmersrespite.common.block.CoffeeDoubleStemBlock)
+[29May2024 12:51:08.289] [main/WARN] [mixin/]: @Mixin target com.farmersrespite.common.block.CoffeeDoubleStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeDoubleStemBlockMixin
+[29May2024 12:51:08.292] [main/WARN] [mixin/]: Error loading class: com/farmersrespite/common/block/CoffeeMiddleStemBlock (java.lang.ClassNotFoundException: com.farmersrespite.common.block.CoffeeMiddleStemBlock)
+[29May2024 12:51:08.293] [main/WARN] [mixin/]: @Mixin target com.farmersrespite.common.block.CoffeeMiddleStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeMiddleStemBlockMixin
+[29May2024 12:51:08.296] [main/WARN] [mixin/]: Error loading class: com/farmersrespite/common/block/CoffeeStemBlock (java.lang.ClassNotFoundException: com.farmersrespite.common.block.CoffeeStemBlock)
+[29May2024 12:51:08.297] [main/WARN] [mixin/]: @Mixin target com.farmersrespite.common.block.CoffeeStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeStemBlockMixin
+[29May2024 12:51:08.300] [main/WARN] [mixin/]: Error loading class: com/farmersrespite/common/block/entity/KettleBlockEntity (java.lang.ClassNotFoundException: com.farmersrespite.common.block.entity.KettleBlockEntity)
+[29May2024 12:51:08.300] [main/WARN] [mixin/]: @Mixin target com.farmersrespite.common.block.entity.KettleBlockEntity was not found create_central_kitchen.mixins.json:common.farmersrespite.KettleBlockEntityMixin
+[29May2024 12:51:08.304] [main/WARN] [mixin/]: Error loading class: com/farmersrespite/common/block/SmallTeaBushBlock (java.lang.ClassNotFoundException: com.farmersrespite.common.block.SmallTeaBushBlock)
+[29May2024 12:51:08.304] [main/WARN] [mixin/]: @Mixin target com.farmersrespite.common.block.SmallTeaBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.SmallTeaBushBlockMixin
+[29May2024 12:51:08.307] [main/WARN] [mixin/]: Error loading class: com/farmersrespite/common/block/TeaBushBlock (java.lang.ClassNotFoundException: com.farmersrespite.common.block.TeaBushBlock)
+[29May2024 12:51:08.307] [main/WARN] [mixin/]: @Mixin target com.farmersrespite.common.block.TeaBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.TeaBushBlockMixin
+[29May2024 12:51:08.310] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/copper_pot/CopperPotBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity)
+[29May2024 12:51:08.310] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.CopperPotBlockEntityMixin
+[29May2024 12:51:08.314] [main/WARN] [mixin/]: Error loading class: com/teamabnormals/neapolitan/common/item/DrinkItem (java.lang.ClassNotFoundException: com.teamabnormals.neapolitan.common.item.DrinkItem)
+[29May2024 12:51:08.314] [main/WARN] [mixin/]: @Mixin target com.teamabnormals.neapolitan.common.item.DrinkItem was not found create_central_kitchen.mixins.json:common.neapolitan.DrinkItemMixin
+[29May2024 12:51:08.317] [main/WARN] [mixin/]: Error loading class: net/orcinus/overweightfarming/blocks/CropFullBlock (java.lang.ClassNotFoundException: net.orcinus.overweightfarming.blocks.CropFullBlock)
+[29May2024 12:51:08.318] [main/WARN] [mixin/]: @Mixin target net.orcinus.overweightfarming.blocks.CropFullBlock was not found create_central_kitchen.mixins.json:common.overweightfarming.CropFullBlockMixin
+[29May2024 12:51:08.483] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.sky.MixinWorldRenderer' as rule 'mixin.features.sky' (added by mods [oculus]) disables it and children
+[29May2024 12:51:08.855] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[29May2024 12:51:08.857] [main/WARN] [MixinExtras|Service/]: Found problematic active MixinExtras instance at llamalad7.mixinextras (version 0.2.0-beta.1)
+[29May2024 12:51:08.857] [main/WARN] [MixinExtras|Service/]: Versions from 0.2.0-beta.1 to 0.2.0-beta.9 have limited support and it is strongly recommended to update.
+[29May2024 12:51:10.410] [main/INFO] [mixin/]: Instancing error handler class org.valkyrienskies.mod.mixin.ValkyrienMixinErrorHandler
+[29May2024 12:51:10.411] [main/FATAL] [mixin/]: Mixin apply failed shulkerboxtooltip-common.mixins.json:client.ScreenMixin -> net.minecraft.client.gui.screens.Screen: org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException @ModifyArg annotation on updateTooltipLeftAndBottomPos specifies a target class 'net/minecraft/client/gui/screen/Screen', which is not supported [PREINJECT Applicator Phase -> shulkerboxtooltip-common.mixins.json:client.ScreenMixin -> Prepare Injections ->  -> modify$bng000$updateTooltipLeftAndBottomPos(Lcom/mojang/math/Matrix4f;Lcom/mojang/blaze3d/vertex/BufferBuilder;IIIIIII)I -> Parse]
+org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @ModifyArg annotation on updateTooltipLeftAndBottomPos specifies a target class 'net/minecraft/client/gui/screen/Screen', which is not supported [PREINJECT Applicator Phase -> shulkerboxtooltip-common.mixins.json:client.ScreenMixin -> Prepare Injections ->  -> modify$bng000$updateTooltipLeftAndBottomPos(Lcom/mojang/math/Matrix4f;Lcom/mojang/blaze3d/vertex/BufferBuilder;IIIIIII)I -> Parse]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.parseSelectors(InjectionInfo.java:355) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.readAnnotation(InjectionInfo.java:329) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.<init>(InjectionInfo.java:316) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.<init>(InjectionInfo.java:308) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.injection.struct.ModifyArgInjectionInfo.<init>(ModifyArgInjectionInfo.java:45) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Unknown Source) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:?]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo$InjectorEntry.create(InjectionInfo.java:149) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.parse(InjectionInfo.java:708) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.prepareInjections(MixinTargetContext.java:1311) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.prepareInjections(MixinApplicatorStandard.java:1042) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:393) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:325) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:383) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:365) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:250) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.service.modlauncher.MixinTransformationHandler.processClass(MixinTransformationHandler.java:131) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.processClass(MixinLaunchPluginLegacy.java:131) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at cpw.mods.modlauncher.serviceapi.ILaunchPluginService.processClassWithFlags(ILaunchPluginService.java:156) ~[modlauncher-9.1.3.jar:9.1.3+9.1.3+main.9b69c82a]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-9.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-9.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-9.1.3.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-1.0.8.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-1.0.8.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:?]
+	at vazkii.patchouli.client.handler.BookCrashHandler.appendToCrashReport(BookCrashHandler.java:23) ~[Patchouli-1.18.2-71.1.jar%23184!/:1.18.2-71.1]
+	at net.minecraft.SystemReport.handler$bco000$patchouli_addContext(SystemReport.java:516) ~[client-1.18.2-20220404.173914-srg.jar%23219!/:?]
+	at net.minecraft.SystemReport.<init>(SystemReport.java:57) ~[client-1.18.2-20220404.173914-srg.jar%23219!/:?]
+	at net.minecraft.CrashReport.<init>(CrashReport.java:29) ~[client-1.18.2-20220404.173914-srg.jar%23219!/:?]
+	at net.minecraft.CrashReport.m_127529_(CrashReport.java:214) ~[client-1.18.2-20220404.173914-srg.jar%23219!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:137) ~[client-1.18.2-20220404.173914-srg.jar%23219!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:31) ~[fmlloader-1.18.2-40.2.14.jar%2321!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-9.1.3.jar%238!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-9.1.3.jar%238!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-9.1.3.jar%238!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-9.1.3.jar%238!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.1.3.jar%238!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.1.3.jar%238!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.1.3.jar%238!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149) [bootstraplauncher-1.0.0.jar:?]

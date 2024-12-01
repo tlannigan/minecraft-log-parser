@@ -1,0 +1,422 @@
+2024-07-07 21:17:16,553 main WARN Advanced terminal features are not available in this environment
+[21:17:16] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.3.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[21:17:16] [main/INFO] [cp.mo.mo.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 22.0.1 by Oracle Corporation; OS Windows 10 arch amd64 version 10.0
+[21:17:18] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/DiscordUltimateServer/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[21:17:19] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\DiscordUltimateServer\libraries\net\minecraftforge\fmlcore\1.19.2-43.3.0\fmlcore-1.19.2-43.3.0.jar is missing mods.toml file
+[21:17:19] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\DiscordUltimateServer\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.3.0\javafmllanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[21:17:19] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\DiscordUltimateServer\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.3.0\lowcodelanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[21:17:19] [main/WARN] [ne.mi.fm.lo.mo.ModFileParser/LOADING]: Mod file C:\DiscordUltimateServer\libraries\net\minecraftforge\mclanguage\1.19.2-43.3.0\mclanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[21:17:20] [main/WARN] [ne.mi.ja.se.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File:
+[21:17:20] [main/WARN] [ne.mi.ja.se.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: C:\DiscordUltimateServer\mods\curios-forge-1.19.2-5.1.6.2.jar
+[21:17:20] [main/WARN] [ne.mi.ja.se.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: cloth_config. Using Mod File: C:\DiscordUltimateServer\mods\cloth-config-8.3.115-forge.jar
+[21:17:20] [main/INFO] [ne.mi.fm.lo.mo.JarInJarDependencyLocator/]: Found 42 dependencies adding them to mods collection
+[21:17:24] [main/ERROR] [mixin/]: Mixin config dynamiclightsreforged.mixins.json does not specify "minVersion" property
+[21:17:24] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[21:17:25] [main/ERROR] [mixin/]: Mixin config productivevillagers-common.mixins.json does not specify "minVersion" property
+[21:17:25] [main/ERROR] [mixin/]: Mixin config productivevillagers.mixins.json does not specify "minVersion" property
+[21:17:25] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[21:17:25] [main/INFO] [cp.mo.mo.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[21:17:25] [main/INFO] [co.ab.sa.co.Saturn/]: Loaded Saturn config file with 4 configurable options
+[21:17:25] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.0+mc1.19.2: 87 options available, 1 override(s) found
+[21:17:25] [main/WARN] [ModernFix/]: Option 'mixin.bugfix.item_cache_flag' overriden (by mods [canary]) to 'false'
+[21:17:25] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[21:17:25] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[21:17:25] [main/WARN] [mixin/]: Reference map 'vinery-forge-refmap.json' for vinery.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:17:25] [main/WARN] [mixin/]: Reference map 'spelunkery-forge-refmap.json' for spelunkery.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:17:25] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 226 options available, 0 override(s) found
+[21:17:25] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:17:25] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:17:25] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:17:25] [main/WARN] [mixin/]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:17:25] [main/WARN] [mixin/]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:17:25] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for corgilib.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:17:25] [main/WARN] [mixin/]: Reference map 'ambientadditions.refmap.json' for ambientadditions.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:17:25] [main/INFO] [Canary/]: Loaded configuration file for Canary: 117 options available, 0 override(s) found
+[21:17:25] [main/WARN] [mixin/]: Reference map 'crab.mixins.refmap.json' for crab.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:17:25] [main/WARN] [mixin/]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:17:25] [main/WARN] [mixin/]: Reference map 'candlelight-forge-refmap.json' for candlelight.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:17:25] [main/WARN] [mixin/]: Reference map 'eureka-1192-forge-refmap.json' for vs_eureka.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:17:25] [main/WARN] [mixin/]: Reference map 'cobweb.refmap.json' for cobweb.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:17:25] [main/WARN] [mixin/]: Reference map 'cobweb.refmap.json' for cobweb.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:17:25] [main/WARN] [mixin/]: Reference map 'Bakery-forge-refmap.json' for bakery.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:17:25] [main/WARN] [mixin/]: Reference map 'beachparty-forge-refmap.json' for beachparty.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:17:25] [main/WARN] [mixin/]: Reference map 'mixins.wares.refmap.json' for mixins.wares.json could not be read. If this is a development environment you can ignore this message
+[21:17:25] [main/WARN] [mixin/]: Reference map 'productivevillagers-forge-refmap.json' for productivevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:17:25] [main/WARN] [mixin/]: Reference map 'interiors-forge-refmap.json' for interiors.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:17:25] [main/WARN] [mixin/]: Reference map 'meadow-forge-refmap.json' for meadow.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:17:25] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:17:25] [main/WARN] [mixin/]: Reference map 'chiselsandbits.refmap.json' for chisels-and-bits.mixins.json could not be read. If this is a development environment you can ignore this message
+[Serene Seasons Transformer]: Transforming m_47480_ (Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;Z)Z in net/minecraft/world/level/biome/Biome
+[Serene Seasons Transformer]: Patched 1 calls
+[Serene Seasons Transformer]: Transforming m_47519_ (Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z in net/minecraft/world/level/biome/Biome
+[Serene Seasons Transformer]: Successfully patched shouldSnow
+[21:17:26] [main/INFO] [ne.mi.co.Co.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[21:17:26] [main/INFO] [ne.mi.co.Co.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:17:26] [main/WARN] [mixin/]: Error loading class: net/minecraft/server/level/ServerLevel (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:26] [main/WARN] [mixin/]: @Mixin target net.minecraft.server.level.ServerLevel was not found kubejs-common.mixins.json:ServerLevelMixin
+[21:17:26] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/IronGolemModel (java.lang.ClassNotFoundException: net.minecraft.client.model.IronGolemModel)
+[21:17:26] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.IronGolemModel was not found strawgolem.mixins.json:IronGolemModelMixin
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:17:26] [main/WARN] [mixin/]: Error loading class: net/minecraft/server/level/ServerLevel (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:26] [main/WARN] [mixin/]: @Mixin target net.minecraft.server.level.ServerLevel was not found strawgolem.mixins.json:LoginMixin
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:17:26] [main/WARN] [mixin/]: Error loading class: net/minecraft/server/level/ServerLevel (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:26] [main/WARN] [mixin/]: @Mixin target net.minecraft.server.level.ServerLevel was not found modernfix-common.mixins.json:bugfix.chunk_deadlock.ServerLevelMixin
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:17:26] [main/WARN] [mixin/]: Error loading class: net/minecraft/server/level/ServerLevel (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:26] [main/WARN] [mixin/]: @Mixin target net.minecraft.server.level.ServerLevel was not found modernfix-common.mixins.json:perf.cache_strongholds.ServerLevelMixin
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:17:26] [main/WARN] [mixin/]: Error loading class: net/minecraft/server/level/ServerLevel (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:26] [main/WARN] [mixin/]: @Mixin target net.minecraft.server.level.ServerLevel was not found snowrealmagic.mixins.json:ServerLevelMixin
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:17:26] [main/WARN] [mixin/]: Error loading class: net/minecraft/server/level/ServerLevel (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:26] [main/WARN] [mixin/]: @Mixin target net.minecraft.server.level.ServerLevel was not found supplementaries-common.mixins.json:ServerLevelMixin
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:17:27] [main/WARN] [mixin/]: Error loading class: net/minecraft/server/level/ServerLevel (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:27] [main/WARN] [mixin/]: @Mixin target net.minecraft.server.level.ServerLevel was not found betterendisland.mixins.json:EndergeticExpansionMixins
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:17:27] [main/WARN] [mixin/]: Error loading class: net/minecraft/server/level/ServerLevel (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:27] [main/WARN] [mixin/]: @Mixin target net.minecraft.server.level.ServerLevel was not found betterendisland.mixins.json:ServerLevelMixin
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:17:27] [main/WARN] [mixin/]: Error loading class: net/minecraft/server/level/ServerLevel (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:27] [main/WARN] [mixin/]: @Mixin target net.minecraft.server.level.ServerLevel was not found immersive_weathering-common.mixins.json:ServerLevelMixin
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:17:27] [main/WARN] [mixin/]: Error loading class: net/minecraft/server/level/ServerLevel (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:27] [main/WARN] [mixin/]: @Mixin target net.minecraft.server.level.ServerLevel was not found neruina.mixins.json:catchers.ServerWorldMixin
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:17:27] [main/WARN] [mixin/]: Error loading class: net/minecraft/server/level/ServerLevel (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:27] [main/WARN] [mixin/]: @Mixin target net.minecraft.server.level.ServerLevel was not found corgilib.mixins.json:MixinServerLevel
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:17:27] [main/WARN] [mixin/]: Error loading class: net/minecraft/server/level/ServerLevel (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:27] [main/WARN] [mixin/]: @Mixin target net.minecraft.server.level.ServerLevel was not found canary.mixins.json:alloc.chunk_random.ServerLevelMixin
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:17:27] [main/WARN] [mixin/]: Error loading class: net/minecraft/server/level/ServerLevel (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:27] [main/WARN] [mixin/]: @Mixin target net.minecraft.server.level.ServerLevel was not found canary.mixins.json:chunk.replace_streams.ServerLevelMixin
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:17:27] [main/WARN] [mixin/]: Error loading class: net/minecraft/server/level/ServerLevel (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:27] [main/WARN] [mixin/]: @Mixin target net.minecraft.server.level.ServerLevel was not found canary.mixins.json:entity.inactive_navigations.ServerLevelMixin
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:17:27] [main/WARN] [mixin/]: Error loading class: net/minecraft/server/level/ServerLevel (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:27] [main/WARN] [mixin/]: @Mixin target net.minecraft.server.level.ServerLevel was not found canary.mixins.json:profiler.ServerLevelMixin
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:17:27] [main/WARN] [mixin/]: Error loading class: net/minecraft/server/level/ServerLevel (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:27] [main/WARN] [mixin/]: @Mixin target net.minecraft.server.level.ServerLevel was not found canary.mixins.json:util.accessors.ServerLevelAccessor
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:17:27] [main/WARN] [mixin/]: Error loading class: net/minecraft/server/level/ServerLevel (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:27] [main/WARN] [mixin/]: @Mixin target net.minecraft.server.level.ServerLevel was not found canary.mixins.json:world.block_entity_ticking.sleeping.ServerLevelMixin
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:17:27] [main/WARN] [mixin/]: Error loading class: net/minecraft/server/level/ServerLevel (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:27] [main/WARN] [mixin/]: @Mixin target net.minecraft.server.level.ServerLevel was not found byg.mixins.json:common.world.MixinServerLevel
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:17:27] [main/WARN] [mixin/]: Error loading class: net/minecraft/server/level/ServerLevel (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:27] [main/WARN] [mixin/]: @Mixin target net.minecraft.server.level.ServerLevel was not found valkyrienskies-common.mixins.json:feature.shipyard_entities.MixinServerLevel
+[21:17:27] [main/WARN] [mixin/]: Error loading class: rbasamoyai/createbigcannons/cannon_control/contraption/PitchOrientedContraptionEntity (java.lang.ClassNotFoundException: rbasamoyai.createbigcannons.cannon_control.contraption.PitchOrientedContraptionEntity)
+[21:17:27] [main/WARN] [mixin/]: Error loading class: dev/ftb/mods/ftbchunks/data/ClaimedChunkManager (java.lang.ClassNotFoundException: dev.ftb.mods.ftbchunks.data.ClaimedChunkManager)
+[21:17:27] [main/WARN] [mixin/]: Error loading class: com/jamieswhiteshirt/reachentityattributes/ReachEntityAttributes (java.lang.ClassNotFoundException: com.jamieswhiteshirt.reachentityattributes.ReachEntityAttributes)
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:17:27] [main/WARN] [mixin/]: Error loading class: net/minecraft/server/level/ServerLevel (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:27] [main/WARN] [mixin/]: @Mixin target net.minecraft.server.level.ServerLevel was not found valkyrienskies-common.mixins.json:server.world.MixinServerLevel
+[21:17:27] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/peripheral/speaker/SpeakerPosition (java.lang.ClassNotFoundException: dan200.computercraft.shared.peripheral.speaker.SpeakerPosition)
+[21:17:27] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/turtle/core/TurtleBrain (java.lang.ClassNotFoundException: dan200.computercraft.shared.turtle.core.TurtleBrain)
+[21:17:27] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/turtle/core/TurtleMoveCommand (java.lang.ClassNotFoundException: dan200.computercraft.shared.turtle.core.TurtleMoveCommand)
+[21:17:27] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/peripheral/modem/wireless/WirelessNetwork (java.lang.ClassNotFoundException: dan200.computercraft.shared.peripheral.modem.wireless.WirelessNetwork)
+[21:17:27] [main/WARN] [mixin/]: Error loading class: blusunrize/immersiveengineering/common/gui/BlockEntityInventory (java.lang.ClassNotFoundException: blusunrize.immersiveengineering.common.gui.BlockEntityInventory)
+[21:17:27] [main/WARN] [mixin/]: Error loading class: net/dries007/tfc/world/TFCChunkGenerator (java.lang.ClassNotFoundException: net.dries007.tfc.world.TFCChunkGenerator)
+[21:17:27] [main/WARN] [mixin/]: Error loading class: li/cil/tis3d/common/entity/InfraredPacketEntity (java.lang.ClassNotFoundException: li.cil.tis3d.common.entity.InfraredPacketEntity)
+[21:17:27] [main/WARN] [mixin/]: Error loading class: me/desht/modularrouters/container/RouterMenu (java.lang.ClassNotFoundException: me.desht.modularrouters.container.RouterMenu)
+[21:17:27] [main/INFO] [co.cu.Cupboard/]: Loaded config for: recipeessentials.json
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:17:27] [main/WARN] [mixin/]: Error loading class: net/minecraft/server/level/ServerLevel (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:27] [main/WARN] [mixin/]: @Mixin target net.minecraft.server.level.ServerLevel was not found aether.mixins.json:common.accessor.ServerLevelAccessor
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:17:27] [main/WARN] [mixin/]: Error loading class: net/minecraft/server/level/ServerLevel (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:27] [main/WARN] [mixin/]: @Mixin target net.minecraft.server.level.ServerLevel was not found citadel.mixins.json:ServerLevelMixin
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:17:28] [main/WARN] [mixin/]: Error loading class: net/minecraft/server/level/ServerLevel (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: @Mixin target net.minecraft.server.level.ServerLevel was not found cupboard.mixins.json:ServerAddEntityMixin
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:17:28] [main/WARN] [mixin/]: Error loading class: net/minecraft/server/level/ServerLevel (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: @Mixin target net.minecraft.server.level.ServerLevel was not found betterdeserttemples.mixins.json:ServerLevelMixin
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:17:28] [main/WARN] [mixin/]: Error loading class: net/minecraft/server/level/ServerLevel (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: @Mixin target net.minecraft.server.level.ServerLevel was not found friendsandfoes-common.mixins.json:ServerWorldAccessor
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:17:28] [main/WARN] [mixin/]: Error loading class: net/minecraft/server/level/ServerLevel (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: @Mixin target net.minecraft.server.level.ServerLevel was not found friendsandfoes-common.mixins.json:ServerWorldMixin
+[21:17:28] [main/WARN] [mixin/]: Error loading class: vazkii/quark/addons/oddities/inventory/BackpackMenu (java.lang.ClassNotFoundException: vazkii.quark.addons.oddities.inventory.BackpackMenu)
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:17:28] [main/WARN] [mixin/]: Error loading class: net/minecraft/server/level/ServerLevel (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: @Mixin target net.minecraft.server.level.ServerLevel was not found sound_physics_remastered.mixins.json:ServerWorldMixin
+[Serene Seasons Transformer]: Transforming m_8714_ (Lnet/minecraft/world/level/chunk/LevelChunk;I)V in net/minecraft/server/level/ServerLevel
+[Serene Seasons Transformer]: Successfully patched tickChunk
+[21:17:28] [main/WARN] [mixin/]: Error loading class: net/minecraft/server/level/ServerLevel (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: @Mixin target net.minecraft.server.level.ServerLevel was not found create.mixins.json:accessor.ServerLevelAccessor
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/util/concurrent/ForkJoinPool$ForkJoinWorkerThreadFactory (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: com/mojang/blaze3d/platform/InputConstants$Key (java.lang.ClassNotFoundException: com.mojang.blaze3d.platform.InputConstants$Key)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+[21:17:28] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[21:17:28] [main/WARN] [mixin/]: Error loading class: java/lang/Boolean (java.lang.IllegalArgumentException: Unsupported class file major version 66)
+Exception in thread "main" java.lang.RuntimeException: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:32)
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.Launcher.run(Launcher.java:106)
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.Launcher.main(Launcher.java:77)
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+        at cpw.mods.bootstraplauncher@1.1.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141)
+Caused by: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:392)
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:250)
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.service.modlauncher.MixinTransformationHandler.processClass(MixinTransformationHandler.java:131)
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.launch.MixinLaunchPluginLegacy.processClass(MixinLaunchPluginLegacy.java:131)
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.serviceapi.ILaunchPluginService.processClassWithFlags(ILaunchPluginService.java:156)
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+        at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+        at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+        at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+        at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+        at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:637)
+        at java.base/java.lang.Class.forName(Class.java:620)
+        at java.base/java.lang.Class.forName(Class.java:595)
+        at MC-BOOTSTRAP/fmlloader@1.19.2-43.3.0/net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29)
+        at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.8/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30)
+        ... 7 more
+Caused by: org.spongepowered.asm.mixin.throwables.ClassMetadataNotFoundException: java.lang.Boolean
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.transformMethod(MixinPreProcessorStandard.java:754)
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.transform(MixinPreProcessorStandard.java:739)
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attach(MixinPreProcessorStandard.java:310)
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.createContextFor(MixinPreProcessorStandard.java:280)
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinInfo.createContextFor(MixinInfo.java:1288)
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:292)
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:383)
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:365)
+        at MC-BOOTSTRAP/org.spongepowered.mixin/org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363)
+        ... 23 more

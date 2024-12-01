@@ -1,0 +1,135 @@
+[08:58:29] [main/INFO]: ModLauncher running: args [--username, Tirsty_, --version, forge-40.2.18, --gameDir, C:\Users\tlannigan\curseforge\minecraft\Instances\1.18.2, --assetsDir, C:\Users\tlannigan\curseforge\minecraft\Install\assets, --assetIndex, 1.18, --uuid, ca3b0aa1677e495fa6db96b61b1217b2, --accessToken, ????????, --clientId, NmZmZDgxMGEtMjYyOS00N2RhLTllMTctZmY4YzM2ZWRiZWU1, --xuid, 2535418772033092, --userType, msa, --versionType, release, --width, 2560, --height, 1440, --launchTarget, forgeclient, --fml.forgeVersion, 40.2.18, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
+[08:58:29] [main/INFO]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.1 by Microsoft
+[08:58:29] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/tlannigan/curseforge/minecraft/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=CLIENT
+[08:58:29] [main/INFO]: Found mod file thermal_expansion-1.18.2-9.2.2.24.jar of type MOD with provider {mods folder locator at C:\Users\tlannigan\curseforge\minecraft\Instances\1.18.2\mods}
+[08:58:29] [main/INFO]: Found mod file thermal_foundation-1.18.2-9.2.2.58.jar of type MOD with provider {mods folder locator at C:\Users\tlannigan\curseforge\minecraft\Instances\1.18.2\mods}
+[08:58:29] [main/WARN]: Mod file C:\Users\tlannigan\curseforge\minecraft\Install\libraries\net\minecraftforge\fmlcore\1.18.2-40.2.18\fmlcore-1.18.2-40.2.18.jar is missing mods.toml file
+[08:58:29] [main/WARN]: Mod file C:\Users\tlannigan\curseforge\minecraft\Install\libraries\net\minecraftforge\javafmllanguage\1.18.2-40.2.18\javafmllanguage-1.18.2-40.2.18.jar is missing mods.toml file
+[08:58:29] [main/WARN]: Mod file C:\Users\tlannigan\curseforge\minecraft\Install\libraries\net\minecraftforge\lowcodelanguage\1.18.2-40.2.18\lowcodelanguage-1.18.2-40.2.18.jar is missing mods.toml file
+[08:58:29] [main/WARN]: Mod file C:\Users\tlannigan\curseforge\minecraft\Install\libraries\net\minecraftforge\mclanguage\1.18.2-40.2.18\mclanguage-1.18.2-40.2.18.jar is missing mods.toml file
+[08:58:29] [main/INFO]: Found mod file fmlcore-1.18.2-40.2.18.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4d666b41
+[08:58:29] [main/INFO]: Found mod file javafmllanguage-1.18.2-40.2.18.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4d666b41
+[08:58:29] [main/INFO]: Found mod file lowcodelanguage-1.18.2-40.2.18.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4d666b41
+[08:58:29] [main/INFO]: Found mod file mclanguage-1.18.2-40.2.18.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4d666b41
+[08:58:29] [main/INFO]: Found mod file client-1.18.2-20220404.173914-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4d666b41
+[08:58:29] [main/INFO]: Found mod file forge-1.18.2-40.2.18-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@4d666b41
+[08:58:29] [main/INFO]: No dependencies to load found. Skipping!
+[08:58:29] [main/ERROR]: Missing or unsupported mandatory dependencies:
+	Mod ID: 'cofh_core', Requested by: 'thermal_foundation', Expected range: '[9.2.0,9.3.0]', Actual version: '[MISSING]'
+	Mod ID: 'cofh_core', Requested by: 'thermal', Expected range: '[9.2.0,9.3.0]', Actual version: '[MISSING]'
+	Mod ID: 'cofh_core', Requested by: 'thermal_expansion', Expected range: '[9.2.0,9.3.0]', Actual version: '[MISSING]'
+[08:58:30] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-40.2.18, --gameDir, C:\Users\tlannigan\curseforge\minecraft\Instances\1.18.2, --assetsDir, C:\Users\tlannigan\curseforge\minecraft\Install\assets, --uuid, ca3b0aa1677e495fa6db96b61b1217b2, --username, Tirsty_, --assetIndex, 1.18, --accessToken, ????????, --clientId, NmZmZDgxMGEtMjYyOS00N2RhLTllMTctZmY4YzM2ZWRiZWU1, --xuid, 2535418772033092, --userType, msa, --versionType, release, --width, 2560, --height, 1440]
+[08:58:36] [Render thread/WARN]: Assets URL 'union:/C:/Users/tlannigan/curseforge/minecraft/Install/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%2356!/assets/.mcassetsroot' uses unexpected schema
+[08:58:36] [Render thread/WARN]: Assets URL 'union:/C:/Users/tlannigan/curseforge/minecraft/Install/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%2356!/data/.mcassetsroot' uses unexpected schema
+[08:58:36] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08:58:37] [Render thread/INFO]: Setting user: Tirsty_
+[08:58:37] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 SNAPSHOT
+[08:58:40] [Render thread/FATAL]: Error during pre-loading phase
+net.minecraftforge.fml.ModLoadingException: Mod §ethermal_foundation§r requires §6cofh_core§r §obetween 9.2.0 and 9.3.0 (inclusive)§r
+§7Currently, §6cofh_core§r§7 is §o§nnot installed
+	at net.minecraftforge.fml.ModLoadingException.lambda$fromEarlyException$0(ModLoadingException.java:50) ~[fmlcore-1.18.2-40.2.18.jar%2357!/:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.util.AbstractList$RandomAccessSpliterator.forEachRemaining(AbstractList.java:720) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.<init>(ModLoader.java:95) ~[fmlcore-1.18.2-40.2.18.jar%2357!/:?]
+	at net.minecraftforge.fml.ModLoader.get(ModLoader.java:127) ~[fmlcore-1.18.2-40.2.18.jar%2357!/:?]
+	at net.minecraftforge.client.loading.ClientModLoader.lambda$begin$1(ClientModLoader.java:92) ~[forge-1.18.2-40.2.18-universal.jar%2361!/:?]
+	at net.minecraftforge.client.loading.ClientModLoader.lambda$createRunnableWithCatch$4(ClientModLoader.java:112) ~[forge-1.18.2-40.2.18-universal.jar%2361!/:?]
+	at net.minecraftforge.client.loading.ClientModLoader.begin(ClientModLoader.java:92) ~[forge-1.18.2-40.2.18-universal.jar%2361!/:?]
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:459) ~[client-1.18.2-20220404.173914-srg.jar%2356!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:169) ~[client-1.18.2-20220404.173914-srg.jar%2356!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$launchService$0(CommonClientLaunchHandler.java:31) ~[fmlloader-1.18.2-40.2.18.jar%2318!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149) [bootstraplauncher-1.0.0.jar:?]
+[08:58:40] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.sound.SoundLoadEvent to a broken mod state
+[08:58:40] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.ColorHandlerEvent$Block to a broken mod state
+[08:58:40] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.ColorHandlerEvent$Item to a broken mod state
+[08:58:41] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.RenderLevelStageEvent$RegisterStageEvent to a broken mod state
+[08:58:41] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.ParticleFactoryRegisterEvent to a broken mod state
+[08:58:41] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[08:58:41] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.RegisterClientReloadListenersEvent to a broken mod state
+[08:58:41] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$RegisterLayerDefinitions to a broken mod state
+[08:58:41] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$RegisterRenderers to a broken mod state
+[08:58:42] [Render thread/INFO]: Reloading ResourceManager: Default
+[08:58:43] [Worker-Main-12/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.ModelRegistryEvent to a broken mod state
+[08:58:43] [Worker-Main-9/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[08:58:43] [Worker-Main-13/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[08:58:43] [Worker-Main-14/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[08:58:52] [Worker-Main-12/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[08:58:54] [Worker-Main-12/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[08:58:54] [Worker-Main-12/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[08:58:54] [Worker-Main-12/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[08:58:54] [Worker-Main-12/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[08:58:54] [Worker-Main-12/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[08:58:54] [Worker-Main-12/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Pre to a broken mod state
+[08:58:54] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Headphones (Arctis 5 Game)
+[08:58:54] [Render thread/INFO]: Sound engine started
+[08:58:54] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[08:58:54] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[08:58:54] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[08:58:54] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[08:58:54] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[08:58:54] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[08:58:54] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[08:58:54] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[08:58:54] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[08:58:54] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[08:58:54] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[08:58:54] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[08:58:54] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[08:58:54] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[08:58:55] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.ModelBakeEvent to a broken mod state
+[08:58:55] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[08:58:55] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[08:58:55] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[08:58:55] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[08:58:55] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[08:58:55] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[08:58:55] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[08:58:55] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[08:58:55] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[08:58:55] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[08:58:55] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[08:58:55] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[08:58:55] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[08:58:55] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[08:58:55] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[08:58:55] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[08:58:55] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[08:58:55] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[08:58:55] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[08:58:55] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[08:58:55] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[08:58:55] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$CreateSkullModels to a broken mod state
+[08:58:55] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.EntityRenderersEvent$AddLayers to a broken mod state
+[08:58:55] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.RegisterShadersEvent to a broken mod state
+[08:58:56] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[08:58:56] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[08:58:56] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[08:58:56] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[08:58:56] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[08:58:56] [Render thread/ERROR]: Cowardly refusing to send event net.minecraftforge.client.event.TextureStitchEvent$Post to a broken mod state
+[08:58:56] [Render thread/FATAL]: Crash report saved to C:\Users\tlannigan\curseforge\minecraft\Instances\1.18.2\crash-reports\crash-2024-04-03_08.58.56-fml.txt
+[08:59:08] [Render thread/INFO]: Stopping!

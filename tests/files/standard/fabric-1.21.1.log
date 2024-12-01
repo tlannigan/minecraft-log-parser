@@ -1,0 +1,364 @@
+[00:11:40] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.9
+[00:11:40] [main/WARN]: Warnings were found!
+ - Mod 'Reese's Sodium Options' (reeses-sodium-options) 1.8.0-beta.4+mc1.21.1 recommends version 0.4.2 or later of sodium-extra, which is missing!
+	 - You should install version 0.4.2 or later of sodium-extra for the optimal experience.
+[00:11:40] [main/INFO]: Loading 74 mods:
+	- architectury 13.0.8
+	- cloth-config 15.0.140
+	   \-- cloth-basic-math 0.6.1
+	- fabric-api 0.107.0+1.21.1
+	   |-- fabric-api-base 0.4.42+6573ed8c19
+	   |-- fabric-api-lookup-api-v1 1.6.69+b559734419
+	   |-- fabric-biome-api-v1 13.0.30+be1ed2d719
+	   |-- fabric-block-api-v1 1.0.22+0af3f5a719
+	   |-- fabric-block-view-api-v2 1.0.10+6573ed8c19
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a719
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8c19
+	   |-- fabric-command-api-v1 1.2.49+f71b366f19
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd919
+	   |-- fabric-commands-v0 0.2.66+df3654b319
+	   |-- fabric-content-registries-v0 8.0.17+b559734419
+	   |-- fabric-convention-tags-v1 2.1.1+7f945d5b19
+	   |-- fabric-convention-tags-v2 2.9.1+7fd4837519
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a719
+	   |-- fabric-data-attachment-api-v1 1.2.0+e49211d819
+	   |-- fabric-data-generation-api-v1 20.2.22+16c4ae2519
+	   |-- fabric-dimensions-v1 4.0.0+6fc22b9919
+	   |-- fabric-entity-events-v1 1.7.0+2122d82819
+	   |-- fabric-events-interaction-v0 0.7.13+ba9dae0619
+	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd919
+	   |-- fabric-item-api-v1 11.1.1+d5debaed19
+	   |-- fabric-item-group-api-v1 4.1.6+6823f7cd19
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a719
+	   |-- fabric-keybindings-v0 0.2.45+df3654b319
+	   |-- fabric-lifecycle-events-v1 2.4.0+0f6c53cd19
+	   |-- fabric-loot-api-v2 3.0.15+3f89f5a519
+	   |-- fabric-loot-api-v3 1.0.3+3f89f5a519
+	   |-- fabric-message-api-v1 6.0.13+6573ed8c19
+	   |-- fabric-model-loading-api-v1 2.0.0+fe474d6b19
+	   |-- fabric-networking-api-v1 4.3.0+c7469b2119
+	   |-- fabric-object-builder-api-v1 15.2.1+40875a9319
+	   |-- fabric-particles-v1 4.0.2+6573ed8c19
+	   |-- fabric-recipe-api-v1 5.0.13+6508971219
+	   |-- fabric-registry-sync-v0 5.1.3+60c3209b19
+	   |-- fabric-renderer-api-v1 3.4.0+c705a49c19
+	   |-- fabric-renderer-indigo 1.7.0+c705a49c19
+	   |-- fabric-renderer-registries-v1 3.2.68+df3654b319
+	   |-- fabric-rendering-data-attachment-v1 0.3.48+73761d2e19
+	   |-- fabric-rendering-fluids-v1 3.1.6+1daea21519
+	   |-- fabric-rendering-v0 1.1.71+df3654b319
+	   |-- fabric-rendering-v1 5.0.5+df16efd019
+	   |-- fabric-resource-conditions-api-v1 4.3.0+8dc279b119
+	   |-- fabric-resource-loader-v0 1.3.1+5b5275af19
+	   |-- fabric-screen-api-v1 2.0.25+8b68f1c719
+	   |-- fabric-screen-handler-api-v1 1.3.87+b559734419
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8c19
+	   |-- fabric-transfer-api-v1 5.4.1+95bead5f19
+	   \-- fabric-transitive-access-wideners-v1 6.1.0+1daea21519
+	- fabricloader 0.16.9
+	   \-- mixinextras 0.4.1
+	- ferritecore 7.0.2-hotfix
+	- immediatelyfast 1.3.2+1.21.1
+	   \-- net_lenni0451_reflect 1.3.4
+	- iris 1.8.0-beta.8+mc1.21.1
+	   |-- fabric-api-base 0.4.42+6573ed8c19
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a719
+	   |-- io_github_douira_glsl-transformer 2.0.1
+	   |-- org_anarres_jcpp 1.4.14
+	   \-- org_antlr_antlr4-runtime 4.13.1
+	- java 21
+	- lithium 0.14.0-snapshot+mc1.21.1-build.88
+	- minecraft 1.21.1
+	- modernfix 5.19.5+mc1.21.1
+	- modmenu 11.0.3
+	- moonrise 0.1.0-beta.8+68ea18b
+	   |-- fabric-api-base 0.4.42+6573ed8c19
+	   \-- fabric-command-api-v2 2.2.28+6ced4dd919
+	- moreculling 1.0.1
+	   |-- conditional-mixin 0.6.3
+	   \-- mixinsquared 0.2.0
+	- placeholder-api 2.4.1+1.21
+	- reeses-sodium-options 1.8.0-beta.4+mc1.21.1
+	- sodium 0.6.0-beta.4+mc1.21.1
+	   |-- fabric-api-base 0.4.42+6573ed8c19
+	   |-- fabric-block-view-api-v2 1.0.10+6573ed8c19
+	   |-- fabric-renderer-api-v1 3.4.0+c705a49c19
+	   |-- fabric-rendering-data-attachment-v1 0.3.48+73761d2e19
+	   \-- fabric-rendering-fluids-v1 3.1.6+1daea21519
+	- sodiumoptionsapi 1.0.5
+[00:11:40] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/hyprbeast/.local/share/PrismLauncher/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
+[00:11:40] [main/INFO]: Compatibility level set to JAVA_16
+[00:11:40] [main/INFO]: Compatibility level set to JAVA_17
+[00:11:41] [main/INFO]: Compatibility level set to JAVA_21
+[00:11:41] [main/WARN]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
+[00:11:41] [main/WARN]: Option 'mixin.minimal_nonvanilla.world.block_entity_ticking.support_cache' requires 'mixin.world.block_entity_ticking=true' but found 'false'. Setting 'mixin.minimal_nonvanilla.world.block_entity_ticking.support_cache=false'.
+[00:11:41] [main/WARN]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
+[00:11:41] [main/WARN]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
+[00:11:41] [main/WARN]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
+[00:11:41] [main/WARN]: Option 'mixin.block.hopper' requires 'mixin.util.entity_movement_tracking=true' but found 'false'. Setting 'mixin.block.hopper=false'.
+[00:11:41] [main/WARN]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
+[00:11:41] [main/WARN]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
+[00:11:41] [main/INFO]: Loaded configuration file for Lithium: 145 options available, 30 override(s) found
+[00:11:41] [main/WARN]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
+[00:11:41] [main/WARN]: Option 'mixin.minimal_nonvanilla.world.block_entity_ticking.support_cache' requires 'mixin.world.block_entity_ticking=true' but found 'false'. Setting 'mixin.minimal_nonvanilla.world.block_entity_ticking.support_cache=false'.
+[00:11:41] [main/WARN]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
+[00:11:41] [main/WARN]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
+[00:11:41] [main/WARN]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
+[00:11:41] [main/WARN]: Option 'mixin.block.hopper' requires 'mixin.util.entity_movement_tracking=true' but found 'false'. Setting 'mixin.block.hopper=false'.
+[00:11:41] [main/WARN]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
+[00:11:41] [main/WARN]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
+[00:11:41] [main/INFO]: Loaded configuration file for Lithium: 145 options available, 30 override(s) found
+[00:11:41] [main/INFO]: Loaded configuration file for ModernFix 5.19.5+mc1.21.1: 54 options available, 0 override(s) found
+[00:11:41] [main/INFO]: Applying Nashorn fix
+[00:11:41] [main/INFO]: Loaded configuration file for Sodium: 43 options available, 1 override(s) found
+[00:11:41] [main/WARN]: Mixin malte0811.ferritecore.mixin.fastmap.FastMapStateHolderMixin is disabled by config
+[00:11:41] [main/WARN]: Force-disabling mixin 'ai.poi.PoiManagerMixin' as rule 'mixin.ai.poi' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'ai.poi.PoiSectionMixin' as rule 'mixin.ai.poi' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'ai.poi.PoiTypesMixin' as rule 'mixin.ai.poi' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'ai.poi.SectionStorageMixin' as rule 'mixin.ai.poi' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'ai.poi.fast_portals.PoiManagerMixin' as rule 'mixin.ai.poi' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'ai.poi.fast_portals.PortalForcerMixin' as rule 'mixin.ai.poi' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'ai.poi.tasks.LocateHidingPlaceMixin' as rule 'mixin.ai.poi' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'ai.poi.tasks.RaiderEntityAttackHomeGoalMixin' as rule 'mixin.ai.poi' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateHolderMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'alloc.chunk_ticking.ServerChunkCacheMixin' as rule 'mixin.alloc.chunk_ticking' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'alloc.deep_passengers.EntityMixin' as rule 'mixin.alloc.deep_passengers' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'alloc.entity_tracker.ChunkMap$TrackedEntityMixin' as rule 'mixin.alloc.entity_tracker' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'block.flatten_states.FluidStateMixin' as rule 'mixin.block.flatten_states' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'chunk.entity_class_groups.ClassInstanceMultiMapMixin' as rule 'mixin.chunk.entity_class_groups' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'chunk.no_validation.SimpleBitStorageMixin' as rule 'mixin.chunk.no_validation' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'chunk.no_validation.ZeroBitStorageMixin' as rule 'mixin.chunk.no_validation' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'collections.chunk_tickets.SortedArraySetMixin' as rule 'mixin.collections.chunk_tickets' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'collections.entity_ticking.EntityTickListMixin' as rule 'mixin.collections.entity_ticking' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'entity.collisions.intersection.EntityGetterMixin' as rule 'mixin.entity.collisions.intersection' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'entity.collisions.intersection.LevelMixin' as rule 'mixin.entity.collisions.intersection' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'entity.collisions.movement.EntityMixin' as rule 'mixin.entity.collisions.movement' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'entity.collisions.unpushable_cramming.AbstractMinecartMixin' as rule 'mixin.entity.collisions.unpushable_cramming' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'entity.collisions.unpushable_cramming.BoatMixin' as rule 'mixin.entity.collisions.unpushable_cramming' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'entity.collisions.unpushable_cramming.EntityMixin' as rule 'mixin.entity.collisions.unpushable_cramming' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'entity.collisions.unpushable_cramming.EntitySectionMixin' as rule 'mixin.entity.collisions.unpushable_cramming' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'entity.collisions.unpushable_cramming.EntitySelectorMixin' as rule 'mixin.entity.collisions.unpushable_cramming' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'entity.collisions.unpushable_cramming.LivingEntityMixin' as rule 'mixin.entity.collisions.unpushable_cramming' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'entity.replace_entitytype_predicates.AbstractMinecartMixin' as rule 'mixin.entity.replace_entitytype_predicates' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'entity.replace_entitytype_predicates.ArmorStandMixin' as rule 'mixin.entity.replace_entitytype_predicates' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'entity.replace_entitytype_predicates.GolemRandomStrollInVillageGoalMixin' as rule 'mixin.entity.replace_entitytype_predicates' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'entity.replace_entitytype_predicates.HangingEntityMixin' as rule 'mixin.entity.replace_entitytype_predicates' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'entity.replace_entitytype_predicates.ItemFrameMixin' as rule 'mixin.entity.replace_entitytype_predicates' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'entity.replace_entitytype_predicates.LlamaFollowCaravanGoalMixin' as rule 'mixin.entity.replace_entitytype_predicates' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'math.fast_blockpos.BlockPosMixin' as rule 'mixin.math.fast_blockpos' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'math.fast_blockpos.DirectionMixin' as rule 'mixin.math.fast_blockpos' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'math.fast_util.AABBMixin' as rule 'mixin.math.fast_util' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'math.fast_util.AxisCycleDirectionMixin$BackwardMixin' as rule 'mixin.math.fast_util' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'math.fast_util.AxisCycleDirectionMixin$ForwardMixin' as rule 'mixin.math.fast_util' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'math.fast_util.DirectionMixin' as rule 'mixin.math.fast_util' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'minimal_nonvanilla.collisions.empty_space.ArrayVoxelShapeInvoker' as rule 'mixin.minimal_nonvanilla.collisions.empty_space' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'minimal_nonvanilla.collisions.empty_space.BitSetDiscreteVoxelShapeAccessor' as rule 'mixin.minimal_nonvanilla.collisions.empty_space' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'minimal_nonvanilla.collisions.empty_space.LevelMixin' as rule 'mixin.minimal_nonvanilla.collisions.empty_space' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'minimal_nonvanilla.world.expiring_chunk_tickets.DistanceManagerMixin' as rule 'mixin.minimal_nonvanilla.world.expiring_chunk_tickets' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'shapes.blockstate_cache.BlockMixin' as rule 'mixin.shapes.blockstate_cache' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'shapes.optimized_matching.ShapesMixin' as rule 'mixin.shapes.optimized_matching' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'shapes.specialized_shapes.ShapesMixin' as rule 'mixin.shapes.specialized_shapes' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'shapes.specialized_shapes.VoxelShapeMixin' as rule 'mixin.shapes.specialized_shapes' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'util.block_tracking.BlockStateBaseMixin' as rule 'mixin.util.block_tracking' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'util.block_tracking.LevelChunkSectionMixin' as rule 'mixin.util.block_tracking' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'util.entity_movement_tracking.EntitySectionMixin' as rule 'mixin.util.entity_movement_tracking' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'util.entity_movement_tracking.PersistentEntitySectionManagerAccessor' as rule 'mixin.util.entity_movement_tracking' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'util.entity_movement_tracking.ServerEntityManagerListenerMixin' as rule 'mixin.util.entity_movement_tracking' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'util.entity_movement_tracking.ServerLevelAccessor' as rule 'mixin.util.entity_movement_tracking' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'world.block_entity_ticking.sleeping.LevelChunkMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'world.block_entity_ticking.sleeping.LevelMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'world.block_entity_ticking.sleeping.ServerLevelMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'world.block_entity_ticking.sleeping.WrappedBlockEntityTickInvokerAccessor' as rule 'mixin.world.block_entity_ticking' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'world.block_entity_ticking.sleeping.brewing_stand.BrewingStandBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'world.block_entity_ticking.sleeping.campfire.CampfireBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'world.block_entity_ticking.sleeping.campfire.lit.CampfireBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'world.block_entity_ticking.sleeping.campfire.unlit.CampfireBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'world.block_entity_ticking.sleeping.furnace.AbstractFurnaceBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'world.block_entity_ticking.sleeping.hopper.HopperBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'world.block_entity_ticking.sleeping.shulker_box.ShulkerBoxBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'world.block_entity_ticking.world_border.DirectBlockEntityTickInvokerMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'world.chunk_access.ChunkHolderMixin' as rule 'mixin.world.chunk_access' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'world.chunk_access.GenerationChunkHolderAccessor' as rule 'mixin.world.chunk_access' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'world.chunk_access.LevelMixin' as rule 'mixin.world.chunk_access' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'world.chunk_access.ServerChunkCacheMixin' as rule 'mixin.world.chunk_access' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'world.explosions.block_raycast.ExplosionMixin' as rule 'mixin.world.explosions.block_raycast' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'world.explosions.cache_exposure.ExplosionDamageCalculatorMixin' as rule 'mixin.world.explosions.cache_exposure' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'world.explosions.cache_exposure.ExplosionMixin' as rule 'mixin.world.explosions.cache_exposure' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'world.temperature_cache.BiomeMixin' as rule 'mixin.world.temperature_cache' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'world.tick_scheduler.LevelChunkTicksMixin' as rule 'mixin.world.tick_scheduler' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'chunk.entity_class_groups.ClientLevelMixin' as rule 'mixin.chunk.entity_class_groups' (added by mods [moonrise]) disables it and children
+[00:11:41] [main/WARN]: Force-enabling mixin 'compat.transfer_api.TransferApiHelperMixin' as rule 'mixin.compat.transfer_api' (added by mods [lithium]) enables it
+[00:11:41] [main/WARN]: Force-disabling mixin 'features.render.world.sky.FogRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'features.render.world.sky.ClientLevelMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[00:11:41] [main/WARN]: Force-disabling mixin 'features.render.world.sky.LevelRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[00:11:41] [main/INFO]: Searching for graphics cards...
+[00:11:41] [main/INFO]: Found graphics adapter: LinuxPciAdapterInfo[vendor=AMD, name=Navi 21 [Radeon RX 6800/6800 XT / 6900 XT], pciVendorId=0x1002, pciDeviceId=0x73bf]
+[00:11:41] [main/INFO]: Found graphics adapter: LinuxPciAdapterInfo[vendor=AMD, name=Raphael, pciVendorId=0x1002, pciDeviceId=0x164e]
+[00:11:41] [main/WARN]: Sodium has applied one or more workarounds to prevent crashes or other issues on your system: [NO_ERROR_CONTEXT_UNSUPPORTED]
+[00:11:41] [main/WARN]: This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
+[00:11:41] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[00:11:42] [Datafixer Bootstrap/INFO]: 226 Datafixer optimizations took 121 milliseconds
+[00:11:42] [main/WARN]: Method overwrite conflict for equals in moonrise.mixins.json:blockstate_propertyaccess.PropertyMixin from mod moonrise, previously written by org.embeddedt.modernfix.common.mixin.perf.model_optimizations.PropertyMixin. Skipping method.
+[00:11:42] [main/INFO]: Injecting BlockStateBase cache population hook into moonrise$occludesFullBlock from ca.spottedleaf.moonrise.mixin.collisions.BlockStateBaseMixin
+[00:11:42] [main/INFO]: Injecting BlockStateBase cache population hook into moonrise$emptyContextCollisionShape from ca.spottedleaf.moonrise.mixin.collisions.BlockStateBaseMixin
+[00:11:42] [main/INFO]: Injecting BlockStateBase cache population hook into starlight$isConditionallyFullOpaque from ca.spottedleaf.moonrise.mixin.starlight.blockstate.BlockStateBaseMixin
+[00:11:42] [main/INFO]: Injecting BlockStateBase cache population hook into moonrise$emptyCollisionShape from ca.spottedleaf.moonrise.mixin.collisions.BlockStateBaseMixin
+[00:11:42] [main/INFO]: Injecting BlockStateBase cache population hook into moonrise$getConstantContextCollisionShape from ca.spottedleaf.moonrise.mixin.collisions.BlockStateBaseMixin
+[00:11:43] [main/WARN]: Method overwrite conflict for method_21740 in moonrise.mixins.json:random_ticking.BiomeMixin from mod moonrise, previously written by org.embeddedt.modernfix.common.mixin.perf.remove_biome_temperature_cache.BiomeMixin. Skipping method.
+[00:11:43] [main/INFO]: Vanilla bootstrap took 1400 milliseconds
+[00:11:43] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:11:43] [Render thread/INFO]: Setting user: Cantayloupes
+[00:11:44] [Render thread/INFO]: Registering S2C receiver with id architectury:spawn_entity_packet
+[00:11:44] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[00:11:44] [Render thread/INFO]: Checking mod updates...
+[00:11:44] [Render thread/INFO]: Backend library: LWJGL version 3.3.3-snapshot
+[00:11:44] [Render thread/INFO]: OpenGL Vendor: AMD
+[00:11:44] [Render thread/INFO]: OpenGL Renderer: AMD Radeon RX 6800 XT (radeonsi, navi21, LLVM 18.1.8, DRM 3.59, 6.11.3-2-default)
+[00:11:44] [Render thread/INFO]: OpenGL Version: 4.6 (Core Profile) Mesa 24.1.7
+[00:11:44] [Render thread/INFO]: Initializing ImmediatelyFast 1.3.2+1.21.1 on AMD Radeon RX 6800 XT (radeonsi, navi21, LLVM 18.1.8, DRM 3.59, 6.11.3-2-default) (AMD) with OpenGL 4.6 (Core Profile) Mesa 24.1.7
+[00:11:44] [Render thread/INFO]: Found Iris/Oculus 1.8.0-beta.8+mc1.21.1. Enabling compatibility.
+[00:11:44] [Render thread/INFO]: Debug functionality is disabled.
+[00:11:44] [Render thread/INFO]: OpenGL 4.5 detected, enabling DSA.
+[00:11:44] [Render thread/INFO]: Shaders are disabled because no valid shaderpack is selected
+[00:11:44] [Render thread/INFO]: Hardware information:
+[00:11:44] [Render thread/INFO]: CPU: 16x AMD Ryzen 7 7700 8-Core Processor
+[00:11:44] [Render thread/INFO]: GPU: AMD Radeon RX 6800 XT (radeonsi, navi21, LLVM 18.1.8, DRM 3.59, 6.11.3-2-default) (Supports OpenGL 4.6 (Core Profile) Mesa 24.1.7)
+[00:11:44] [Render thread/INFO]: OS: Linux (6.11.3-2-default)
+[00:11:44] [Render thread/ERROR]: Error while loading the narrator
+com.mojang.text2speech.Narrator$InitializeException: Failed to load library flite_cmu_us_kal16
+	at knot/com.mojang.text2speech.NarratorLinux$FliteLibrary$CmuUsKal16.loadNative(NarratorLinux.java:84) ~[text2speech-1.17.9.jar:?]
+	at knot/com.mojang.text2speech.NarratorLinux.<init>(NarratorLinux.java:19) ~[text2speech-1.17.9.jar:?]
+	at knot/com.mojang.text2speech.Narrator.getNarrator(Narrator.java:41) [text2speech-1.17.9.jar:?]
+	at knot/net.minecraft.class_333.<init>(class_333.java:19) [client-intermediary.jar:?]
+	at knot/net.minecraft.class_310.<init>(class_310.java:675) [client-intermediary.jar:?]
+	at knot/net.minecraft.client.main.Main.main(Main.java:239) [client-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.16.9.jar:?]
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:100) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70) [NewLaunch.jar:?]
+Caused by: java.lang.UnsatisfiedLinkError: Unable to load library 'flite_cmu_us_kal16':
+libflite_cmu_us_kal16.so: cannot open shared object file: No such file or directory
+libflite_cmu_us_kal16.so: cannot open shared object file: No such file or directory
+Native library (linux-x86-64/libflite_cmu_us_kal16.so) not found in resource path (/usr/share/PrismLauncher/NewLaunch.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-freetype-natives-linux/3.3.3/lwjgl-freetype-natives-linux-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-glfw-natives-linux/3.3.3/lwjgl-glfw-natives-linux-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-jemalloc-natives-linux/3.3.3/lwjgl-jemalloc-natives-linux-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-jemalloc/3.3.3/lwjgl-jemalloc-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-natives-linux/3.3.3/lwjgl-natives-linux-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-openal-natives-linux/3.3.3/lwjgl-openal-natives-linux-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-opengl-natives-linux/3.3.3/lwjgl-opengl-natives-linux-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-stb-natives-linux/3.3.3/lwjgl-stb-natives-linux-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-tinyfd-natives-linux/3.3.3/lwjgl-tinyfd-natives-linux-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-tinyfd/3.3.3/lwjgl-tinyfd-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/com/ibm/icu/icu4j/73.2/icu4j-73.2.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/com/mojang/authlib/6.0.54/authlib-6.0.54.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/com/mojang/brigadier/1.3.10/brigadier-1.3.10.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/com/mojang/datafixerupper/8.0.16/datafixerupper-8.0.16.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/com/mojang/logging/1.2.7/logging-1.2.7.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/com/mojang/text2speech/1.17.9/text2speech-1.17.9.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/commons-io/commons-io/2.15.1/commons-io-2.15.1.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/io/netty/netty-buffer/4.1.97.Final/netty-buffer-4.1.97.Final.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/io/netty/netty-codec/4.1.97.Final/netty-codec-4.1.97.Final.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/io/netty/netty-common/4.1.97.Final/netty-common-4.1.97.Final.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/io/netty/netty-handler/4.1.97.Final/netty-handler-4.1.97.Final.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/io/netty/netty-resolver/4.1.97.Final/netty-resolver-4.1.97.Final.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/io/netty/netty-transport-classes-epoll/4.1.97.Final/netty-transport-classes-epoll-4.1.97.Final.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/io/netty/netty-transport-native-epoll/4.1.97.Final/netty-transport-native-epoll-4.1.97.Final-linux-aarch_64.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/io/netty/netty-transport-native-epoll/4.1.97.Final/netty-transport-native-epoll-4.1.97.Final-linux-x86_64.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/io/netty/netty-transport-native-unix-common/4.1.97.Final/netty-transport-native-unix-common-4.1.97.Final.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/io/netty/netty-transport/4.1.97.Final/netty-transport-4.1.97.Final.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/it/unimi/dsi/fastutil/8.5.12/fastutil-8.5.12.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/net/java/dev/jna/jna-platform/5.14.0/jna-platform-5.14.0.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/net/java/dev/jna/jna/5.14.0/jna-5.14.0.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/apache/commons/commons-compress/1.26.0/commons-compress-1.26.0.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/apache/logging/log4j/log4j-api/2.22.1/log4j-api-2.22.1.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/apache/logging/log4j/log4j-core/2.22.1/log4j-core-2.22.1.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/apache/logging/log4j/log4j-slf4j2-impl/2.22.1/log4j-slf4j2-impl-2.22.1.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/jcraft/jorbis/0.0.17/jorbis-0.0.17.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/joml/joml/1.10.5/joml-1.10.5.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/net/fabricmc/fabric-loader/0.16.9/fabric-loader-0.16.9.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/com/mojang/minecraft/1.21.1/minecraft-1.21.1-client.jar)
+	at knot/com.sun.jna.NativeLibrary.loadLibrary(NativeLibrary.java:325) ~[jna-5.14.0.jar:?]
+	at knot/com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:481) ~[jna-5.14.0.jar:?]
+	at knot/com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:423) ~[jna-5.14.0.jar:?]
+	at knot/com.mojang.text2speech.NarratorLinux$FliteLibrary$CmuUsKal16.loadNative(NarratorLinux.java:82) ~[text2speech-1.17.9.jar:?]
+	... 11 more
+	Suppressed: java.lang.UnsatisfiedLinkError: libflite_cmu_us_kal16.so: cannot open shared object file: No such file or directory
+		at knot/com.sun.jna.Native.open(Native Method) ~[jna-5.14.0.jar:?]
+		at knot/com.sun.jna.NativeLibrary.loadLibrary(NativeLibrary.java:213) ~[jna-5.14.0.jar:?]
+		at knot/com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:481) ~[jna-5.14.0.jar:?]
+		at knot/com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:423) ~[jna-5.14.0.jar:?]
+		at knot/com.mojang.text2speech.NarratorLinux$FliteLibrary$CmuUsKal16.loadNative(NarratorLinux.java:82) ~[text2speech-1.17.9.jar:?]
+		at knot/com.mojang.text2speech.NarratorLinux.<init>(NarratorLinux.java:19) ~[text2speech-1.17.9.jar:?]
+		at knot/com.mojang.text2speech.Narrator.getNarrator(Narrator.java:41) [text2speech-1.17.9.jar:?]
+		at knot/net.minecraft.class_333.<init>(class_333.java:19) [client-intermediary.jar:?]
+		at knot/net.minecraft.class_310.<init>(class_310.java:675) [client-intermediary.jar:?]
+		at knot/net.minecraft.client.main.Main.main(Main.java:239) [client-intermediary.jar:?]
+		at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.9.jar:?]
+		at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.9.jar:?]
+		at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.16.9.jar:?]
+		at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:100) [NewLaunch.jar:?]
+		at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129) [NewLaunch.jar:?]
+		at org.prismlauncher.EntryPoint.main(EntryPoint.java:70) [NewLaunch.jar:?]
+	Suppressed: java.lang.UnsatisfiedLinkError: libflite_cmu_us_kal16.so: cannot open shared object file: No such file or directory
+		at knot/com.sun.jna.Native.open(Native Method) ~[jna-5.14.0.jar:?]
+		at knot/com.sun.jna.NativeLibrary.loadLibrary(NativeLibrary.java:226) ~[jna-5.14.0.jar:?]
+		at knot/com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:481) ~[jna-5.14.0.jar:?]
+		at knot/com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:423) ~[jna-5.14.0.jar:?]
+		at knot/com.mojang.text2speech.NarratorLinux$FliteLibrary$CmuUsKal16.loadNative(NarratorLinux.java:82) ~[text2speech-1.17.9.jar:?]
+		at knot/com.mojang.text2speech.NarratorLinux.<init>(NarratorLinux.java:19) ~[text2speech-1.17.9.jar:?]
+		at knot/com.mojang.text2speech.Narrator.getNarrator(Narrator.java:41) [text2speech-1.17.9.jar:?]
+		at knot/net.minecraft.class_333.<init>(class_333.java:19) [client-intermediary.jar:?]
+		at knot/net.minecraft.class_310.<init>(class_310.java:675) [client-intermediary.jar:?]
+		at knot/net.minecraft.client.main.Main.main(Main.java:239) [client-intermediary.jar:?]
+		at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.9.jar:?]
+		at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.9.jar:?]
+		at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.16.9.jar:?]
+		at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:100) [NewLaunch.jar:?]
+		at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129) [NewLaunch.jar:?]
+		at org.prismlauncher.EntryPoint.main(EntryPoint.java:70) [NewLaunch.jar:?]
+	Suppressed: java.io.IOException: Native library (linux-x86-64/libflite_cmu_us_kal16.so) not found in resource path (/usr/share/PrismLauncher/NewLaunch.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-freetype-natives-linux/3.3.3/lwjgl-freetype-natives-linux-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-glfw-natives-linux/3.3.3/lwjgl-glfw-natives-linux-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-jemalloc-natives-linux/3.3.3/lwjgl-jemalloc-natives-linux-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-jemalloc/3.3.3/lwjgl-jemalloc-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-natives-linux/3.3.3/lwjgl-natives-linux-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-openal-natives-linux/3.3.3/lwjgl-openal-natives-linux-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-opengl-natives-linux/3.3.3/lwjgl-opengl-natives-linux-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-stb-natives-linux/3.3.3/lwjgl-stb-natives-linux-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-tinyfd-natives-linux/3.3.3/lwjgl-tinyfd-natives-linux-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl-tinyfd/3.3.3/lwjgl-tinyfd-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/com/ibm/icu/icu4j/73.2/icu4j-73.2.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/com/mojang/authlib/6.0.54/authlib-6.0.54.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/com/mojang/brigadier/1.3.10/brigadier-1.3.10.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/com/mojang/datafixerupper/8.0.16/datafixerupper-8.0.16.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/com/mojang/logging/1.2.7/logging-1.2.7.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/com/mojang/text2speech/1.17.9/text2speech-1.17.9.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/commons-io/commons-io/2.15.1/commons-io-2.15.1.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/io/netty/netty-buffer/4.1.97.Final/netty-buffer-4.1.97.Final.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/io/netty/netty-codec/4.1.97.Final/netty-codec-4.1.97.Final.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/io/netty/netty-common/4.1.97.Final/netty-common-4.1.97.Final.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/io/netty/netty-handler/4.1.97.Final/netty-handler-4.1.97.Final.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/io/netty/netty-resolver/4.1.97.Final/netty-resolver-4.1.97.Final.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/io/netty/netty-transport-classes-epoll/4.1.97.Final/netty-transport-classes-epoll-4.1.97.Final.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/io/netty/netty-transport-native-epoll/4.1.97.Final/netty-transport-native-epoll-4.1.97.Final-linux-aarch_64.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/io/netty/netty-transport-native-epoll/4.1.97.Final/netty-transport-native-epoll-4.1.97.Final-linux-x86_64.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/io/netty/netty-transport-native-unix-common/4.1.97.Final/netty-transport-native-unix-common-4.1.97.Final.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/io/netty/netty-transport/4.1.97.Final/netty-transport-4.1.97.Final.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/it/unimi/dsi/fastutil/8.5.12/fastutil-8.5.12.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/net/java/dev/jna/jna-platform/5.14.0/jna-platform-5.14.0.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/net/java/dev/jna/jna/5.14.0/jna-5.14.0.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/apache/commons/commons-compress/1.26.0/commons-compress-1.26.0.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/apache/logging/log4j/log4j-api/2.22.1/log4j-api-2.22.1.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/apache/logging/log4j/log4j-core/2.22.1/log4j-core-2.22.1.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/apache/logging/log4j/log4j-slf4j2-impl/2.22.1/log4j-slf4j2-impl-2.22.1.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/jcraft/jorbis/0.0.17/jorbis-0.0.17.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/joml/joml/1.10.5/joml-1.10.5.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/net/fabricmc/fabric-loader/0.16.9/fabric-loader-0.16.9.jar:/home/hyprbeast/.local/share/PrismLauncher/libraries/com/mojang/minecraft/1.21.1/minecraft-1.21.1-client.jar)
+		at knot/com.sun.jna.Native.extractFromResourcePath(Native.java:1141) ~[jna-5.14.0.jar:?]
+		at knot/com.sun.jna.NativeLibrary.loadLibrary(NativeLibrary.java:297) ~[jna-5.14.0.jar:?]
+		at knot/com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:481) ~[jna-5.14.0.jar:?]
+		at knot/com.sun.jna.NativeLibrary.getInstance(NativeLibrary.java:423) ~[jna-5.14.0.jar:?]
+		at knot/com.mojang.text2speech.NarratorLinux$FliteLibrary$CmuUsKal16.loadNative(NarratorLinux.java:82) ~[text2speech-1.17.9.jar:?]
+		at knot/com.mojang.text2speech.NarratorLinux.<init>(NarratorLinux.java:19) ~[text2speech-1.17.9.jar:?]
+		at knot/com.mojang.text2speech.Narrator.getNarrator(Narrator.java:41) [text2speech-1.17.9.jar:?]
+		at knot/net.minecraft.class_333.<init>(class_333.java:19) [client-intermediary.jar:?]
+		at knot/net.minecraft.class_310.<init>(class_310.java:675) [client-intermediary.jar:?]
+		at knot/net.minecraft.client.main.Main.main(Main.java:239) [client-intermediary.jar:?]
+		at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.9.jar:?]
+		at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.9.jar:?]
+		at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.16.9.jar:?]
+		at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:100) [NewLaunch.jar:?]
+		at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129) [NewLaunch.jar:?]
+		at org.prismlauncher.EntryPoint.main(EntryPoint.java:70) [NewLaunch.jar:?]
+[00:11:44] [Render thread/INFO]: Invalidating pack caches
+[00:11:44] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric, cloth-config, conditional-mixin, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, immediatelyfast, iris, lithium, modernfix, modmenu, moonrise, moreculling, placeholder-api, reeses-sodium-options, sodium, sodiumoptionsapi
+[00:11:45] [Worker-ResourceReload-12/INFO]: Found unifont_all_no_pua-15.1.05.hex, loading
+[00:11:45] [ForkJoinPool.commonPool-worker-1/WARN]: [Iris Update Check] This version doesn't have an update index, skipping.
+[00:11:45] [Worker-ResourceReload-7/INFO]: Found unifont_jp_patch-15.1.05.hex, loading
+[00:11:45] [Render thread/INFO]: Chunk system is using population gen parallelism: false
+[00:11:45] [Render thread/ERROR]: Mixin apply for mod architectury failed architectury.mixins.json:MixinExplosion from mod architectury -> net.minecraft.class_1927: org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException @At("INVOKE") on net/minecraft/class_1927::explodePost with priority 1000 cannot inject into net/minecraft/class_1927::method_8348()V merged by ca.spottedleaf.moonrise.mixin.collisions.ExplosionMixin with priority 1000 [INJECT_PREPARE Applicator Phase -> architectury.mixins.json:MixinExplosion from mod architectury -> Prepare Injections -> handler$zzn000$architectury$explodePost(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;Ljava/util/Set;IFIIIIIILjava/util/List;)V -> Prepare ->  -> { target: method_8348()V }]
+org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At("INVOKE") on net/minecraft/class_1927::explodePost with priority 1000 cannot inject into net/minecraft/class_1927::method_8348()V merged by ca.spottedleaf.moonrise.mixin.collisions.ExplosionMixin with priority 1000 [INJECT_PREPARE Applicator Phase -> architectury.mixins.json:MixinExplosion from mod architectury -> Prepare Injections -> handler$zzn000$architectury$explodePost(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;Ljava/util/Set;IFIIIIIILjava/util/List;)V -> Prepare ->  -> { target: method_8348()V }]
+	at org.spongepowered.asm.mixin.injection.code.Injector.findTargetNodes(Injector.java:312) ~[sponge-mixin-0.15.4+mixin.0.8.7.jar:0.15.4+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.injection.code.Injector.find(Injector.java:248) ~[sponge-mixin-0.15.4+mixin.0.8.7.jar:0.15.4+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.prepare(InjectionInfo.java:475) ~[sponge-mixin-0.15.4+mixin.0.8.7.jar:0.15.4+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.prepareInjections(MixinTargetContext.java:1407) ~[sponge-mixin-0.15.4+mixin.0.8.7.jar:0.15.4+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.prepareInjections(MixinApplicatorStandard.java:731) ~[sponge-mixin-0.15.4+mixin.0.8.7.jar:0.15.4+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:315) ~[sponge-mixin-0.15.4+mixin.0.8.7.jar:0.15.4+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:246) ~[sponge-mixin-0.15.4+mixin.0.8.7.jar:0.15.4+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:437) ~[sponge-mixin-0.15.4+mixin.0.8.7.jar:0.15.4+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:418) ~[sponge-mixin-0.15.4+mixin.0.8.7.jar:0.15.4+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[sponge-mixin-0.15.4+mixin.0.8.7.jar:0.15.4+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.15.4+mixin.0.8.7.jar:0.15.4+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.15.4+mixin.0.8.7.jar:0.15.4+mixin.0.8.7]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.16.9.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at knot/ca.spottedleaf.moonrise.fabric.FabricHooks.lambda$static$1(FabricHooks.java:41) ~[Moonrise-Fabric-0.1.0-beta.8+68ea18b.jar:?]
+	at knot/net.fabricmc.fabric.impl.base.event.ArrayBackedEvent.update(ArrayBackedEvent.java:54) [fabric-api-base-0.4.42+6573ed8c19-2bb183c1bff11199.jar:?]
+	at knot/net.fabricmc.fabric.impl.base.event.ArrayBackedEvent.<init>(ArrayBackedEvent.java:50) [fabric-api-base-0.4.42+6573ed8c19-2bb183c1bff11199.jar:?]
+	at knot/net.fabricmc.fabric.impl.base.event.EventFactoryImpl.createArrayBacked(EventFactoryImpl.java:47) [fabric-api-base-0.4.42+6573ed8c19-2bb183c1bff11199.jar:?]
+	at knot/net.fabricmc.fabric.api.event.EventFactory.createArrayBacked(EventFactory.java:44) [fabric-api-base-0.4.42+6573ed8c19-2bb183c1bff11199.jar:?]
+	at knot/ca.spottedleaf.moonrise.fabric.FabricHooks.<clinit>(FabricHooks.java:39) [Moonrise-Fabric-0.1.0-beta.8+68ea18b.jar:?]
+	at java.base/jdk.internal.misc.Unsafe.ensureClassInitialized0(Native Method) ~[?:?]
+	at java.base/jdk.internal.misc.Unsafe.ensureClassInitialized(Unsafe.java:1160) [?:?]
+	at java.base/jdk.internal.reflect.MethodHandleAccessorFactory.ensureClassInitialized(MethodHandleAccessorFactory.java:300) [?:?]
+	at java.base/jdk.internal.reflect.MethodHandleAccessorFactory.newConstructorAccessor(MethodHandleAccessorFactory.java:103) [?:?]
+	at java.base/jdk.internal.reflect.ReflectionFactory.newConstructorAccessor(ReflectionFactory.java:200) [?:?]
+	at java.base/java.lang.reflect.Constructor.acquireConstructorAccessor(Constructor.java:549) [?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) [?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) [?:?]
+	at java.base/java.util.ServiceLoader$ProviderImpl.newInstance(ServiceLoader.java:789) [?:?]
+	at java.base/java.util.ServiceLoader$ProviderImpl.get(ServiceLoader.java:729) [?:?]
+	at java.base/java.util.ServiceLoader$3.next(ServiceLoader.java:1403) [?:?]
+	at java.base/java.util.ServiceLoader.findFirst(ServiceLoader.java:1813) [?:?]
+	at knot/ca.spottedleaf.moonrise.common.PlatformHooks$Holder.<clinit>(PlatformHooks.java:98) [Moonrise-Fabric-0.1.0-beta.8+68ea18b.jar:?]
+	at knot/ca.spottedleaf.moonrise.common.PlatformHooks.get(PlatformHooks.java:27) [Moonrise-Fabric-0.1.0-beta.8+68ea18b.jar:?]
+	at knot/ca.spottedleaf.moonrise.common.util.MoonriseCommon$2.accept(MoonriseCommon.java:70) [Moonrise-Fabric-0.1.0-beta.8+68ea18b.jar:?]
+	at knot/ca.spottedleaf.moonrise.common.util.MoonriseCommon$2.accept(MoonriseCommon.java:64) [Moonrise-Fabric-0.1.0-beta.8+68ea18b.jar:?]
+	at knot/ca.spottedleaf.moonrise.libs.ca.spottedleaf.concurrentutil.executor.thread.PrioritisedThreadPool.adjustThreadCount(PrioritisedThreadPool.java:185) [Moonrise-Fabric-0.1.0-beta.8+68ea18b.jar:?]
+	at knot/ca.spottedleaf.moonrise.common.util.MoonriseCommon.adjustWorkerThreads(MoonriseCommon.java:58) [Moonrise-Fabric-0.1.0-beta.8+68ea18b.jar:?]
+	at knot/ca.spottedleaf.moonrise.common.config.moonrise.MoonriseConfig$WorkerPool.initialise(MoonriseConfig.java:182) [Moonrise-Fabric-0.1.0-beta.8+68ea18b.jar:?]
+	at knot/ca.spottedleaf.moonrise.common.config.adapter.TypeAdapterRegistry$AutoTypeAdapter.callInitialisers(TypeAdapterRegistry.java:289) [Moonrise-Fabric-0.1.0-beta.8+68ea18b.jar:?]
+	at knot/ca.spottedleaf.moonrise.common.config.adapter.TypeAdapterRegistry.callInitialisers(TypeAdapterRegistry.java:129) [Moonrise-Fabric-0.1.0-beta.8+68ea18b.jar:?]
+	at knot/ca.spottedleaf.moonrise.common.config.config.YamlConfig.callInitialisers(YamlConfig.java:140) [Moonrise-Fabric-0.1.0-beta.8+68ea18b.jar:?]
+	at knot/ca.spottedleaf.moonrise.common.util.ConfigHolder.reloadConfig(ConfigHolder.java:56) [Moonrise-Fabric-0.1.0-beta.8+68ea18b.jar:?]
+	at knot/ca.spottedleaf.moonrise.common.util.ConfigHolder.<clinit>(ConfigHolder.java:42) [Moonrise-Fabric-0.1.0-beta.8+68ea18b.jar:?]
+	at knot/net.minecraft.class_310.handler$cga000$moonrise$initConfig(class_310.java:12169) [client-intermediary.jar:?]
+	at knot/net.minecraft.class_310.<init>(class_310.java:706) [client-intermediary.jar:?]
+	at knot/net.minecraft.client.main.Main.main(Main.java:239) [client-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.16.9.jar:?]
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:100) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70) [NewLaunch.jar:?]

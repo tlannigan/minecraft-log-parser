@@ -1,0 +1,68 @@
+[08:53:35] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[08:53:35] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[08:53:35] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[08:53:35] [main/INFO]: Forge Mod Loader version 7.99.40.1614 for Minecraft 1.7.10 loading
+[08:53:35] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at C:\Users\tlannigan\curseforge\minecraft\Install\runtime\jre-legacy\windows-x64\jre-legacy
+[08:53:35] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[08:53:35] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[08:53:35] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[08:53:35] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[08:53:35] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:53:36] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[08:53:36] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[08:53:36] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[08:53:36] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[08:53:37] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[08:53:37] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[08:53:37] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[08:53:37] [main/INFO]: Setting user: Tirsty_
+[08:53:38] [Client thread/INFO]: LWJGL Version: 2.9.1
+[08:53:39] [Client thread/INFO]: Could not load splash.properties, will create a default one
+[08:53:39] [Client thread/INFO]: [cpw.mods.fml.client.SplashProgress:start:188]: ---- Minecraft Crash Report ----
+// Hi. I'm Minecraft, and I'm a crashaholic.
+
+Time: 4/3/24 8:53 AM
+Description: Loading screen debug info
+
+This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 287164056 bytes (273 MB) / 473432064 bytes (451 MB) up to 7635730432 bytes (7282 MB)
+	JVM Flags: 3 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx8192m -Xms256m
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 546.33' Renderer: 'NVIDIA GeForce RTX 2070 SUPER/PCIe/SSE2'
+[08:53:39] [Client thread/INFO]: Attempting early MinecraftForge initialization
+[08:53:39] [Client thread/INFO]: MinecraftForge v10.13.4.1614 Initialized
+[08:53:39] [Client thread/INFO]: Replaced 183 ore recipies
+[08:53:39] [Client thread/INFO]: Completed early MinecraftForge initialization
+[08:53:39] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[08:53:39] [Client thread/INFO]: Searching C:\Users\tlannigan\curseforge\minecraft\Instances\1.7.10\mods for mods
+[08:53:44] [Client thread/INFO]: Forge Mod Loader has identified 5 mods to load
+[08:53:44] [Client thread/ERROR]: The mod ThermalExpansion (Thermal Expansion) requires mods [CoFHCore] to be available
+[08:53:44] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation
+[08:53:44] [Client thread/WARN]: There were errors previously. Not beginning mod initialization phase
+[08:53:44] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[08:53:44] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[08:53:44] [Thread-8/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[08:53:44] [Thread-8/INFO]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[08:53:45] [Thread-8/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[08:53:45] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[08:53:45] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[08:53:45] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[08:53:45] [Sound Library Loader/INFO]: Sound engine started
+[08:53:53] [Client thread/INFO]: Stopping!
+[08:53:53] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[08:53:53] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[08:53:53] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[08:53:53] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 

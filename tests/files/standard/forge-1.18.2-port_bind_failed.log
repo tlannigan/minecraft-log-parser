@@ -1,0 +1,119 @@
+[10Jun2024 17:57:50.905] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[10Jun2024 17:57:50.908] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.11 by Oracle Corporation
+[10Jun2024 17:57:51.331] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/sebby/Desktop/Ragnamod-VII-7.1.7-Server/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[10Jun2024 17:57:52.328] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\sebby\Desktop\Ragnamod-VII-7.1.7-Server\libraries\net\minecraftforge\fmlcore\1.18.2-40.2.21\fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
+[10Jun2024 17:57:52.331] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\sebby\Desktop\Ragnamod-VII-7.1.7-Server\libraries\net\minecraftforge\javafmllanguage\1.18.2-40.2.21\javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[10Jun2024 17:57:52.332] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\sebby\Desktop\Ragnamod-VII-7.1.7-Server\libraries\net\minecraftforge\lowcodelanguage\1.18.2-40.2.21\lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[10Jun2024 17:57:52.334] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\sebby\Desktop\Ragnamod-VII-7.1.7-Server\libraries\net\minecraftforge\mclanguage\1.18.2-40.2.21\mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[10Jun2024 17:57:52.517] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 9 dependencies adding them to mods collection
+[10Jun2024 17:57:56.596] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[10Jun2024 17:57:56.613] [main/ERROR] [mixin/]: Mixin config tklib.mixin.json does not specify "minVersion" property
+[10Jun2024 17:57:56.618] [main/ERROR] [mixin/]: Mixin config justhammers.mixins.json does not specify "minVersion" property
+[10Jun2024 17:57:56.647] [main/ERROR] [mixin/]: Mixin config myrtrees-common.mixins.json does not specify "minVersion" property
+[10Jun2024 17:57:56.655] [main/ERROR] [mixin/]: Mixin config supercircuitmaker.mixin.json does not specify "minVersion" property
+[10Jun2024 17:57:56.682] [main/ERROR] [mixin/]: Mixin config polylib.mixins.json does not specify "minVersion" property
+[10Jun2024 17:57:56.802] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [shetiphian.core.mixins.MixinConnector]
+[10Jun2024 17:57:56.803] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
+[10Jun2024 17:57:56.804] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.leobeliik.extremesoundmuffler.MixinConnector]
+[10Jun2024 17:57:56.805] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [shetiphian.endertanks.mixins.MixinConnector]
+[10Jun2024 17:57:56.805] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[10Jun2024 17:57:56.808] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[10Jun2024 17:58:34.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[10Jun2024 17:58:34.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[10Jun2024 17:58:34.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[10Jun2024 17:58:34.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[10Jun2024 17:58:34.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on 73.249.138.191:25565
+[10Jun2024 17:58:34.255] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
+[10Jun2024 17:58:34.380] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** FAILED TO BIND TO PORT!
+[10Jun2024 17:58:34.380] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The exception was: java.net.BindException: Cannot assign requested address: bind
+[10Jun2024 17:58:34.380] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: Perhaps a server is already running on that port?
+[10Jun2024 17:58:34.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Jun2024 17:58:34.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Jun2024 17:58:34.381] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Exception stopping the server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.ServerLevel.m_6857_()" because "serverlevel2" is null
+	at net.minecraft.server.MinecraftServer.m_129885_(MinecraftServer.java:544) ~[server-1.18.2-20220404.173914-srg.jar%23356!/:?]
+	at net.minecraft.server.MinecraftServer.m_7041_(MinecraftServer.java:611) ~[server-1.18.2-20220404.173914-srg.jar%23356!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7041_(DedicatedServer.java:543) ~[server-1.18.2-20220404.173914-srg.jar%23356!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:717) ~[server-1.18.2-20220404.173914-srg.jar%23356!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23356!/:?]
+	at java.lang.Thread.run(Thread.java:842) [?:?]
+[10Jun2024 17:58:34.384] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot read field "playerMap" because "s" is null
+	Index: 3
+	Listeners:
+		0: HIGHEST
+		1: ASM: flaxbeard.immersivepetroleum.common.CommonEventHandler@34c9fa51 onServerStopped(Lnet/minecraftforge/event/server/ServerStoppedEvent;)V
+		2: HIGH
+		3: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/server/ServerStoppedEvent;)V
+		4: NORMAL
+		5: ASM: net.xalcon.torchmaster.Torchmaster@6f9361b8 onServerStopping(Lnet/minecraftforge/event/server/ServerStoppedEvent;)V
+		6: net.minecraftforge.eventbus.EventBus$$Lambda$1476/0x000001be856b72f0@2f57bb3
+		7: net.minecraftforge.eventbus.EventBus$$Lambda$1476/0x000001be856b72f0@59aa8fc
+		8: ASM: class xyz.tytanium.ragnagoblin.world.spawner.SpawnHandler onServerStart(Lnet/minecraftforge/event/server/ServerStoppedEvent;)V
+		9: ASM: class com.mrcrayfish.goblintraders.world.spawner.SpawnHandler onServerStart(Lnet/minecraftforge/event/server/ServerStoppedEvent;)V
+		10: ASM: class snownee.kiwi.schedule.Scheduler serverStopped(Lnet/minecraftforge/event/server/ServerStoppedEvent;)V
+		11: ASM: class noobanidus.mods.lootr.event.HandleChunk onServerStopped(Lnet/minecraftforge/event/server/ServerStoppedEvent;)V
+		12: net.minecraftforge.eventbus.EventBus$$Lambda$1476/0x000001be856b72f0@1b07cd57
+		13: net.minecraftforge.eventbus.EventBus$$Lambda$1476/0x000001be856b72f0@435d3dff
+		14: net.minecraftforge.eventbus.EventBus$$Lambda$1476/0x000001be856b72f0@6adceec4
+		15: ASM: class shadows.placebo.util.PlaceboTaskQueue stopped(Lnet/minecraftforge/event/server/ServerStoppedEvent;)V
+		16: net.minecraftforge.eventbus.EventBus$$Lambda$1476/0x000001be856b72f0@3a51762b
+		17: net.minecraftforge.eventbus.EventBus$$Lambda$1476/0x000001be856b72f0@1f996943
+		18: net.minecraftforge.eventbus.EventBus$$Lambda$1476/0x000001be856b72f0@35010d8a
+		19: ASM: class dan200.computercraft.shared.CommonHooks onServerStopped(Lnet/minecraftforge/event/server/ServerStoppedEvent;)V
+		20: ASM: com.mrcrayfish.configured.impl.simple.SimpleConfigManager@4f38ea8 onServerStopped(Lnet/minecraftforge/event/server/ServerStoppedEvent;)V
+		21: net.minecraftforge.eventbus.EventBus$$Lambda$1476/0x000001be856b72f0@38267f20
+		22: net.minecraftforge.eventbus.EventBus$$Lambda$1476/0x000001be856b72f0@977b621
+		23: net.minecraftforge.eventbus.EventBus$$Lambda$1476/0x000001be856b72f0@5df0053d
+		24: ASM: class sonar.fluxnetworks.register.EventHandler onServerStopped(Lnet/minecraftforge/event/server/ServerStoppedEvent;)V
+		25: net.minecraftforge.eventbus.EventBus$$Lambda$1476/0x000001be856b72f0@60202e54
+		26: net.minecraftforge.eventbus.EventBus$$Lambda$1476/0x000001be856b72f0@6bf4820f
+		27: ASM: top.theillusivec4.polymorph.common.CommonEventsListener@7b8eee6 serverStopped(Lnet/minecraftforge/event/server/ServerStoppedEvent;)V
+		28: LOWEST
+		29: ASM: org.embeddedt.modernfix.forge.init.ModernFixForge@413c09aa onServerDead(Lnet/minecraftforge/event/server/ServerStoppedEvent;)V
+java.lang.NullPointerException: Cannot read field "playerMap" because "s" is null
+	at TRANSFORMER/kubejs@1802.5.5-build.569/dev.latvian.mods.kubejs.server.KubeJSServerEventHandler.destroyServer(KubeJSServerEventHandler.java:107)
+	at TRANSFORMER/kubejs@1802.5.5-build.569/dev.latvian.mods.kubejs.server.KubeJSServerEventHandler.serverStopped(KubeJSServerEventHandler.java:101)
+	at java.base/java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:732)
+	at TRANSFORMER/architectury@4.12.94/dev.architectury.event.EventFactory.invokeMethod(EventFactory.java:53)
+	at TRANSFORMER/architectury@4.12.94/dev.architectury.event.EventFactory$1.handleInvocation(EventFactory.java:62)
+	at MC-BOOTSTRAP/com.google.common@31.0.1-jre/com.google.common.reflect.AbstractInvocationHandler.invoke(AbstractInvocationHandler.java:89)
+	at TRANSFORMER/jdk.proxy3/jdk.proxy3.$Proxy142.stateChanged(Unknown Source)
+	at TRANSFORMER/architectury@4.12.94/dev.architectury.event.forge.EventHandlerImplCommon.event(EventHandlerImplCommon.java:102)
+	at net.minecraftforge.eventbus.ASMEventHandler_750_EventHandlerImplCommon_event_ServerStoppedEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/eventbus@5.0.3/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+	at MC-BOOTSTRAP/eventbus@5.0.3/net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+	at MC-BOOTSTRAP/eventbus@5.0.3/net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+	at TRANSFORMER/forge@40.2.21/net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:121)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:725)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+
+[10Jun2024 17:58:34.385] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Uncaught exception in server thread
+java.lang.NullPointerException: Cannot read field "playerMap" because "s" is null
+	at dev.latvian.mods.kubejs.server.KubeJSServerEventHandler.destroyServer(KubeJSServerEventHandler.java:107) ~[kubejs-forge-1802.5.5-build.569.jar%23210!/:1802.5.5-build.569]
+	at dev.latvian.mods.kubejs.server.KubeJSServerEventHandler.serverStopped(KubeJSServerEventHandler.java:101) ~[kubejs-forge-1802.5.5-build.569.jar%23210!/:1802.5.5-build.569]
+	at java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:732) ~[?:?]
+	at dev.architectury.event.EventFactory.invokeMethod(EventFactory.java:53) ~[architectury-4.12.94-forge.jar%2355!/:?]
+	at dev.architectury.event.EventFactory$1.handleInvocation(EventFactory.java:62) ~[architectury-4.12.94-forge.jar%2355!/:?]
+	at com.google.common.reflect.AbstractInvocationHandler.invoke(AbstractInvocationHandler.java:89) ~[guava-31.0.1-jre.jar%2323!/:?]
+	at jdk.proxy3.$Proxy142.stateChanged(Unknown Source) ~[?:?]
+	at dev.architectury.event.forge.EventHandlerImplCommon.event(EventHandlerImplCommon.java:102) ~[architectury-4.12.94-forge.jar%2355!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler_750_EventHandlerImplCommon_event_ServerStoppedEvent.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:121) ~[forge-1.18.2-40.2.21-universal.jar%23361!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:725) ~[server-1.18.2-20220404.173914-srg.jar%23356!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23356!/:?]
+	at java.lang.Thread.run(Thread.java:842) [?:?]
+[10Jun2024 17:58:34.896] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.0.49 Target: null
+[10Jun2024 17:58:34.896] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pigpen] Starting version check at https://updates.blamejared.com/get?n=pigpen&gv=1.18.2
+[10Jun2024 17:58:35.023] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pigpen] Found status: BETA Current: 8.0.1 Target: 8.0.1
+[10Jun2024 17:58:35.023] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [engineersdecor] Starting version check at https://raw.githubusercontent.com/stfwi/engineers-decor/versions/forge-1.18.2.json
+[10Jun2024 17:58:35.048] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [engineersdecor] Found status: UP_TO_DATE Current: 1.1.28 Target: null
+[10Jun2024 17:58:35.049] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Starting version check at https://raw.githubusercontent.com/ApexStudios-Dev/Version/master/apexcore.json
+[10Jun2024 17:58:35.068] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Found status: AHEAD Current: 4.13.0 Target: null
+[10Jun2024 17:58:35.068] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Starting version check at https://api.modrinth.com/updates/fantasy-furniture/forge_updates.json
+[10Jun2024 17:58:35.191] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Found status: UP_TO_DATE Current: 3.14.0 Target: null
+[10Jun2024 17:58:35.191] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [modularrouters] Starting version check at https://raw.githubusercontent.com/desht/ModularRouters/MC1.18.2-master/release_info.json
+[10Jun2024 17:58:35.211] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [modularrouters] Found status: UP_TO_DATE Current: 9.1.2 Target: null

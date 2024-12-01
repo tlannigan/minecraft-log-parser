@@ -1,0 +1,1180 @@
+[19:36:19] [main/INFO]: ModLauncher running: args [--username, PuNz3r3, --version, forge-47.3.10, --gameDir, C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update, --assetsDir, C:\Users\User\curseforge\minecraft\Install\assets, --assetIndex, 5, --uuid, 53dc15ccb2424b17aa054c2e2d4f35a8, --accessToken, ????????, --clientId, 29ca59-5068d2-214b98-cdb56d-ac81b8, --xuid, 2535411325253679, --userType, msa, --versionType, release, --width, 1024, --height, 768, --launchTarget, forgeclient, --fml.forgeVersion, 47.3.10, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[19:36:19] [main/INFO]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.8 by Eclipse Adoptium; OS Windows 10 arch amd64 version 10.0
+[19:36:21] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
+[19:36:21] [main/INFO]: Trying GL version 4.6
+[19:36:21] [main/INFO]: Requested GL version 4.6 got version 4.6
+[19:36:21] [main/INFO]: Redirector CoreMod initialized successfully!
+[19:36:21] [main/INFO]: Mixin Transmogrifier is definitely up to no good...
+[19:36:21] [main/INFO]: crimes against java were committed
+[19:36:21] [main/INFO]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
+[19:36:21] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/User/curseforge/minecraft/Instances/SteamPunk%20%5BLPS%5D%20-%201.20%20Update/mods/Connector-1.0.0-beta.46+1.20.1.jar%23542%23546!/ Service=ModLauncher Env=CLIENT
+[19:36:21] [pool-2-thread-1/INFO]: GL info: Radeon RX 580 Series GL version 4.6.0 Core Profile Context 24.9.1.240813, ATI Technologies Inc.
+[19:36:21] [main/INFO]: Found mod file Connector-1.0.0-beta.46+1.20.1-mod.jar of type MOD with provider org.sinytra.connector.locator.ConnectorEarlyLocator@52a70627
+[19:36:22] [main/INFO]: Found mod file ad_astra-forge-1.20.1-1.15.18.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file adtetra-2.0.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file AdvancementPlaques-1.20.1-forge-1.6.7.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file aeroblender-1.20.1-1.0.1-neoforge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file aether-1.20.1-1.5.1-neoforge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file aether_delight_1.0.0_forge_1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file aether_enhanced_extinguishing-1.20.1-1.0.0-neoforge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file aetheric_tetranomicon-1.1.2-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file alexscaves-2.0.2.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file alexsdelight-1.5.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file alexsmobs-1.22.9.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file almanac-1.20.x-forge-1.0.2.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file alternate_current-mc1.20-1.7.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file AmbientSounds_FORGE_v6.1.3_mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file amendments-1.20-1.2.12.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file appleskin-forge-mc1.20.1-2.5.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file appliedenergistics2-forge-15.2.13.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file aquamirae-6.API15.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file architectury-9.2.14-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file art_of_forging-1.8.3-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file ash_api-forge-3.0.2+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file athena-forge-1.20.1-3.1.2.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file AttributeFix-Forge-1.20.1-21.0.4.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file AutoLeveling-1.20-1.19b.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file azurelib-neo-1.20.1-2.0.39.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file BadMobs-1.20.1-19.0.4.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file balm-forge-1.20.1-7.3.9-all.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file BarteringStation-v8.0.0-1.20.1-Forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file bellsandwhistles-0.4.3-1.20.x.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file BetterAdvancements-Forge-1.20.1-0.4.2.10.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file BetterModsButton-v8.0.2-1.20.1-Forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file bettervillage-forge-1.20.1-3.2.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file BHMenu-Forge-1.20.1-2.4.2.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file biomemusic-1.20.1-2.5.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file BiomesOPlenty-forge-1.20.1-19.0.0.91.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file blockui-1.20.1-1.0.186-beta.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file blue_skies-1.20.1-1.3.31.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file BoatBreakFix-Universal-1.0.2.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file bobberdetector-0.1.9-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file BOMD-Forge-1.20.1-1.1.2.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file Bookshelf-Forge-1.20.1-20.2.13.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file botarium-forge-1.20.1-2.3.4.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file Bountiful-6.0.3+1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file Byzantine-1.21.1-21.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file caelus-forge-3.2.0+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file capes-1.5.2+1.20-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file carryon-forge-1.20.1-2.1.2.7.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file cc-tweaked-1.20.1-forge-1.113.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file cccbridge-mc1.20.1-forge-1.6.3.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file CerbonsAPI-Forge-1.20.1-1.1.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file charmofundying-forge-6.5.0+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file chefs-delight-1.0.3-forge-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file chipped-forge-1.20.1-3.0.7.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file chunksending-1.20.1-2.8.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file citadel-2.6.0-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file ClayBrickRecipeRework-mc1.20.1-1.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file cleanswing-1.20-1.5.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file clientcrafting-1.20.1-1.8.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file cloth-config-11.1.136-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file Clumps-forge-1.20.1-12.0.0.4.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file cobweb-forge-1.20.1-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file cofh_core-1.20.1-11.0.2.56.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file ColdSweat-2.3.7.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file ColdSweat-2.3.8.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file collective-1.20.1-7.87.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file comforts-forge-6.4.0+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file ConfiguredDefaults-v8.0.1-1.20.1-Forge.jar of type LANGPROVIDER with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file connectivity-1.20.1-5.6.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file ConnectorExtras-1.11.2+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file constructionwand-1.20.1-2.11.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file Controlling-forge-1.20.1-12.0.2.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file corn_delight-1.1.6-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file coroutil-forge-1.20.1-1.3.7.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file corpse-forge-1.20.1-1.0.17.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file cp_tweaks-forge-1.20.1-1.0.21.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file craftingtweaks-forge-1.20.1-18.2.5.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file CraftTweaker-forge-1.20.1-14.0.44.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file crashexploitfixer-forge-1.1.0+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file crawlondemand-1.20.x-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:22] [main/INFO]: Found mod file create-1.20.1-0.5.1.j.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file create-confectionery1.20.1_v1.1.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Create-DnDesire-1.20.1-0.1b.Release-Early-Dev.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file create-new-age-forge-1.20.1-1.1.2.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file create-stuff-additions1.20.1_v2.0.5.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file create_ad_astra_compat-forge-1.20.1-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file create_better_villagers-1.2.1.j.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file create_blue_skies_compat-forge-1.20.1-1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.12.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file create_compressed_1.0.1_forge_1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file create_connected-0.9.2-mc1.20.1-all.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file create_easy_structures-0.1.2-forge-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file create_power_loader-1.5.0-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file create_recipes-1.2.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file create_recycle_1.0.2_forge_1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file createaddition-1.20.1-1.2.4e.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file createair-1.0-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file createappliedkinetics-1.4.0-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file createbigcannons-5.6.0-mc.1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file createchunkloading-1.6.0-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file createdeco-2.0.2-1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file createendertransmission-2.0.7-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file createliquidfuel-2.1.1-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file createloveandwar-0.3-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file createmetallurgy-0.0.6-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file createrailwaysnavigator-forge-1.20.1-0.6.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file CreateTweaker-forge-1.20.1-4.0.13.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file CreativeCore_FORGE_v2.12.22_mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Crystal-Clear-2.1-Beta-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file cupboard-1.20.1-2.7.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file curios-forge-5.11.0+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file CutThrough-v8.0.2-1.20.1-Forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Delightful-1.20.1-3.6.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file design_decor-0.4.0b-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file deuf-1.20.1-1.3.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file dimasctetracompat-1.20.1-1.4.0.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file dimensionalsycnfixes-1.20.1-0.0.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file domum_ornamentum-1.20.1-1.0.282-snapshot-universal.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file dragonfight-1.20.1-4.6.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file drippyloadingscreen_forge_3.0.9_MC_1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file dungeons_enhanced-1.20.1-5.2.2.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file EasyAnvils-v8.0.2-1.20.1-Forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file EasyMagic-v8.0.1-1.20.1-Forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file eeeabsmobs-1.20.1-0.95.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file EffectTooltips-Forge-1.20.1-9.0.2.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file effortlessbuilding-1.20.1-3.9-all.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file elytraslot-forge-6.4.4+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file endersdelight-1.20.1-1.0.3.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file endrem_forge-5.3.3-R-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file enemyexpansion-2.3.1-forge-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file enigmaticaddons-1.1.3.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file enigmaticaddons-1.1.4.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file EnigmaticLegacy-2.30.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file entity_model_features_forge_1.20.1-2.2.6.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file entity_texture_features_forge_1.20.1-6.2.7.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file EpheroLib-1.20.1-FORGE-1.2.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file EquipmentCompare-1.20.1-forge-1.3.7.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file EuphoriaPatcher-0.3.4-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file EuphoriaPatcher-1.4.3-r5.3-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file extendedgears-2.1.1-1.20.1-0.5.1.f-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file fabric-api-0.92.2+1.11.8+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Fallingleaves-1.20.1-2.1.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file fancymenu_forge_3.3.2_MC_1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file FarmersDelight-1.20.1-1.2.4.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file FarmersDelight-1.20.1-1.2.5.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file FarmersStructures-1.0.3-1.20.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file farsight-1.20.1-3.7.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file fast-ip-ping-v1.0.5-mc1.20.4-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file fastasyncworldsave-1.20.1-2.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file fastpaintings-1.20-1.2.7.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file ferritecore-6.0.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file flansmod-1.20.1-0.4.193.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file foodeffecttooltips+forge-1.20.1-1.3.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file ForgeConfigScreens-v8.0.2-1.20.1-Forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file FramedBlocks-9.3.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file framework-forge-1.20.1-0.7.11.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file freecam-forge-1.2.1+1.20.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file friendsandfoes-forge-mc1.20.1-3.0.5.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file ftb-library-forge-2001.2.4.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file ftb-library-forge-2001.2.5.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file ftb-quests-forge-2001.4.9.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file ftb-teams-forge-2001.3.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file ftb-xmod-compat-forge-2.1.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file fullstackwatchdog-1.0.1+1.19.2-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file fusion-1.1.1-forge-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file gamemenumodoption-mc1.20.1-2.2.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file geckolib-forge-1.20.1-4.4.9.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file GeckoLibOculusCompat-Forge-1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Geophilic v3.1.4 f15-57.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file GeophilicReforged-v1.2.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file gjeb-forge-1.20.1-1.3.0.34.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file GlitchCore-forge-1.20.1-0.0.1.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file goblins_tyranny-1.2.3-forge-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file goblintraders-forge-1.20.1-1.9.3.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file gpumemleakfix-1.20.1-1.8.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file HammerLib-1.20.1-20.1.33.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file handcrafted-forge-1.20.1-3.0.6.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Hearths v1.0.1 f12-48.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Highlighter-1.20.1-forge-1.1.9.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Iceberg-1.20.1-forge-1.1.25.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file idas_forge-1.10.1+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file IllagerInvasion-v8.0.6-1.20.1-Forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file ImmediatelyFast-Forge-1.3.1+1.20.4.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file ImmediatelyFast-Forge-1.3.2+1.20.4.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file immersive_aircraft-1.1.3+1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file immersive_paintings-0.6.7+1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file ImprovableSkills-1.20.1-20.1.11.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file integrated_api-1.5.1+1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file integrated_stronghold-1.1.1+1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file integrated_villages-1.0.1+1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file interiors-0.5.6+forge-mc1.20.1-build.104.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file inventorysorter-1.20.1-23.0.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file item-filters-forge-2001.1.0-build.59.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Jade-1.20.1-forge-11.11.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file JadeAddons-1.20.1-Forge-5.3.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file jei-1.20.1-forge-15.20.0.105.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file justenoughbreeding-forge-1.20.x-1.4.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file JustEnoughProfessions-forge-1.20.1-3.0.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file JustEnoughResources-1.20.1-1.4.0.247.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file justzoom_forge_2.0.0_MC_1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Kambrik-6.1.1+1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Kiwi-1.20.1-Forge-11.8.20.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file konkrete_forge_1.8.0_MC_1.20-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file kotlinforforge-4.11.0-all.jar of type LIBRARY with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file KryptonReforged-0.2.3.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file L_Enders_Cataclysm-2.16 - 1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file L_Enders_Cataclysm-2.18 - 1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file LeavesBeGone-v8.0.0-1.20.1-Forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file letmedespawn-1.20.x-forge-1.4.4.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file letsdo-API-forge-1.2.15-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file libertyvillagers-2.0.0+forge+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file libraryferret-forge-1.20.1-4.0.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file lionfishapi-1.9.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file lithostitched-forge-1.20.1-1.3.4.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file lmft-1.0.4+1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Log-Begone-Forge-1.20.1-1.0.8.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file lootintegrations-1.20.1-3.7.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file lootintegrations_yungs-1.2.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file lost_aether_content-1.20.1-1.2.3.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Luna-FORGE-MC1.19.X-1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file mcjtylib-1.20-8.0.6.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file mcw-bridges-3.0.0-mc1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file mcw-doors-1.1.1forge-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file mcw-fences-1.1.2-mc1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file mcw-trapdoors-1.1.3-mc1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file melody_forge_1.0.3_MC_1.20.1-1.20.4.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file memorysettings-1.20.1-5.5.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file mes-1.3.4-1.20-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file minecolonies-1.20.1-1.1.603-RELEASE.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file mineraldelight-1.4.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file miners_delight-1.20.1-1.2.3.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file missions-forge-0.3.6.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file missions-forge-0.4.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file mns-1.0.3-1.20-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file modernfix-forge-5.19.5+mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file moonlight-1.20-2.13.21-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file moonlight-1.20-2.13.25-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file mopeds_1.1_1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file morevillagers-forge-1.20.1-5.0.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file MouseTweaks-forge-mc1.20.1-2.25.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file mowziesmobs-1.6.5.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file multipiston-1.20-1.2.43-RELEASE.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file mutil-1.20.1-6.1.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file mvs-4.1.4-1.20-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file MyNethersDelight-1.20.1-0.1.7.5.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file mysterious_mountain_lib-1.5.17-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file NaturesCompass-1.20.1-1.11.2-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Neat-1.20.1-41-FORGE.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Necronomicon-Forge-1.6.0+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Neruina-2.1.2-forge+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file NetherChested-v8.0.4-1.20.1-Forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file notenoughanimations-forge-1.7.6-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file notenoughanimations-forge-1.8.1-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file obscure_api-15.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file oculus-flywheel-compat-forge1.20.1+1.1.3b.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file oculus-mc1.20.1-1.7.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file open-parties-and-claims-forge-1.20.1-0.23.2.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file OverflowingBars-v8.0.1-1.20.1-Forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file packetfixer-forge-1.4.2-1.19-to-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Paintings-forge-1.20.1-11.0.0.2.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Patchouli-1.20.1-84-FORGE.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Paxi-1.20-Forge-4.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file pickableorbs-1.20.1-3.0.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file piglinsafety-1.18.2-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file player-animation-lib-forge-1.0.2-rc1+1.20.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file polymorph-forge-0.49.5+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Prism-1.20.1-forge-1.0.5.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file protection_pixel-1.0.9-forge-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file PuzzlesLib-v8.1.24-1.20.1-Forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Quark-4.0-460.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file quark_delight_1.0.0_forge_1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file radium-mc1.20.1-0.12.4+git.26c9d8e.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Raided-1.20.1-0.1.4.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file rechiseled-1.1.6-forge-mc1.20.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file rechiseledcreate-1.0.2-forge-mc1.20.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file recipeessentials-1.20.1-3.6.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file repurposed_structures-7.1.15+1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file resourcefulconfig-forge-1.20.1-2.1.2.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file resourcefullib-forge-1.20.1-2.1.29.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file ResourcePackOverrides-v8.0.3-1.20.1-Forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file right-click-harvest-3.2.3+1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file rustic_engineer-1.20.1-1.0.7.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file rustic_engineer-1.20.1-1.0.8.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file sawmill-1.20-1.4.3.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file ScorchedGuns-0.3.6-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Searchables-forge-1.20.1-1.0.3.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file SereneSeasons-forge-1.20.1-9.1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file sereneseasonsfix-1.20.2-1.1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file ServerBrowser-1.20.1-FORGE-1.3.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file servercore-forge-1.5.1+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file servercountryflags-1.10.1-1.20.1-FORGE.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file ShieldExpansion-1.20.1-1.1.7a.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file SimpleDiscordRichPresence-forge-4.0.3-build.40+mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file skinlayers3d-forge-1.7.0-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file skinlayers3d-forge-1.7.1-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file sliceanddice-forge-3.3.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file smarterfarmers-1.20-2.1.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file smoothchunk-1.20.1-3.6.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file SnowRealMagic-1.20.1-Forge-10.5.2.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file sodiumdynamiclights-forge-1.0.9-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file sodiumoptionsapi-forge-1.0.5-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file sophisticatedbackpacks-1.20.1-3.20.11.1121.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file sophisticatedbackpacks-1.20.1-3.20.12.1126.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file sophisticatedcore-1.20.1-0.6.35.733.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file sophisticatedcore-1.20.1-0.7.1.752.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file sophisticatedstorage-1.20.1-0.10.48.942.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file soul-fire-d-forge-1.20.1-4.0.6.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file sound-physics-remastered-forge-1.20.1-1.4.5.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file spark-1.10.53-forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file sparsestructuresreforged-1.20.1-0.0.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file spyglass_improvements-1.5+mc1.20+forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file starlight-1.1.2+forge.1cda73c.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Steam_Rails-1.6.7+forge-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Stony Cliffs FML v1.1.2.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file StorageDrawers-1.20.1-12.9.11.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file structure_gel-1.20.1-2.16.2.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file structureessentials-1.20.1-3.4.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file structurize-1.20.1-1.0.742-RELEASE.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file stylecolonies-1.10-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file supermartijn642configlib-1.1.8-forge-mc1.20.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file supermartijn642corelib-1.1.17a-forge-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file supplementaries-1.20-3.0.6.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file supplementaries-1.20-3.1.4.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file tact-1.2.1+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file takesapillage-1.0.3-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file tectonic-forge-1.20.1-2.4.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file tempad-forge-1.20.1-2.3.4.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file TerraBlender-forge-1.20.1-3.0.1.7.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Terralith_1.20.x_v2.5.4.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file tetra-1.20.1-6.4.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file tetracelium-1.20.1-1.3.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file tetraextras-0.1.4-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file tetranomicon-1.5.3-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file tfmg-0.9.3-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file the-conjurer-1.20.1-1.1.6.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file the-orcs-1.0-FORGE-1.20.x.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file ThinAir-v8.1.5-1.20.1-Forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file toms_storage-1.20-1.6.8.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file toms_trading_network-1.20-0.3.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file toofast-1.20-0.4.3.5.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file torchmaster-20.1.9.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file towntalk-1.20.1-1.1.0.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file trackwork-1.20.1-1.0.2c.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file transparent-forge-8.0.1+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file travelersbackpack-forge-1.20.1-9.1.16.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file TravelersTitles-1.20-Forge-4.0.2.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file twilightforest-1.20.1-4.3.2508-universal.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file underground_village-1.5.2.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file valkyrienskies-120-2.3.0-beta.5.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file villagernames-1.20.1-8.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file visuality-forge-2.0.2.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file VisualWorkbench-v8.0.0-1.20.1-Forge.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file watut-forge-1.20.1-1.1.3.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file waystones-forge-1.20-14.1.6.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file weather2-1.20.1-2.8.3.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file witheringboon-1.8.3.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file worldedit-mod-7.2.15.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file XaeroPlus-2.24.5+forge-1.20.1-WM1.39.0-MM24.6.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Xaeros_Minimap_24.5.0_Forge_1.20.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Xaeros_Minimap_24.6.1_Forge_1.20.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file XaerosWorldMap_1.39.0_Forge_1.20.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file xenon-0.3.31+mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file YungsApi-1.20-Forge-4.0.6.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file YungsBetterDesertTemples-1.20-Forge-3.0.3.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file YungsBetterDungeons-1.20-Forge-4.0.4.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file YungsBetterEndIsland-1.20-Forge-2.0.6.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file YungsBetterJungleTemples-1.20-Forge-2.0.5.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file YungsBetterMineshafts-1.20-Forge-4.0.4.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file YungsBetterWitchHuts-1.20-Forge-3.0.3.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file YungsBridges-1.20-Forge-4.0.3.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file YungsCaveBiomes-1.20.1-Forge-2.0.1.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file YungsExtras-1.20-Forge-4.0.3.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file YungsMenuTweaks-1.20.1-Forge-1.0.2.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/INFO]: Found mod file Zeta-1.0-24.jar of type MOD with provider {mods folder locator at C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods}
+[19:36:23] [main/WARN]: Mod file C:\Users\User\curseforge\minecraft\Install\libraries\net\minecraftforge\fmlcore\1.20.1-47.3.10\fmlcore-1.20.1-47.3.10.jar is missing mods.toml file
+[19:36:23] [main/WARN]: Mod file C:\Users\User\curseforge\minecraft\Install\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.3.10\javafmllanguage-1.20.1-47.3.10.jar is missing mods.toml file
+[19:36:23] [main/WARN]: Mod file C:\Users\User\curseforge\minecraft\Install\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.3.10\lowcodelanguage-1.20.1-47.3.10.jar is missing mods.toml file
+[19:36:23] [main/WARN]: Mod file C:\Users\User\curseforge\minecraft\Install\libraries\net\minecraftforge\mclanguage\1.20.1-47.3.10\mclanguage-1.20.1-47.3.10.jar is missing mods.toml file
+[19:36:23] [main/INFO]: Found mod file fmlcore-1.20.1-47.3.10.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@21c7208d
+[19:36:23] [main/INFO]: Found mod file javafmllanguage-1.20.1-47.3.10.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@21c7208d
+[19:36:23] [main/INFO]: Found mod file lowcodelanguage-1.20.1-47.3.10.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@21c7208d
+[19:36:23] [main/INFO]: Found mod file mclanguage-1.20.1-47.3.10.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@21c7208d
+[19:36:23] [main/INFO]: Found mod file client-1.20.1-20230612.114412-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@21c7208d
+[19:36:23] [main/INFO]: Found mod file forge-1.20.1-47.3.10-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@21c7208d
+[19:36:24] [main/WARN]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[19:36:24] [main/WARN]: Attempted to select a dependency jar for JarJar which was passed in as source: cloth_config. Using Mod File: C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods\cloth-config-11.1.136-forge.jar
+[19:36:24] [main/WARN]: Attempted to select a dependency jar for JarJar which was passed in as source: curios. Using Mod File: C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods\curios-forge-5.11.0+1.20.1.jar
+[19:36:24] [main/WARN]: Attempted to select a dependency jar for JarJar which was passed in as source: architectury. Using Mod File: C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update\mods\architectury-9.2.14-forge.jar
+[19:36:24] [main/INFO]: Found 123 dependencies adding them to mods collection
+[19:36:24] [main/INFO]: Found mod file kuma-api-forge-20.1.8+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file caffeine-3.1.8.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-renderer-api-v1-3.2.1+1d29b44577.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file junixsocket-common-2.6.2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file joml-primitives-1.10.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file jackson-module-parameter-names-2.14.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file kfflang-4.11.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file kubejs-bridge-1.11.2+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-item-api-v1-2.1.28+4d0bbcfa77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file modmenu-bridge-1.11.2+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-rendering-fluids-v1-3.0.28+4ac5e37a77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-models-v0-0.4.2+7c3892a477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file mclib-20.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-convention-tags-v1-1.5.5+fa3d1c0177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file ritchiesprojectilelib-2.0.0-dev+mc.1.20.1-forge-build.182.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-command-api-v1-1.2.34+f71b366f77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file MixinExtras-0.4.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-block-view-api-v2-1.0.1+0767707077.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-command-api-v2-2.2.13+561530ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-data-attachment-api-v1-1.0.0+30ef839e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file mixinextras-forge-0.2.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file rei-bridge-1.11.2+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file create_dragon_lib-1.20.1-1.4.3.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file itu-1.7.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-screen-api-v1-2.0.8+45a670a577.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file dazzleconf-ext-snakeyaml-1.3.0-M2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file dagger-2.43.2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-content-registries-v0-4.0.11+a670df1e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file Reflect-1.3.4.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file terrablender-bridge-1.11.2+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file NanoLiveConfig-1.2.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-game-rule-api-v1-1.0.40+683d4da877.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file jankson-1.2.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file runtime-1.0.0+1.20.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-api-lookup-api-v1-1.6.36+67f9824077.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file json-20210307.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file Registrate-MC1.20-1.3.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file reach-entity-attributes-2.4.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file architectury-bridge-1.11.2+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file kfflib-4.11.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file bytecodecs-1.0.2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file jackson-annotations-2.17.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-entity-events-v1-1.6.0+6274ab9d77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file cumulus_menus-1.20.1-1.0.1-neoforge.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file yabn-1.0.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-loot-api-v2-1.2.1+eb28f93e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-rendering-data-attachment-v1-0.3.37+a6081afc77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file nitrogen_internals-1.20.1-1.0.11-neoforge.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-networking-api-v1-1.3.11+503a202477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file commons-math3-3.6.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file jlayer-1.0.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-lifecycle-events-v1-2.2.22+afab492177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-key-binding-api-v1-1.0.37+561530ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-client-tags-api-v1-1.1.2+5d6761b877.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file japng-0.5.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-dimensions-v1-2.1.54+8005d10d77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-transfer-api-v1-3.3.5+631c9cd677.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file puzzlesapi-forge-8.1.7.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file dazzleconf-core-1.3.0-M2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file zjsonpatch-0.4.11.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-model-loading-api-v1-1.0.3+6274ab9d77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file pehkui-bridge-1.11.2+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file util-1.1.0+b19b27c4a4.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-screen-handler-api-v1-1.3.30+561530ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file junixsocket-native-common-2.6.2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file jackson-module-kotlin-2.14.0-rubyfork.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-resource-loader-v0-0.11.10+bcd08ed377.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file snakeyaml-2.2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-rendering-v1-3.0.8+66e9a48f77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-renderer-indigo-1.5.2+b5b2da4177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-mining-level-api-v1-2.1.50+561530ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file commons-collections4-4.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file github-api-1.318.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file geckolib-fabric-compat-1.11.2+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file jzlib-1.1.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file jsonschema-module-jackson-4.25.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file DiscordIPC-a8d6631cc9.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file animated-gif-lib-for-java-animated-gif-lib-1.7.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file energy-bridge-1.11.2+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-particles-v1-1.1.2+78e1ecb877.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file puzzlesaccessapi-forge-8.0.9.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-transitive-access-wideners-v1-4.3.1+1880499877.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file jctools-core-4.0.5.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file dragonlib-forge-1.20.1-2.2.16.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file classmate-1.5.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-api-base-0.4.31+ef105b4977.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file jackson-core-2.17.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-blockrenderlayer-v1-1.1.41+1d0da21e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file mixinsquared-forge-0.1.2-beta.6.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file json-schema-validator-1.0.71.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file extras-utils-1.11.2+1.20.1.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file LambdaEvents-2.4.2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file amecsapi-1.5.3+mc1.20-pre1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file jackson-kotlin-dsl-1.2.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file api-1.1.0+b19b27c4a4.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file jackson-dataformat-cbor-2.14.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file spectrelib-forge-0.13.15+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-block-api-v1-1.0.11+0e6cb7f777.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file httpmime-4.5.10.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file javax.inject-1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file jei-bridge-1.11.2+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-resource-conditions-api-v1-2.3.8+9ad825cd77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file forgeconfigapiport-1.11.2+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file cobalt-0.9.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file kffmod-4.11.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file flywheel-forge-1.20.1-0.6.11-13.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file OldBiomes-1.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-item-group-api-v1-4.0.12+c9161c2d77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file jcpp-1.4.14.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file Connector-1.0.0-beta.46+1.20.1-fabricloader.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-biome-api-v1-13.0.13+dc36698e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file MathParser.org-mXparser-5.2.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-registry-sync-v0-2.3.3+1c0ea72177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-recipe-api-v1-1.0.21+514a076577.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-object-builder-api-v1-11.1.3+2174fc8477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file jsonschema-generator-4.25.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file jackson-databind-2.17.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-sound-api-v1-1.0.13+4f23bd8477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-message-api-v1-5.1.9+52cc178c77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file emi-bridge-1.11.2+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-data-generation-api-v1-12.3.4+369cb3a477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file MixinSquared-0.1.2-beta.6.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Found mod file fabric-events-interaction-v0-0.6.2+0d0bd5a777.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@50b93353
+[19:36:24] [main/INFO]: Fabric mod metadata not found in jar ConfiguredDefaults.v8._0._1.Forge, ignoring
+[19:36:25] [main/INFO]: Fabric mod metadata not found in jar thedarkcolour.kotlinforforge, ignoring
+[19:36:26] [main/INFO]: Dependency resolution found 5 candidates to load
+[19:36:28] [main/INFO]: Found mod file Eldritch_End-FORGE-MC1.20.1-0.3.2$aaa-particles-1.20.1-1.4.5-fabric_mapped_srg_1.20.1.jar of type MOD with provider org.sinytra.connector.locator.ConnectorLocator@46702c26
+[19:36:28] [main/INFO]: Found mod file bclib-3.0.14_mapped_srg_1.20.1.jar of type MOD with provider org.sinytra.connector.locator.ConnectorLocator@46702c26
+[19:36:28] [main/INFO]: Found mod file better-end-4.0.11_mapped_srg_1.20.1.jar of type MOD with provider org.sinytra.connector.locator.ConnectorLocator@46702c26
+[19:36:28] [main/INFO]: Found mod file Eldritch_End-FORGE-MC1.20.1-0.3.2_mapped_srg_1.20.1.jar of type MOD with provider org.sinytra.connector.locator.ConnectorLocator@46702c26
+[19:36:28] [main/INFO]: Found mod file bclib-3.0.14$wunderlib-1.1.5_mapped_srg_1.20.1.jar of type MOD with provider org.sinytra.connector.locator.ConnectorLocator@46702c26
+[19:36:28] [main/INFO]: Applying default files...
+[19:36:28] [main/INFO]: Successfully copied 'SteamPunk [LPS] - 1.20 Update\configureddefaults\options.txt' to 'SteamPunk [LPS] - 1.20 Update\options.txt'
+[19:36:29] [main/INFO]: Successfully made module authlib transformable
+[19:36:36] [main/INFO]: Compatibility level set to JAVA_17
+[19:36:37] [main/INFO]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[19:36:37] [main/INFO]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[19:36:37] [main/INFO]: Successfully loaded Mixin Connector [com.aizistral.enigmaticlegacy.MixinConnector]
+[19:36:37] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-47.3.10, --gameDir, C:\Users\User\curseforge\minecraft\Instances\SteamPunk [LPS] - 1.20 Update, --assetsDir, C:\Users\User\curseforge\minecraft\Install\assets, --uuid, 53dc15ccb2424b17aa054c2e2d4f35a8, --username, PuNz3r3, --assetIndex, 5, --accessToken, ????????, --clientId, 29ca59-5068d2-214b98-cdb56d-ac81b8, --xuid, 2535411325253679, --userType, msa, --versionType, release, --width, 1024, --height, 768]
+[19:36:37] [main/INFO]: Loaded configuration file for ModernFix 5.19.5+mc1.20.1: 84 options available, 2 override(s) found
+[19:36:37] [main/WARN]: Option 'mixin.perf.faster_item_rendering' overriden (by user configuration) to 'true'
+[19:36:37] [main/WARN]: Option 'mixin.perf.dynamic_resources' overriden (by user configuration) to 'true'
+[19:36:37] [main/INFO]: Applying Nashorn fix
+[19:36:37] [main/INFO]: Applied Forge config corruption patch
+[19:36:37] [main/WARN]: Reference map 'handcrafted-forge-1.20.1-forge-refmap.json' for handcrafted.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:37] [main/WARN]: Reference map 'morevillagers-forge-forge-refmap.json' for morevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:38] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:38] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:38] [main/WARN]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:38] [main/INFO]: Loaded configuration file for Radium: 125 options available, 15 override(s) found
+[19:36:38] [main/WARN]: Reference map 'EpheroLib-refmap.json' for epherolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:38] [main/WARN]: Reference map 'aaa_particles-fabric-refmap.json' for aaa_particles.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:38] [main/WARN]: Reference map 'tfmg.refmap.json' for design_decor.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:38] [main/WARN]: Reference map 'fastpaintings-forge-refmap.json' for fastpaintings-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:38] [main/INFO]: Redirecting com/llamalad7/mixinextras/service/MixinExtrasVersion
+[19:36:38] [main/WARN]: Reference map 'cobweb.refmap.json' for cobweb.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:38] [main/WARN]: Reference map 'cobweb.refmap.json' for cobweb.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:38] [main/WARN]: Reference map 'tempad-forge-1.20.1-forge-refmap.json' for tempad.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:38] [main/WARN]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:38] [main/WARN]: Reference map 'capes-forge-refmap.json' for capes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:38] [main/WARN]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:38] [main/INFO]: Redirecting malte0811/ferritecore/mixin/config/FerriteMixinConfig$LithiumSupportState
+[19:36:38] [main/INFO]: Loaded configuration file for Xenon: 496 options available, 3 override(s) found
+[19:36:38] [main/INFO]: Searching for graphics cards...
+[19:36:38] [main/INFO]: Redirecting me/jellysquid/mods/sodium/client/compatibility/environment/OSInfo$OS
+[19:36:38] [main/INFO]: Redirecting me/jellysquid/mods/sodium/client/compatibility/environment/probe/GraphicsAdapterVendor
+[19:36:38] [main/INFO]: Found graphics card: GraphicsAdapterInfo[vendor=UNKNOWN, name=Parsec Virtual Display Adapter, version=DriverVersion=0.41.0.0]
+[19:36:38] [main/INFO]: Found graphics card: GraphicsAdapterInfo[vendor=AMD, name=Radeon RX 580 Series, version=DriverVersion=31.0.21921.1000]
+[19:36:38] [main/INFO]: Redirecting me/jellysquid/mods/sodium/client/compatibility/workarounds/Workarounds$Reference
+[19:36:38] [main/WARN]: Reference map 'createdeco-forge-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:38] [main/WARN]: Reference map 'lmft-common-refmap.json' for lmft-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:39] [main/INFO]: Redirecting space/arim/dazzleconf/internal/type/CollectionKind
+[19:36:39] [main/INFO]: Redirecting org/yaml/snakeyaml/DumperOptions$ScalarStyle
+[19:36:39] [main/INFO]: Redirecting org/yaml/snakeyaml/DumperOptions$FlowStyle
+[19:36:39] [main/INFO]: Redirecting org/yaml/snakeyaml/DumperOptions$LineBreak
+[19:36:39] [main/INFO]: Redirecting org/yaml/snakeyaml/DumperOptions$NonPrintableStyle
+[19:36:39] [main/INFO]: Redirecting org/yaml/snakeyaml/nodes/NodeId
+[19:36:39] [main/INFO]: Redirecting org/yaml/snakeyaml/introspector/BeanAccess
+[19:36:39] [main/INFO]: Redirecting org/yaml/snakeyaml/comments/CommentType
+[19:36:39] [main/INFO]: Redirecting org/yaml/snakeyaml/events/Event$ID
+[19:36:39] [main/INFO]: Redirecting org/yaml/snakeyaml/tokens/Token$ID
+[19:36:39] [main/INFO]: Redirecting com/illusivesoulworks/polymorph/common/integration/PolymorphIntegrations$Mod
+[19:36:39] [main/INFO]: Redirecting com/illusivesoulworks/polymorph/common/integration/PolymorphIntegrations$Loader
+[19:36:39] [main/INFO]: Redirecting fuzs/puzzleslib/api/core/v1/ModLoader
+[19:36:39] [main/INFO]: Loading 439 mods:
+	- aaa_particles 1.20.1-1.4.5
+	- ad_astra 1.15.18
+	- adtetra 2.0.0
+	- advancementplaques 1.6.7
+	- ae2 15.2.13
+	- aeroblender 1.20.1-1.0.1-neoforge
+	- aether 1.20.1-1.5.1-neoforge
+		|-- cumulus_menus 1.20.1-1.0.1-neoforge
+		\-- nitrogen_internals 1.20.1-1.0.11-neoforge
+	- aether_enhanced_extinguishing 1.20.1-1.0.0-neoforge
+	- aetherdelight 1.0.0
+	- aetheric_tetranomicon 1.1.2-1.20.1
+	- alexscaves 2.0.2
+	- alexsdelight 1.5
+	- alexsmobs 1.22.9
+	- almanac 1.0.2
+	- alternate_current 1.7.0
+	- ambientsounds 6.1.3
+	- amendments 1.20-1.2.12
+	- appleskin 2.5.1+mc1.20.1
+	- aquamirae 6.API15
+	- architectury 9.2.14
+	- art_of_forging 1.8.3-1.20.1
+	- ash_api 3.0.2+1.20.1
+	- athena 3.1.2
+	- attributefix 21.0.4
+	- autoleveling 1.19b
+	- azurelib 2.0.39
+	- badmobs 19.0.4
+	- balm 7.3.9
+		\-- kuma_api 20.1.8
+	- barteringstation 8.0.0
+	- bcc 4.0.8
+	- bclib 3.0.14
+	- bellsandwhistles 0.4.3-1.20.x
+	- betteradvancements 0.4.2.10
+	- betterdeserttemples 1.20-Forge-3.0.3
+	- betterdungeons 1.20-Forge-4.0.4
+	- betterend 4.0.11
+	- betterendisland 1.20-Forge-2.0.6
+	- betterfortresses 1.20-Forge-2.0.6
+	- betterjungletemples 1.20-Forge-2.0.5
+	- bettermineshafts 1.20-Forge-4.0.4
+	- bettermodsbutton 8.0.2
+	- betteroceanmonuments 1.20-Forge-3.0.4
+	- bettervillage 3.2.0
+	- betterwitchhuts 1.20-Forge-3.0.3
+	- bhmenu 2.4.2
+	- biomemusic 1.20.1-2.5
+	- biomesoplenty 19.0.0.91
+	- blockui 1.20.1-1.0.186-beta
+	- blue_skies 1.3.31
+	- boatbreakfix 1.0.2
+	- bobberdetector 0.1.9.1.20.1
+	- bookshelf 20.2.13
+	- bosses_of_mass_destruction 1.1.2
+	- botarium 2.3.4
+	- bountiful 6.0.3+1.20.1
+	- byzantine 21
+	- caelus 3.2.0+1.20.1
+	- capes 1.5.2+1.20
+	- carryon 2.1.2.7
+	- cataclysm 2.18
+	- cccbridge 1.6.3-forge
+	- cerbons_api 1.1.0
+	- charmofundying 6.5.0+1.20.1
+		\-- spectrelib 0.13.15+1.20.1
+	- chefsdelight 1.0.3-forge-1.20.1
+	- chipped 3.0.7
+	- chunksending 1.20.1-2.8
+	- citadel 2.6.0
+	- cleanswing 1.20-1.5
+	- clientcrafting 1.20.1-1.8
+	- cloth_config 11.1.136
+	- clumps 12.0.0.4
+	- cnbr_reworked 1.0.0
+	- cobweb 1.0.0
+	- cofh_core 11.0.2
+	- cold_sweat 2.3.8
+	- collective 7.87
+	- comforts 6.4.0+1.20.1
+	- computercraft 1.113.1
+	- conjurer_illager 1.1.6
+	- connectivity 1.20.1-5.6
+	- connectorextras 1.11.2+1.20.1
+		|-- amecsapi 1.5.3+mc1.20-pre1
+		|-- connectorextras_architectury_bridge 1.11.2+1.20.1
+		|-- connectorextras_emi_bridge 1.11.2+1.20.1
+		|-- connectorextras_energy_bridge 1.11.2+1.20.1
+		|-- connectorextras_geckolib_fabric_compat 1.11.2+1.20.1
+		|-- connectorextras_jei_bridge 1.11.2+1.20.1
+		|-- connectorextras_kubejs_bridge 1.11.2+1.20.1
+		|-- connectorextras_modmenu_bridge 1.11.2+1.20.1
+			\-- modmenu 7.2.2
+		|-- connectorextras_pehkui_bridge 1.11.2+1.20.1
+		|-- connectorextras_rei_bridge 1.11.2+1.20.1
+		|-- connectorextras_terrablender_bridge 1.11.2+1.20.1
+		|-- forgeconfigapiport 8.0.0
+		\-- reach_entity_attributes 2.4.0
+	- connectormod 1.0.0-beta.46+1.20.1
+	- constructionwand 1.20.1-2.11
+	- controlling 12.0.2
+	- corn_delight 1.1.6-1.20.1
+	- coroutil 1.20.1-1.3.7
+	- corpse 1.20.1-1.0.17
+	- cp_tweaks 1.0.21
+	- craftingtweaks 18.2.5
+	- crafttweaker 14.0.44
+	- crashexploitfixer 1.1.0
+	- crawlondemand 1.20.x-1.0.0
+	- create 0.5.1.j
+	- create_ad_astra_compat 1.0.0
+	- create_better_villagers 1.2.1.j
+	- create_blue_skies_compat 1.0.1
+	- create_central_kitchen 1.3.12
+		|-- create_dragon_lib 1.4.3
+		\-- mixinextras 0.2.0
+	- create_compressed 1.0.1
+	- create_confectionery 1.1.0
+	- create_connected 0.9.2-mc1.20.1
+	- create_crush_everything 1.0.2
+	- create_dd 0.1b.Release-Early-Dev
+	- create_easy_structures 0.1.2
+	- create_enchantment_industry 1.2.9.d
+	- create_new_age 1.1.2
+	- create_power_loader 1.5.0-mc1.20.1
+	- create_recipes 1.0.0
+	- create_sa 2.0.5
+	- createaddition 1.20.1-1.2.4e
+	- createair 1.0
+	- createappliedkinetics 1.4.0-1.20.1
+	- createbigcannons 5.6.0+mc.1.20.1-forge
+		\-- ritchiesprojectilelib 2.0.0-dev+mc.1.20.1-forge-build.182
+	- createchunkloading 1.6.0
+	- createdeco 2.0.2-1.20.1-forge
+	- createendertransmission 2.0.7-1.20.1
+	- createliquidfuel 2.1.1-1.20.1
+	- createloveandwar 0.3-1.20.1
+	- createmetallurgy 0.0.6-1.20.1
+	- createrailwaysnavigator 1.20.1-0.6.0
+		\-- dragonlib 1.20.1-2.2.16
+	- createtweaker 4.0.13
+	- creativecore 2.12.22
+	- crystal_clear 2.1-Beta
+	- cupboard 1.20.1-2.7
+	- curios 5.11.0+1.20.1
+	- cutthrough 8.0.2
+	- delightful 3.6
+	- design_decor 0.4.0b
+	- deuf 1.20.1-1.3
+	- dimasctetracompat 1.20.1-1.4.0.1
+	- dimensionalsycnfixes 1.20.1-0.0.1
+	- doapi 1.2.15
+		\-- terraform 7.0.1
+	- domum_ornamentum 1.20.1-1.0.282-snapshot
+	- dragonfight 1.20.1-4.6
+	- drippyloadingscreen 3.0.9
+	- dungeons_arise_seven_seas 1.0.2
+	- dungeons_enhanced 5.2.2
+	- easyanvils 8.0.2
+	- easymagic 8.0.1
+	- eeeabsmobs 1.20.1-0.95
+	- effecttooltips 9.0.2
+	- effortlessbuilding 3.9
+		\-- flywheel 0.6.11-13
+	- eldritch_end 0.3.2
+	- elytraslot 6.4.4+1.20.1
+		\-- mixinsquared 0.1.2-beta.6
+	- enchdesc 17.1.19
+	- endersdelight 1.0.3
+	- endrem 5.3.3-R-1.20.1
+	- enemyexpansion 2.3.1
+	- enigmaticaddons 1.1.4
+	- enigmaticlegacy 2.30.1
+	- entity_model_features 2.2.6
+	- entity_texture_features 6.2.7
+	- epherolib 0.1.2
+	- equipmentcompare 1.3.7
+	- euphoria_patcher 1.4.3-r5.3-forge
+	- extendedgears 2.1.1-1.20.1-0.5.1.f-forge
+	- fabric_api 0.92.2+1.11.8+1.20.1
+		|-- fabric_api_lookup_api_v1 1.6.36+67f9824077
+		|-- fabric_biome_api_v1 13.0.13+dc36698e77
+		|-- fabric_block_api_v1 1.0.11+0e6cb7f777
+		|-- fabric_block_view_api_v2 1.0.1+0767707077
+		|-- fabric_blockrenderlayer_v1 1.1.41+1d0da21e77
+		|-- fabric_client_tags_api_v1 1.1.2+5d6761b877
+		|-- fabric_command_api_v1 1.2.34+f71b366f77
+		|-- fabric_command_api_v2 2.2.13+561530ec77
+		|-- fabric_content_registries_v0 4.0.11+a670df1e77
+		|-- fabric_convention_tags_v1 1.5.5+fa3d1c0177
+		|-- fabric_data_attachment_api_v1 1.0.0+30ef839e77
+		|-- fabric_data_generation_api_v1 12.3.4+369cb3a477
+		|-- fabric_dimensions_v1 2.1.54+8005d10d77
+		|-- fabric_entity_events_v1 1.6.0+6274ab9d77
+		|-- fabric_events_interaction_v0 0.6.2+0d0bd5a777
+		|-- fabric_game_rule_api_v1 1.0.40+683d4da877
+		|-- fabric_item_api_v1 2.1.28+4d0bbcfa77
+		|-- fabric_item_group_api_v1 4.0.12+c9161c2d77
+		|-- fabric_key_binding_api_v1 1.0.37+561530ec77
+		|-- fabric_lifecycle_events_v1 2.2.22+afab492177
+		|-- fabric_loot_api_v2 1.2.1+eb28f93e77
+		|-- fabric_message_api_v1 5.1.9+52cc178c77
+		|-- fabric_mining_level_api_v1 2.1.50+561530ec77
+		|-- fabric_model_loading_api_v1 1.0.3+6274ab9d77
+		|-- fabric_models_v0 0.4.2+7c3892a477
+		|-- fabric_networking_api_v1 1.3.11+503a202477
+		|-- fabric_object_builder_api_v1 11.1.3+2174fc8477
+		|-- fabric_particles_v1 1.1.2+78e1ecb877
+		|-- fabric_recipe_api_v1 1.0.21+514a076577
+		|-- fabric_registry_sync_v0 2.3.3+1c0ea72177
+		|-- fabric_renderer_api_v1 3.2.1+1d29b44577
+		|-- fabric_rendering_data_attachment_v1 0.3.37+a6081afc77
+		|-- fabric_rendering_fluids_v1 3.0.28+4ac5e37a77
+		|-- fabric_rendering_v1 3.0.8+66e9a48f77
+		|-- fabric_resource_conditions_api_v1 2.3.8+9ad825cd77
+		|-- fabric_resource_loader_v0 0.11.10+bcd08ed377
+		|-- fabric_screen_api_v1 2.0.8+45a670a577
+		|-- fabric_screen_handler_api_v1 1.3.30+561530ec77
+		|-- fabric_sound_api_v1 1.0.13+4f23bd8477
+		|-- fabric_transfer_api_v1 3.3.5+631c9cd677
+		\-- fabric_transitive_access_wideners_v1 4.3.1+1880499877
+	- fallingleaves 2.1.0
+	- fancymenu 3.3.2
+	- farmers_structures 1.0.0
+	- farmersdelight 1.20.1-1.2.5
+	- farsight_view 1.20.1-3.7
+	- fastasyncworldsave 1.20.1-2.0
+	- fastipping 1.0.5
+	- fastpaintings 1.20-1.2.7
+	- ferritecore 6.0.1
+	- flansmod 0.4
+	- foodeffecttooltips 1.3.0
+	- forge 47.3.10
+	- forgeconfigscreens 8.0.2
+	- framedblocks 9.3.1
+	- framework 0.7.11
+	- freecam 1.2.1+1.20
+	- friendsandfoes 3.0.5
+	- ftblibrary 2001.2.5
+	- ftbquests 2001.4.9
+	- ftbteams 2001.3.0
+	- ftbxmodcompat 2.1.1
+	- fullstackwatchdog 1.0.1+1.19.2-forge
+	- fusion 1.1.1
+	- gamemenumodoption 2.2.1
+	- geckoanimfix 1.0.0
+	- geckolib 4.4.9
+	- geophilic 3.1.4
+	- geophilic_reforged 1.2.0
+	- gjeb 1.3.0.34
+	- glitchcore 0.0.1.1
+	- goblins_tyranny 1.2.3
+	- goblintraders 1.9.3
+	- gpumemleakfix 1.20.1-1.8
+	- hammerlib 20.1.33
+	- handcrafted 3.0.6
+	- hearths 1.0.1
+	- highlighter 1.1.9
+	- iceberg 1.1.25
+	- idas 1.10.1+1.20.1
+	- illagerinvasion 8.0.6
+	- immediatelyfast 1.3.2+1.20.4
+	- immersive_aircraft 1.1.3+1.20.1
+	- immersive_paintings 0.6.7+1.20.1
+	- improvableskills 20.1.11
+	- integrated_api 1.5.1+1.20.1-forge
+	- integrated_stronghold 1.1.1+1.20.1-forge
+	- integrated_villages 1.0.1+1.20.1-forge
+	- interiors 0.5.6
+	- inventorysorter 23.0.1
+	- irisflw 1.1.3b
+	- item_obliterator 2.3.0
+	- itemfilters 2001.1.0-build.59
+	- jade 11.11.1+forge
+	- jadeaddons 5.3.1+forge
+	- jei 15.20.0.105
+	- jeresources 1.4.0.247
+	- justenoughbreeding 1.4.1
+	- justenoughprofessions 3.0.1
+	- justzoom 2.0.0
+	- kambrik 6.1.1+1.20.1
+	- kiwi 11.8.20+forge
+	- konkrete 1.8.0
+	- kotlinforforge 4.11.0
+	- krypton 0.2.3
+	- leavesbegone 8.0.0
+	- letmedespawn 1.4.4
+	- libertyvillagers 2.0.0+forge+1.20.1
+	- libraryferret 4.0.0
+	- lionfishapi 1.9
+	- lithostitched 1.3.3
+	- lmft 1.0.4+1.20.1
+	- logbegone 1.0.8
+	- lootintegrations 1.20.1-3.7
+	- lootintegrations_yungs 1
+	- lost_aether_content 1.2.3
+	- luna 1.0.0
+	- mcjtylib 1.20-8.0.6
+	- mcwbridges 3.0.0
+	- mcwdoors 1.1.1
+	- mcwfences 1.1.2
+	- mcwtrpdoors 1.1.3
+	- melody 1.0.2
+	- memorysettings 1.20.1-5.5
+	- mes 1.3.4-1.20-forge
+	- minecolonies 1.20.1-1.1.603-RELEASE
+	- minecraft 1.20.1
+	- mineraldelight 1.0.0
+	- miners_delight 1.20.1-1.2.3
+	- missions 0.4
+	- mns 1.0.3-1.20-forge
+	- modernfix 5.19.5+mc1.20.1
+	- moonlight 1.20-2.13.25
+	- moped 1.0.0
+	- morevillagers 5.0.0
+	- mousetweaks 2.25.1
+	- mowziesmobs 1.6.4
+	- multipiston 1.20-1.2.43-RELEASE
+	- mutil 6.1.1
+	- mvs 4.1.4-1.20-forge
+	- mynethersdelight 1.20.1-1.7.5
+	- mysterious_mountain_lib 1.5.17-1.20.1
+	- naturescompass 1.20.1-1.11.2-forge
+	- neat 1.20.1-41-FORGE
+	- necronomicon 1.6.0
+	- neruina 2.1.2
+	- netherchested 8.0.4
+		|-- puzzlesaccessapi 8.0.9
+		\-- puzzlesapi 8.1.7
+	- notenoughanimations 1.8.1
+	- obscure_api 15
+	- oculus 1.7.0
+	- openpartiesandclaims 0.23.2
+	- overflowingbars 8.0.1
+	- packetfixer 1.4.2
+	- paintings 11.0.0.2
+	- patchouli 1.20.1-84-FORGE
+	- paxi 1.20-Forge-4.0
+	- pickableorbs 1.20.1-3.0.1
+	- piglinsafety 1.18.2-1.0.0
+	- playeranimator 1.0.2-rc1+1.20
+	- polymorph 0.49.5+1.20.1
+	- prism 1.0.5
+	- protection_pixel 1.0.9
+	- puzzleslib 8.1.24
+	- quark 4.0-460
+	- quarkdelight 1.0.0
+	- radium 0.12.4+git.26c9d8e
+	- raided 0.1.4
+	- railways 1.6.7+forge-mc1.20.1
+	- rechiseled 1.1.6
+	- rechiseledcreate 1.0.2
+	- recipeessentials 1.20.1-3.6
+	- repurposed_structures 7.1.15+1.20.1-forge
+	- resourcefulconfig 2.1.2
+	- resourcefullib 2.1.29
+	- resourcepackoverrides 8.0.3
+	- rightclickharvest 3.2.3+1.20.1-forge
+	- rustic_engineer 1.0.0
+	- sawmill 1.20-1.4.3
+	- scguns 0.3.2.5
+	- sdrp 4.0.3-build.40+mc1.20.1
+	- searchables 1.0.3
+	- sereneseasons 9.1.0.0
+	- sereneseasonsfix 1.1.0.1
+	- serverbrowser 1.0.0
+	- servercore 1.5.1+1.20.1
+	- servercountryflags 1.10.1
+	- shieldexp 1.1.7a
+	- skinlayers3d 1.7.1
+	- sliceanddice 3.3.0
+	- smarterfarmers 1.20-2.1.0
+	- smoothchunk 1.20.1-3.6
+	- snowrealmagic 10.5.2
+		|-- fabric_api_base 0.4.31+ef105b4977
+		\-- fabric_renderer_indigo 1.5.2+b5b2da4177
+	- sodiumdynamiclights 1.0.9
+	- sodiumoptionsapi 1.0.5
+	- sophisticatedbackpacks 3.20.12.1126
+	- sophisticatedcore 0.7.1.752
+	- sophisticatedstorage 0.10.48.942
+	- soul_fire_d 4.0.6
+	- sound_physics_remastered 1.20.1-1.4.5
+	- spark 1.10.53
+	- sparsestructuresreforged 1.20.1-0.0.1
+	- spyglass_improvements 1.5+mc1.20+forge
+	- starlight 1.1.2+forge.1cda73c
+	- stonycliffs 1.1.2
+	- storagedrawers 12.9.11
+	- structure_gel 2.16.2
+	- structureessentials 1.20.1-3.4
+	- structurize 1.20.1-1.0.742-RELEASE
+	- stylecolonies 1.10
+	- supermartijn642configlib 1.1.8
+	- supermartijn642corelib 1.1.17+a
+	- supplementaries 1.20-3.1.1
+	- tact 1.2.1
+	- takesapillage 1.0.3
+	- tectonic 2.4.1
+	- tempad 2.3.4
+	- terrablender 3.0.1.7
+	- terralith 2.5.4
+	- tetra 6.4.0
+	- tetracelium 1.3.0
+	- tetraextras 0.1.4-1.20.1
+	- tetranomicon 1.5.3-1.20.1
+	- tfmg 0.9.3-1.20.1
+	- theorcs 1.0-FORGE-1.20.x
+	- thinair 8.1.5
+	- toms_storage 1.6.8
+	- toms_trading_network 0.3.1
+	- toofast 0.4.3.5
+	- torchmaster 20.1.9
+	- towntalk 1.1.0
+	- trackwork 1.0.2c
+	- transparent 8.0.1+1.20.1
+	- travelersbackpack 9.1.16
+	- travelerstitles 1.20-Forge-4.0.2
+	- twilightforest 4.3.2508
+	- underground_village 1.5.2
+	- valkyrienskies 2.3.0-beta.5
+	- villagernames 8.1
+	- visuality 2.0.2
+	- visualworkbench 8.0.0
+	- watut 1.20.1-1.1.3
+	- waystones 14.1.6
+	- weather2 1.20.1-2.8.3
+	- witheringboon 1.8.3
+	- worldedit 7.2.15+6463-5ca4dff
+	- wunderlib 1.1.5
+	- xaerominimap 24.6.1
+	- xaeroplus 2.24.5
+	- xaeroworldmap 1.39.0
+	- xenon 0.3.31
+		|-- embeddium 0.3.31
+		\-- rubidium 0.7.1
+	- yungsapi 1.20-Forge-4.0.6
+	- yungsbridges 1.20-Forge-4.0.3
+	- yungscavebiomes 1.20.1-Forge-2.0.1
+	- yungsextras 1.20-Forge-4.0.3
+	- yungsmenutweaks 1.20.1-Forge-1.0.2
+	- zeta 1.0-24
+[19:36:39] [main/WARN]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:39] [main/WARN]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:39] [main/WARN]: Reference map 'TetraExtras-1.20.refmap.json' for tetraextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:39] [main/WARN]: Reference map 'CreateLiquidFuel.refmap.json' for createliquidfuel.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:39] [main/WARN]: Reference map 'mixins.trackwork.refmap.json' for trackwork.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:39] [main/WARN]: Reference map 'tfmg.refmap.json' for tfmg.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:39] [main/WARN]: Reference map 'createappliedkinetics.refmap.json' for createappliedkinetics.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:39] [main/WARN]: Reference map 'mixins.create_sa.refmap.json' for mixins.create_sa.json could not be read. If this is a development environment you can ignore this message
+[19:36:39] [main/WARN]: Reference map 'immersive_paintings-common-refmap.json' for immersive_paintings.mixin.json could not be read. If this is a development environment you can ignore this message
+[19:36:39] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:39] [main/WARN]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:39] [main/WARN]: Reference map 'packetfixer-forge-forge-refmap.json' for packetfixer-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:39] [main/WARN]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:40] [main/WARN]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipesEventJS)
+[19:36:40] [main/WARN]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found mixins.hammerlib.json:bs.kubejs.RecipeEventJSMixin from mod hammerlib
+[19:36:41] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as option 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[19:36:41] [main/WARN]: Force-disabling mixin 'entity.collisions.fluid.EntityMixin' as option 'mixin.entity.collisions' (added by user configuration) disables it and children
+[19:36:41] [main/WARN]: Force-disabling mixin 'entity.collisions.intersection.WorldMixin' as option 'mixin.entity.collisions' (added by user configuration) disables it and children
+[19:36:41] [main/WARN]: Force-disabling mixin 'entity.collisions.movement.EntityMixin' as option 'mixin.entity.collisions' (added by user configuration) disables it and children
+[19:36:41] [main/WARN]: Force-disabling mixin 'entity.collisions.unpushable_cramming.AbstractMinecartEntityMixin' as option 'mixin.entity.collisions' (added by user configuration) disables it and children
+[19:36:41] [main/WARN]: Force-disabling mixin 'entity.collisions.unpushable_cramming.BoatEntityMixin' as option 'mixin.entity.collisions' (added by user configuration) disables it and children
+[19:36:41] [main/WARN]: Force-disabling mixin 'entity.collisions.unpushable_cramming.EntityMixin' as option 'mixin.entity.collisions' (added by user configuration) disables it and children
+[19:36:41] [main/WARN]: Force-disabling mixin 'entity.collisions.unpushable_cramming.EntityPredicatesMixin' as option 'mixin.entity.collisions' (added by user configuration) disables it and children
+[19:36:41] [main/WARN]: Force-disabling mixin 'entity.collisions.unpushable_cramming.EntityTrackingSectionMixin' as option 'mixin.entity.collisions' (added by user configuration) disables it and children
+[19:36:41] [main/WARN]: Force-disabling mixin 'entity.collisions.unpushable_cramming.LivingEntityMixin' as option 'mixin.entity.collisions' (added by user configuration) disables it and children
+[19:36:41] [main/WARN]: Force-disabling mixin 'world.block_entity_ticking.sleeping.ServerWorldMixin' as option 'mixin.world.block_entity_ticking.sleeping' (added by user configuration) disables it and children
+[19:36:41] [main/WARN]: Force-disabling mixin 'world.block_entity_ticking.sleeping.WorldChunkMixin' as option 'mixin.world.block_entity_ticking.sleeping' (added by user configuration) disables it and children
+[19:36:41] [main/WARN]: Force-disabling mixin 'world.block_entity_ticking.sleeping.WorldMixin' as option 'mixin.world.block_entity_ticking.sleeping' (added by user configuration) disables it and children
+[19:36:41] [main/WARN]: Force-disabling mixin 'world.block_entity_ticking.sleeping.WrappedBlockEntityTickInvokerAccessor' as option 'mixin.world.block_entity_ticking.sleeping' (added by user configuration) disables it and children
+[19:36:41] [main/WARN]: Force-disabling mixin 'world.block_entity_ticking.sleeping.brewing_stand.BrewingStandBlockEntityMixin' as option 'mixin.world.block_entity_ticking.sleeping' (added by user configuration) disables it and children
+[19:36:41] [main/WARN]: Force-disabling mixin 'world.block_entity_ticking.sleeping.campfire.CampfireBlockEntityMixin' as option 'mixin.world.block_entity_ticking.sleeping' (added by user configuration) disables it and children
+[19:36:41] [main/WARN]: Force-disabling mixin 'world.block_entity_ticking.sleeping.campfire.lit.CampfireBlockEntityMixin' as option 'mixin.world.block_entity_ticking.sleeping' (added by user configuration) disables it and children
+[19:36:41] [main/WARN]: Force-disabling mixin 'world.block_entity_ticking.sleeping.campfire.unlit.CampfireBlockEntityMixin' as option 'mixin.world.block_entity_ticking.sleeping' (added by user configuration) disables it and children
+[19:36:41] [main/WARN]: Force-disabling mixin 'world.block_entity_ticking.sleeping.furnace.AbstractFurnaceBlockEntityMixin' as option 'mixin.world.block_entity_ticking.sleeping' (added by user configuration) disables it and children
+[19:36:41] [main/WARN]: Force-disabling mixin 'world.block_entity_ticking.sleeping.hopper.HopperBlockEntityMixin' as option 'mixin.world.block_entity_ticking.sleeping' (added by user configuration) disables it and children
+[19:36:41] [main/WARN]: Force-disabling mixin 'world.block_entity_ticking.sleeping.shulker_box.ShulkerBoxBlockEntityMixin' as option 'mixin.world.block_entity_ticking.sleeping' (added by user configuration) disables it and children
+[19:36:41] [main/INFO]: Redirecting org/valkyrienskies/mod/compat/VSRenderer
+[19:36:41] [main/WARN]: Error loading class: blusunrize/immersiveengineering/common/gui/BlockEntityInventory (java.lang.ClassNotFoundException: blusunrize.immersiveengineering.common.gui.BlockEntityInventory)
+[19:36:41] [main/WARN]: Error loading class: net/dries007/tfc/world/TFCChunkGenerator (java.lang.ClassNotFoundException: net.dries007.tfc.world.TFCChunkGenerator)
+[19:36:41] [main/WARN]: Error loading class: cofh/core/block/entity/TileCoFH (java.lang.ClassNotFoundException: cofh.core.block.entity.TileCoFH)
+[19:36:41] [main/WARN]: Error loading class: li/cil/tis3d/common/entity/InfraredPacketEntity (java.lang.ClassNotFoundException: li.cil.tis3d.common.entity.InfraredPacketEntity)
+[19:36:41] [main/WARN]: Error loading class: me/desht/modularrouters/container/RouterMenu (java.lang.ClassNotFoundException: me.desht.modularrouters.container.RouterMenu)
+[19:36:41] [main/WARN]: Error loading class: li/cil/tis3d/client/renderer/block/entity/CasingBlockEntityRenderer (java.lang.ClassNotFoundException: li.cil.tis3d.client.renderer.block.entity.CasingBlockEntityRenderer)
+[19:36:41] [main/WARN]: Error loading class: li/cil/tis3d/client/renderer/RenderContextImpl (java.lang.ClassNotFoundException: li.cil.tis3d.client.renderer.RenderContextImpl)
+[19:36:42] [main/INFO]: Loaded config for: structureessentials.json
+[19:36:42] [main/WARN]: Error loading class: com/copycatsplus/copycats/content/copycat/slab/CopycatSlabBlock (java.lang.ClassNotFoundException: com.copycatsplus.copycats.content.copycat.slab.CopycatSlabBlock)
+[19:36:42] [main/WARN]: @Mixin target com.copycatsplus.copycats.content.copycat.slab.CopycatSlabBlock was not found create_connected.mixins.json:compat.CopycatBlockMixin from mod create_connected
+[19:36:42] [main/WARN]: Error loading class: com/copycatsplus/copycats/content/copycat/board/CopycatBoardBlock (java.lang.ClassNotFoundException: com.copycatsplus.copycats.content.copycat.board.CopycatBoardBlock)
+[19:36:42] [main/WARN]: @Mixin target com.copycatsplus.copycats.content.copycat.board.CopycatBoardBlock was not found create_connected.mixins.json:compat.CopycatBlockMixin from mod create_connected
+[19:36:42] [main/WARN]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
+[19:36:42] [main/WARN]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipesEventJS)
+[19:36:42] [main/WARN]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found sliceanddice.mixins.json:RecipeEventJSMixin from mod sliceanddice
+[19:36:42] [main/INFO]: Redirecting com/bawnorton/neruina/platform/ModLoader
+[19:36:42] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/gui/SodiumOptionsGUI (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.gui.SodiumOptionsGUI)
+[19:36:42] [main/WARN]: Error loading class: com/mrbysco/spoiled/config/SpoiledConfigCache (java.lang.ClassNotFoundException: com.mrbysco.spoiled.config.SpoiledConfigCache)
+[19:36:42] [main/WARN]: @Mixin target com.mrbysco.spoiled.config.SpoiledConfigCache was not found cold_sweat.mixin.json:compat.MixinSpoiledIcebox$ContainerModifier from mod cold_sweat
+[19:36:42] [main/INFO]: Loaded config for: recipeessentials.json
+[19:36:42] [main/WARN]: Error loading class: sereneseasons/handler/season/SeasonHandler (java.lang.ClassNotFoundException: sereneseasons.handler.season.SeasonHandler)
+[19:36:42] [main/WARN]: @Mixin target sereneseasons.handler.season.SeasonHandler was not found sereneseasonsfix.mixins.json:MixinSeasonHandler from mod sereneseasonsfix
+[19:36:42] [main/WARN]: Error loading class: sereneseasons/handler/season/TimeSkipHandler (java.lang.ClassNotFoundException: sereneseasons.handler.season.TimeSkipHandler)
+[19:36:42] [main/WARN]: @Mixin target sereneseasons.handler.season.TimeSkipHandler was not found sereneseasonsfix.mixins.json:MixinTimeSkipHandler from mod sereneseasonsfix
+[19:36:42] [main/INFO]: Redirecting com/railwayteam/railways/compat/Mods
+[19:36:42] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.data.ArrayLightDataCache)
+[19:36:42] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.flat.FlatLightPipeline)
+[19:36:42] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.data.LightDataAccess)
+[19:36:43] [main/WARN]: Error loading class: noobanidus/mods/lootr/config/ConfigManager (java.lang.ClassNotFoundException: noobanidus.mods.lootr.config.ConfigManager)
+[19:36:43] [main/WARN]: You are using connectivity for fix "Badly compressed packet - size of " + X + " is larger than protocol maximum of 8388608" if you have and issue with that delete connectivity.
+[19:36:43] [main/WARN]: Error loading class: net/darkhax/darkutils/features/charms/CharmEffects (java.lang.ClassNotFoundException: net.darkhax.darkutils.features.charms.CharmEffects)
+[19:36:43] [main/WARN]: Error loading class: com/brandon3055/csg/ModEventHandler (java.lang.ClassNotFoundException: com.brandon3055.csg.ModEventHandler)
+[19:36:43] [main/WARN]: Error loading class: vazkii/quark/content/tweaks/module/AutomaticRecipeUnlockModule (java.lang.ClassNotFoundException: vazkii.quark.content.tweaks.module.AutomaticRecipeUnlockModule)
+[19:36:43] [main/WARN]: Error loading class: vazkii/quark/content/management/client/screen/widgets/MiniInventoryButton (java.lang.ClassNotFoundException: vazkii.quark.content.management.client.screen.widgets.MiniInventoryButton)
+[19:36:43] [main/WARN]: Error loading class: net/orcinus/overweightfarming/blocks/CropFullBlock (java.lang.ClassNotFoundException: net.orcinus.overweightfarming.blocks.CropFullBlock)
+[19:36:43] [main/WARN]: @Mixin target net.orcinus.overweightfarming.blocks.CropFullBlock was not found create_central_kitchen.mixins.json:common.overweightfarming.CropFullBlockMixin from mod create_central_kitchen
+[19:36:43] [main/WARN]: Force-disabling mixin 'features.render.world.sky.WorldRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+[19:36:43] [main/WARN]: Force-disabling mixin 'features.render.world.sky.ClientWorldMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+[19:36:43] [main/WARN]: Force-disabling mixin 'features.render.world.sky.BackgroundRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+[19:36:43] [main/WARN]: Force-disabling mixin 'features.render.gui.font.GlyphRendererMixin' as rule 'mixin.features.render.gui.font' (added by mods [oculus]) disables it and children
+[19:36:43] [main/WARN]: Force-disabling mixin 'features.render.gui.font.FontSetMixin' as rule 'mixin.features.render.gui.font' (added by mods [oculus]) disables it and children
+[19:36:43] [main/WARN]: Force-disabling mixin 'features.render.entity.shadows.EntityRenderDispatcherMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[19:36:43] [main/WARN]: Force-disabling mixin 'features.render.entity.remove_streams.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[19:36:43] [main/WARN]: Force-disabling mixin 'features.render.entity.remove_streams.HierarchicalModelMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[19:36:43] [main/WARN]: Force-disabling mixin 'features.render.entity.fast_render.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[19:36:43] [main/WARN]: Force-disabling mixin 'features.render.entity.fast_render.CuboidMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[19:36:43] [main/WARN]: Force-disabling mixin 'features.render.entity.cull.EntityRendererMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[19:36:43] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.data.ArrayLightDataCache)
+[19:36:43] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.data.ArrayLightDataCache)
+[19:36:43] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.flat.FlatLightPipeline)
+[19:36:43] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.flat.FlatLightPipeline)
+[19:36:43] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.data.LightDataAccess)
+[19:36:43] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: net.caffeinemc.mods.sodium.client.model.light.data.LightDataAccess)
+[19:36:43] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[19:36:44] [main/INFO]: Redirecting net/minecraft/client/telemetry/TelemetryProperty$ServerType
+[19:36:44] [main/INFO]: Redirecting net/minecraft/client/telemetry/TelemetryProperty$GameMode
+[19:36:44] [main/INFO]: Redirecting net/minecraft/util/Unit
+[19:36:44] [main/INFO]: Redirecting net/minecraft/ChatFormatting
+[19:36:44] [main/INFO]: Redirecting net/minecraft/util/datafix/DataFixTypes
+[19:36:44] [main/INFO]: Redirecting net/minecraft/client/User$Type
+[19:36:44] [main/INFO]: Mixing MixinPlayer from enigmaticlegacy.mixins.json into net.minecraft.world.entity.player.Player
+[19:36:45] [main/INFO]: Mixing MixinLivingEntity from enigmaticlegacy.mixins.json into net.minecraft.world.entity.LivingEntity
+[19:36:49] [main/INFO]: Instancing error handler class org.valkyrienskies.mod.mixin.ValkyrienMixinErrorHandler
+[19:36:49] [main/INFO]: Instancing error handler class com.illusivesoulworks.polymorph.mixin.IntegratedMixinPlugin
+[19:36:49] [main/FATAL]: Mixin apply for mod reach_entity_attributes failed mixins.reach-entity-attributes.json:client.GameRendererMixin from mod reach_entity_attributes -> net.minecraft.client.renderer.GameRenderer: org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException Variable modifier target for net/minecraft/client/renderer/GameRenderer::getActualAttackRange1 was removed by another injector [INJECT Applicator Phase -> mixins.reach-entity-attributes.json:client.GameRendererMixin from mod reach_entity_attributes -> Apply Injections ->  -> Inject -> mixins.reach-entity-attributes.json:client.GameRendererMixin from mod reach_entity_attributes->@ModifyVariable::getActualAttackRange1(D)D]
+org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Variable modifier target for net/minecraft/client/renderer/GameRenderer::getActualAttackRange1 was removed by another injector [INJECT Applicator Phase -> mixins.reach-entity-attributes.json:client.GameRendererMixin from mod reach_entity_attributes -> Apply Injections ->  -> Inject -> mixins.reach-entity-attributes.json:client.GameRendererMixin from mod reach_entity_attributes->@ModifyVariable::getActualAttackRange1(D)D]
+	at org.spongepowered.asm.mixin.injection.modify.ModifyVariableInjector.inject(ModifyVariableInjector.java:169) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.injection.code.Injector.inject(Injector.java:276) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.inject(InjectionInfo.java:445) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.applyInjections(MixinTargetContext.java:1377) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyInjections(MixinApplicatorStandard.java:1062) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:402) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:327) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:421) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:250) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.service.modlauncher.MixinTransformationHandler.processClass(MixinTransformationHandler.java:131) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.processClass(MixinLaunchPluginLegacy.java:131) ~[mixin-0.8.5.jar:0.8.5+Jenkins-b310.git-155314e6e91465dad727e621a569906a410cd6f4]
+	at cpw.mods.modlauncher.serviceapi.ILaunchPluginService.processClassWithFlags(ILaunchPluginService.java:156) ~[modlauncher-10.0.9.jar:10.0.9+10.0.9+main.dcd20f30]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:?]
+	at net.minecraft.client.renderer.RenderStateShard.<clinit>(RenderStateShard.java:126) ~[client-1.20.1-20230612.114412-srg.jar%23932!/:?]
+	at net.minecraft.server.Bootstrap.handler$zgo000$modernfix$loadClientClasses(Bootstrap.java:1520) ~[client-1.20.1-20230612.114412-srg.jar%23932!/:?]
+	at net.minecraft.server.Bootstrap.m_135889_(Bootstrap.java) ~[client-1.20.1-20230612.114412-srg.jar%23932!/:?]
+	at net.minecraft.client.main.Main.main(Main.java:152) ~[forge-47.3.10.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.10.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99) ~[fmlloader-1.20.1-47.3.10.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25) ~[fmlloader-1.20.1-47.3.10.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
