@@ -9,15 +9,11 @@ describe('Metadata parser', () => {
     const fileLines = await convertFileToLines(file);
     const metadata = parseMetadata(fileLines, file);
 
-    expect(metadata).toEqual(
-      expect.objectContaining({
-        fileName: 'forge-1.20.1.log',
-        fizeSize: 8799,
-        lastModified: 0,
-        lineCount: 61,
-        fileType: FileType.STANDARD_LOG,
-      })
-    );
+    expect(metadata.fileName).toEqual('forge-1.20.1.log');
+    expect(metadata.fileSize).toEqual(8799);
+    expect(metadata.lastModified).toEqual(0);
+    expect(metadata.lineCount).toEqual(61);
+    expect(metadata.fileType).toEqual(FileType.STANDARD_LOG);
   });
 
   it('returns extended MultiMC log file metadata', async () => {
@@ -25,15 +21,11 @@ describe('Metadata parser', () => {
     const fileLines = await convertFileToLines(file);
     const metadata = parseMetadata(fileLines, file);
 
-    expect(metadata).toEqual(
-      expect.objectContaining({
-        fileName: 'prism_extended.txt',
-        fizeSize: 20799,
-        lastModified: 0,
-        lineCount: 206,
-        fileType: FileType.EXTENDED_MULTIMC_LOG,
-      })
-    );
+    expect(metadata.fileName).toEqual('prism_extended.txt');
+    expect(metadata.fileSize).toEqual(20799);
+    expect(metadata.lastModified).toEqual(0);
+    expect(metadata.lineCount).toEqual(206);
+    expect(metadata.fileType).toEqual(FileType.EXTENDED_MULTIMC_LOG);
   });
 
   it('returns crash report file metadata', async () => {
@@ -41,15 +33,11 @@ describe('Metadata parser', () => {
     const fileLines = await convertFileToLines(file);
     const metadata = parseMetadata(fileLines, file);
 
-    expect(metadata).toEqual(
-      expect.objectContaining({
-        fileName: 'forge-1.12.2.txt',
-        fizeSize: 473527,
-        lastModified: 0,
-        lineCount: 6448,
-        fileType: FileType.CRASH_REPORT,
-      })
-    );
+    expect(metadata.fileName).toEqual('forge-1.12.2.txt');
+    expect(metadata.fileSize).toEqual(473527);
+    expect(metadata.lastModified).toEqual(0);
+    expect(metadata.lineCount).toEqual(6448);
+    expect(metadata.fileType).toEqual(FileType.CRASH_REPORT);
   });
 
   it('returns launcher log file metadata', async () => {
@@ -57,15 +45,11 @@ describe('Metadata parser', () => {
     const fileLines = await convertFileToLines(file);
     const metadata = parseMetadata(fileLines, file);
 
-    expect(metadata).toEqual(
-      expect.objectContaining({
-        fileName: 'launcher_log.txt',
-        fizeSize: 5730563,
-        lastModified: 0,
-        lineCount: 45431,
-        fileType: FileType.LAUNCHER_LOG,
-      })
-    );
+    expect(metadata.fileName).toEqual('launcher_log.txt');
+    expect(metadata.fileSize).toEqual(5730563);
+    expect(metadata.lastModified).toEqual(0);
+    expect(metadata.lineCount).toEqual(45431);
+    expect(metadata.fileType).toEqual(FileType.LAUNCHER_LOG);
   });
 
   it('returns hs_err_pid file metadata', async () => {
@@ -73,15 +57,11 @@ describe('Metadata parser', () => {
     const fileLines = await convertFileToLines(file);
     const metadata = parseMetadata(fileLines, file);
 
-    expect(metadata).toEqual(
-      expect.objectContaining({
-        fileName: 'hs_err_pid.log',
-        fizeSize: 71183,
-        lastModified: 0,
-        lineCount: 843,
-        fileType: FileType.HS_ERR_PID,
-      })
-    );
+    expect(metadata.fileName).toEqual('hs_err_pid.log');
+    expect(metadata.fileSize).toEqual(71183);
+    expect(metadata.lastModified).toEqual(0);
+    expect(metadata.lineCount).toEqual(843);
+    expect(metadata.fileType).toEqual(FileType.HS_ERR_PID);
   });
 
   it('returns unknown file metadata', async () => {
@@ -89,14 +69,10 @@ describe('Metadata parser', () => {
     const fileLines = await convertFileToLines(file);
     const metadata = parseMetadata(fileLines, file);
 
-    expect(metadata).toEqual(
-      expect.objectContaining({
-        fileName: 'unknown.log',
-        fizeSize: 34,
-        lastModified: 0,
-        lineCount: 1,
-        fileType: FileType.UNKNOWN,
-      })
-    );
+    expect(metadata.fileName).toEqual('unknown.log');
+    expect(metadata.fileSize).toEqual(34);
+    expect(metadata.lastModified).toEqual(0);
+    expect(metadata.lineCount).toEqual(1);
+    expect(metadata.fileType).toEqual(FileType.UNKNOWN);
   });
 });

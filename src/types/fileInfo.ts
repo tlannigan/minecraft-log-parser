@@ -9,7 +9,7 @@ export interface FileInfo extends Metadata, Modloader, System {
 export interface Metadata {
   fileName?: string;
   /** File size in bytes */
-  fizeSize?: number;
+  fileSize?: number;
   /** Unix millisecond timestamp */
   lastModified?: number;
   lineCount?: number;
@@ -51,7 +51,7 @@ export class MinecraftFileInfo implements FileInfo {
   // File metadata
   fileName?: string;
   /** File size in bytes */
-  fizeSize?: number;
+  fileSize?: number;
   /** Unix millisecond timestamp */
   lastModified?: number;
   lineCount?: number;
