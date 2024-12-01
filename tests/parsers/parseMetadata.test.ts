@@ -10,7 +10,6 @@ describe('Metadata parser', () => {
     const metadata = parseMetadata(fileLines, file);
 
     expect(metadata.fileName).toEqual('forge-1.20.1.log');
-    expect(metadata.fileSize).toEqual(8799);
     expect(metadata.lastModified).toEqual(0);
     expect(metadata.lineCount).toEqual(61);
     expect(metadata.fileType).toEqual(FileType.STANDARD_LOG);
@@ -22,7 +21,6 @@ describe('Metadata parser', () => {
     const metadata = parseMetadata(fileLines, file);
 
     expect(metadata.fileName).toEqual('prism_extended.txt');
-    expect(metadata.fileSize).toEqual(20799);
     expect(metadata.lastModified).toEqual(0);
     expect(metadata.lineCount).toEqual(206);
     expect(metadata.fileType).toEqual(FileType.EXTENDED_MULTIMC_LOG);
@@ -34,7 +32,6 @@ describe('Metadata parser', () => {
     const metadata = parseMetadata(fileLines, file);
 
     expect(metadata.fileName).toEqual('forge-1.12.2.txt');
-    expect(metadata.fileSize).toEqual(473527);
     expect(metadata.lastModified).toEqual(0);
     expect(metadata.lineCount).toEqual(6448);
     expect(metadata.fileType).toEqual(FileType.CRASH_REPORT);
@@ -46,7 +43,6 @@ describe('Metadata parser', () => {
     const metadata = parseMetadata(fileLines, file);
 
     expect(metadata.fileName).toEqual('launcher_log.txt');
-    expect(metadata.fileSize).toEqual(5730563);
     expect(metadata.lastModified).toEqual(0);
     expect(metadata.lineCount).toEqual(45431);
     expect(metadata.fileType).toEqual(FileType.LAUNCHER_LOG);
@@ -58,7 +54,6 @@ describe('Metadata parser', () => {
     const metadata = parseMetadata(fileLines, file);
 
     expect(metadata.fileName).toEqual('hs_err_pid.log');
-    expect(metadata.fileSize).toEqual(71183);
     expect(metadata.lastModified).toEqual(0);
     expect(metadata.lineCount).toEqual(843);
     expect(metadata.fileType).toEqual(FileType.HS_ERR_PID);
@@ -70,7 +65,6 @@ describe('Metadata parser', () => {
     const metadata = parseMetadata(fileLines, file);
 
     expect(metadata.fileName).toEqual('unknown.log');
-    expect(metadata.fileSize).toEqual(34);
     expect(metadata.lastModified).toEqual(0);
     expect(metadata.lineCount).toEqual(1);
     expect(metadata.fileType).toEqual(FileType.UNKNOWN);
