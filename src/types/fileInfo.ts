@@ -77,7 +77,10 @@ export class MinecraftFileInfo implements FileInfo {
   width?: string;
 
   // System attributes
-  allocatedMemory?: string;
+  /** -Xmx Java flag in bytes */
+  xmx?: number;
+  /** -Xms Java flag in bytes */
+  xms?: number;
   cpu?: string;
   java?: string;
   os?: string;

@@ -60,7 +60,7 @@ export function parseForgeLegacySystem(
   const os = systemInfoArray[2]?.substring(11);
   const allocatedMemory = parseMemoryFlags(lines);
 
-  return { java, os, allocatedMemory };
+  return { java, os, ...allocatedMemory };
 }
 
 export function parseFabricSystem(systemLine: string): System {
@@ -69,14 +69,46 @@ export function parseFabricSystem(systemLine: string): System {
   };
 }
 
-export function parseMemoryFlags(lines: string[]): string | undefined {
+export function parseMemoryFlags(lines: string[]): {
+  xmx?: number;
+  xms?: number;
+} {
   const jvmFlagLine = lines.find((l) => l.trim().startsWith('JVM Flags:'));
   if (jvmFlagLine) {
+    let xmx;
+    let xms;
+
     const jvmFlags = jvmFlagLine.split('; ');
-    const memoryFlags = jvmFlags[1]
-      .split(' ')
-      .filter((flag) => flag.startsWith('-Xmx') || flag.startsWith('-Xms'));
-    return memoryFlags.join(', ').trim();
+    const memoryFlags = jvmFlags[1].split(' ').map((flag) => flag.trim());
+
+    const xmxFlag = memoryFlags.find((mf) => mf.startsWith('-Xmx'))?.slice(4);
+    if (xmxFlag) {
+      xmx = convertMemoryFlagToBytes(xmxFlag);
+    }
+
+    const xmsFlag = memoryFlags.find((mf) => mf.startsWith('-Xms'))?.slice(4);
+    if (xmsFlag) {
+      xms = convertMemoryFlagToBytes(xmsFlag);
+    }
+
+    return {
+      ...(xmx && { xmx }),
+      ...(xms && { xms }),
+    };
   }
+  return {};
+}
+
+export function convertMemoryFlagToBytes(
+  memoryFlag: string
+): number | undefined {
+  const memory = Number(memoryFlag.slice(0, memoryFlag.length - 1));
+  const unit = memoryFlag.slice(memoryFlag.length - 1).toLowerCase();
+
+  if (unit === 'k') return memory * 1024;
+  if (unit === 'm') return memory * 1024000;
+  if (unit === 'g') return memory * 1024000000;
+  if (unit === 't') return memory * 1024000000000;
+
   return undefined;
 }
