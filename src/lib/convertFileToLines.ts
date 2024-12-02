@@ -71,8 +71,7 @@ export async function parseLines(
     if (done) break;
   }
 
-  const linesWithNewlines = addNewlineCharacterEndings(state.allLines);
-  return linesWithNewlines;
+  return state.allLines;
 }
 
 export function deduplicateLines(

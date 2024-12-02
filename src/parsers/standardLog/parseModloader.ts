@@ -45,7 +45,7 @@ export function parseForgeModernAttributes(attributesLine: string): Modloader {
   const attributesStart = attributesLine.indexOf('args [') + 6;
   const attributesSlice = attributesLine.slice(
     attributesStart,
-    attributesLine.length - 2 // Minus 2 to skip ending ] bracket
+    attributesLine.length - 1 // Minus 1 to skip ending ] bracket
   );
   const attributes: any = {};
 
