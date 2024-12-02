@@ -7,7 +7,8 @@ describe('Standard log system parser', () => {
     const system = parseSystem(fileLines);
 
     expect(system).toEqual({
-      allocatedMemory: '-Xmx8192m, -Xms256m',
+      xmx: 8388608000,
+      xms: 262144000,
       java: '1.8.0.51',
       os: 'Windows 10:amd64:10.0',
     });
@@ -18,7 +19,8 @@ describe('Standard log system parser', () => {
     const system = parseSystem(fileLines);
 
     expect(system).toEqual({
-      allocatedMemory: '-Xmx8192m, -Xms256m',
+      xmx: 8388608000,
+      xms: 262144000,
       java: '1.8.0.51',
       os: 'Windows 10:amd64:10.0',
     });
