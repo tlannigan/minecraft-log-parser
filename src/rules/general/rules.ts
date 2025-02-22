@@ -40,7 +40,7 @@ const GENERAL_JAVA_16_REQUIRED: Rule = {
 const GENERAL_JAVA_17_REQUIRED: Rule = {
   title: 'Java 17 required',
   description:
-    'Minecraft 1.18-1.20.4 requires Java 17. May work with Java 21 but may be problematic.',
+    'Minecraft 1.18-1.20.4 requires Java 17. May work with Java 21 but potentially problematic.',
   severity: Severity.ERROR,
   versionChecks: [
     {
@@ -135,7 +135,7 @@ const GENERAL_OFFLINE_MODE: Rule = {
 const GENERAL_CLOUD_FOLDER: Rule = {
   title: 'Cloud folder detected',
   description:
-    'It is not recommended to store your modpack files in cloud-saved folders, like OneDrive or Apple CloudDocs, as it can lead to corrupted files.',
+    'It is not recommended to store your modpack files in cloud-saved folders, like OneDrive or Apple CloudDocs, as it can lead to corrupted files or performance issues.',
   severity: Severity.WARNING,
   searchStrings: ['OneDrive', 'com~apple~CloudDocs'],
   onlyFindFirst: true,
@@ -143,7 +143,7 @@ const GENERAL_CLOUD_FOLDER: Rule = {
 
 const GENERAL_MAXIMUM_IDS_1_7_10: Rule = {
   title: 'Maximum ID range exceeded',
-  description: 'Install Not Enough Item IDs (NEID).',
+  description: 'Install Just Enough Item IDs (JEID).',
   severity: Severity.ERROR,
   searchStrings: ['Invalid id 4096 - maximum id range exceeded'],
   versionChecks: [
@@ -155,6 +155,7 @@ const GENERAL_MAXIMUM_IDS_1_7_10: Rule = {
   onlyFindFirst: true,
 };
 
+// Can occur in standard log or crash report
 const GENERAL_MAXIMUM_IDS_1_12: Rule = {
   title: 'Maximum ID range exceeded',
   description: 'Install Roughly Enough Item IDs (REID).',
@@ -165,6 +166,38 @@ const GENERAL_MAXIMUM_IDS_1_12: Rule = {
       attribute: 'mcVersion',
       range: ['1.12', '1.13'],
     },
+  ],
+  onlyFindFirst: true,
+};
+
+const GENERAL_POSE_STACK_NOT_EMPTY: Rule = {
+  title: 'Pose stack not empty',
+  description:
+    "This error doesn't specify a specific mod, but can be caused by Epic Fight or OptiFine. If not either of these you must perform a binary search.",
+  severity: Severity.ERROR,
+  searchStrings: ['java.lang.IllegalStateException: Pose stack not empty'],
+  onlyFindFirst: true,
+  versionChecks: [
+    {
+      attribute: 'mcVersion',
+      equality: Equality.GTE,
+      version: '1.16.5',
+    },
+  ],
+};
+
+const GENERAL_LOG_CUT_OFF: Rule = {
+  title: 'Log possibly cut off',
+  description:
+    "If a log's timestamps start at or around 00:00:00, it is likely cut off. Restart your client or server to generate a new, full log.",
+  severity: Severity.WARNING,
+  searchStrings: [
+    '00:00:00',
+    '00:00:01',
+    '00:00:02',
+    '00:00:03',
+    '00:00:04',
+    '00:00:05',
   ],
   onlyFindFirst: true,
 };
@@ -182,4 +215,6 @@ export {
   GENERAL_CLOUD_FOLDER,
   GENERAL_MAXIMUM_IDS_1_7_10,
   GENERAL_MAXIMUM_IDS_1_12,
+  GENERAL_POSE_STACK_NOT_EMPTY,
+  GENERAL_LOG_CUT_OFF,
 };

@@ -1,0 +1,530 @@
+[01Jul2024 00:00:00.324] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1833 milliseconds
+[01Jul2024 00:00:00.708] [main/INFO] [Diagonal Fences/]: Constructing shapes for nodeWith 2.0, extensionWidth 2.0, nodeHeight 24.0, extensionBottom 0.0, extensionHeight 24.0 took 64 milliseconds
+[01Jul2024 00:00:00.769] [main/INFO] [Diagonal Fences/]: Constructing shapes for nodeWith 2.0, extensionWidth 2.0, nodeHeight 16.0, extensionBottom 0.0, extensionHeight 16.0 took 59 milliseconds
+[01Jul2024 00:00:00.890] [main/INFO] [Diagonal Fences/]: Constructing shapes for nodeWith 2.0, extensionWidth 1.0, nodeHeight 16.0, extensionBottom 6.0, extensionHeight 15.0 took 117 milliseconds
+[01Jul2024 00:00:01.521] [main/WARN] [mixin/]: @Redirect conflict. Skipping securitycraft.mixins.json:camera.ServerPlayerMixin->@Redirect::securitycraft$tick(Lnet/minecraft/server/level/ServerPlayer;DDDFF)V with priority 1100, already redirected by railways-common.mixins.json:conductor_possession.ServerPlayerMixin->@Redirect::snr$securitycraft$tick(Lnet/minecraft/server/level/ServerPlayer;DDDFF)V with priority 1200
+[01Jul2024 00:00:03.357] [modloading-worker-0/INFO] [hordes/]: Trying to load common config
+[01Jul2024 00:00:03.367] [modloading-worker-0/INFO] [hordes/]: Trying to load client config
+[01Jul2024 00:00:03.377] [modloading-worker-0/INFO] [hordes/]: Config files exist, skipping generation
+[01Jul2024 00:00:03.417] [modloading-worker-0/INFO] [config2brigadier/]: Loaded C2B lib.
+[01Jul2024 00:00:03.448] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[01Jul2024 00:00:03.455] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[01Jul2024 00:00:03.897] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[01Jul2024 00:00:03.944] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[01Jul2024 00:00:04.029] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[01Jul2024 00:00:04.059] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[01Jul2024 00:00:04.256] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 0 RS API injection points
+[01Jul2024 00:00:04.292] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.4, for MC 1.18.2 with MCP 20220404.173914
+[01Jul2024 00:00:04.292] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.4 Initialized
+[01Jul2024 00:00:04.304] [modloading-worker-0/WARN] [mixin/]: @Redirect conflict. Skipping modernfix-forge.mixins.json:perf.datapack_reload_exceptions.LootTableManagerMixin->@Redirect::logWithoutStacktrace(Lorg/slf4j/Logger;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V with priority 2000, already redirected by railways-common.mixins.json:MixinLootTables->@Redirect::snr$error2(Lorg/slf4j/Logger;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V with priority 10000
+[01Jul2024 00:00:04.313] [modloading-worker-0/INFO] [Chunk Pregenerator/]: Loading Plugin: [name=JourneyMap]
+[01Jul2024 00:00:04.327] [modloading-worker-0/INFO] [net.dries007.tfc.TerraFirmaCraft/]: Initializing TerraFirmaCraft
+[01Jul2024 00:00:04.327] [modloading-worker-0/INFO] [net.dries007.tfc.TerraFirmaCraft/]: Options: Assertions Enabled = false, Boostrap = false, Test = false, Debug Logging = true
+[01Jul2024 00:00:04.377] [modloading-worker-0/INFO] [PluginManager/]: Scanning classes for functional_tfc
+[01Jul2024 00:00:04.588] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[01Jul2024 00:00:04.758] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[01Jul2024 00:00:04.789] [modloading-worker-0/WARN] [mixin/]: @Redirect conflict. Skipping modernfix-forge.mixins.json:perf.datapack_reload_exceptions.RecipeManagerMixin->@Redirect::silenceException(Lorg/slf4j/Logger;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V with priority 2000, already redirected by railways-common.mixins.json:MixinRecipeManager->@Redirect::snr$error(Lorg/slf4j/Logger;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V with priority 10000
+[01Jul2024 00:00:04.946] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[01Jul2024 00:00:04.999] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
+[01Jul2024 00:00:05.000] [modloading-worker-0/WARN] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Attempting to add a Lambda listener with computed generic type of Event. Are you sure this is what you meant? NOTE : there are complex lambda forms where the generic type information is erased and cannot be recovered at runtime.
+[01Jul2024 00:00:05.024] [modloading-worker-0/ERROR] [structurize/]: ----------------------------------------------------------------- 
+ Invalid DataFixer detected, schematics might not paste correctly! 
+The following DataFixer was added: class org.embeddedt.modernfix.dfu.LazyDataFixer
+-----------------------------------------------------------------
+[01Jul2024 00:00:05.068] [modloading-worker-0/INFO] [wile.rsgauges.ModRsGauges/]: Gauges and Switches GIT id #e26ca25.
+[01Jul2024 00:00:05.278] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[01Jul2024 00:00:05.278] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[01Jul2024 00:00:05.278] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[01Jul2024 00:00:05.279] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[01Jul2024 00:00:05.279] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[01Jul2024 00:00:05.279] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[01Jul2024 00:00:05.371] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[01Jul2024 00:00:05.372] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[01Jul2024 00:00:05.802] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.7.
+[01Jul2024 00:00:06.004] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[01Jul2024 00:00:06.008] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
+[01Jul2024 00:00:06.008] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[01Jul2024 00:00:06.017] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
+[01Jul2024 00:00:06.027] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
+[01Jul2024 00:00:06.041] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
+[01Jul2024 00:00:06.048] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
+[01Jul2024 00:00:06.273] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.BetterChannel$PartialPacketBegin
+[01Jul2024 00:00:06.430] [modloading-worker-0/INFO] [wile.redstonepen.ModRedstonePen/]: Redstone Pen GIT id #5e688e6.
+[01Jul2024 00:00:06.489] [modloading-worker-0/INFO] [untamedwilds.UntamedWilds/]: Loading compatibility module with Patchouli
+[01Jul2024 00:00:06.490] [modloading-worker-0/INFO] [untamedwilds.UntamedWilds/]: Loading compatibility module with TerraFirmaCraft
+[01Jul2024 00:00:06.492] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[01Jul2024 00:00:06.547] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[01Jul2024 00:00:06.573] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[01Jul2024 00:00:06.580] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id itemfilters:main/14e7fa1454283aec8ae811ef844ada28
+[01Jul2024 00:00:06.586] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id itemfilters:main/8f6a899247753217b9d86ab427a2b279
+[01Jul2024 00:00:06.691] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:request_map_data
+[01Jul2024 00:00:06.692] [modloading-worker-0/INFO] [KubeJS/]: Looking for KubeJS plugins...
+[01Jul2024 00:00:06.707] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:request_chunk_change
+[01Jul2024 00:00:06.708] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejs
+[01Jul2024 00:00:06.721] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:teleport_from_map
+[01Jul2024 00:00:06.728] [modloading-worker-0/ERROR] [KubeJS/]: Failed to load plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration from source kubejs: java.lang.NoClassDefFoundError: net/darkhax/gamestages/event/GameStageEvent
+[01Jul2024 00:00:06.729] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source ftbquests
+[01Jul2024 00:00:06.732] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source createoreexcavation
+[01Jul2024 00:00:06.734] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:sync_tx
+[01Jul2024 00:00:06.734] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source createsifter
+[01Jul2024 00:00:06.737] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejs_create
+[01Jul2024 00:00:06.754] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:update_force_load_expiry
+[01Jul2024 00:00:06.758] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:server_config_request
+[01Jul2024 00:00:06.767] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejs_immersive_engineering
+[01Jul2024 00:00:06.769] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source exnihilosequentia
+[01Jul2024 00:00:06.771] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejs_mekanism
+[01Jul2024 00:00:06.791] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejsadditions
+[01Jul2024 00:00:06.791] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source create_mechanical_extruder
+[01Jul2024 00:00:06.793] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejs_tinkers_construct
+[01Jul2024 00:00:06.795] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source precisionprospecting
+[01Jul2024 00:00:06.797] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source ftbchunks
+[01Jul2024 00:00:06.803] [modloading-worker-0/INFO] [KubeJS/]: Done in 109.3 ms
+[01Jul2024 00:00:06.891] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sleepingoverhaul:is_really_sleeping
+[01Jul2024 00:00:06.955] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:submit_task
+[01Jul2024 00:00:06.959] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_reward
+[01Jul2024 00:00:06.972] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:get_emergency_items
+[01Jul2024 00:00:06.981] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_all_rewards
+[01Jul2024 00:00:06.986] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_choice_reward
+[01Jul2024 00:00:07.003] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_pinned
+[01Jul2024 00:00:07.013] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_chapter_pinned
+[01Jul2024 00:00:07.021] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_editing_mode
+[01Jul2024 00:00:07.025] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:force_save
+[01Jul2024 00:00:07.034] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:set_custom_image
+[01Jul2024 00:00:07.052] [modloading-worker-0/INFO] [net.creeperhost.ftbbackups.repack.org.quartz.impl.StdSchedulerFactory/]: Using default implementation for ThreadExecutor
+[01Jul2024 00:00:07.104] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:task_screen_config_resp
+[01Jul2024 00:00:07.112] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:change_progress
+[01Jul2024 00:00:07.116] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:create_object
+[01Jul2024 00:00:07.125] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:create_task_at
+[01Jul2024 00:00:07.129] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:delete_object
+[01Jul2024 00:00:07.135] [modloading-worker-0/INFO] [net.creeperhost.ftbbackups.repack.org.quartz.core.SchedulerSignalerImpl/]: Initialized Scheduler Signaller of type: class net.creeperhost.ftbbackups.repack.org.quartz.core.SchedulerSignalerImpl
+[01Jul2024 00:00:07.137] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:edit_object
+[01Jul2024 00:00:07.139] [modloading-worker-0/INFO] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzScheduler/]: Quartz Scheduler v.2.0.2 created.
+[01Jul2024 00:00:07.144] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_chapter
+[01Jul2024 00:00:07.153] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_quest
+[01Jul2024 00:00:07.153] [modloading-worker-0/INFO] [net.creeperhost.ftbbackups.repack.org.quartz.simpl.RAMJobStore/]: RAMJobStore initialized.
+[01Jul2024 00:00:07.159] [modloading-worker-0/INFO] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzScheduler/]: Scheduler meta-data: Quartz Scheduler (v2.0.2) 'ftbbackups2' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'net.creeperhost.ftbbackups.repack.org.quartz.simpl.SimpleThreadPool' - with 1 threads.
+  Using job-store 'net.creeperhost.ftbbackups.repack.org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+[01Jul2024 00:00:07.160] [modloading-worker-0/INFO] [net.creeperhost.ftbbackups.repack.org.quartz.impl.StdSchedulerFactory/]: Quartz scheduler 'ftbbackups2' initialized from an externally provided properties instance.
+[01Jul2024 00:00:07.160] [modloading-worker-0/INFO] [net.creeperhost.ftbbackups.repack.org.quartz.impl.StdSchedulerFactory/]: Quartz scheduler version: 2.0.2
+[01Jul2024 00:00:07.161] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:change_chapter_group
+[01Jul2024 00:00:07.171] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_chapter_group
+[01Jul2024 00:00:07.183] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:copy_quest
+[01Jul2024 00:00:07.189] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:copy_chapter_image
+[01Jul2024 00:00:07.194] [modloading-worker-0/INFO] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzScheduler/]: Scheduler ftbbackups2_$_NON_CLUSTERED started.
+[01Jul2024 00:00:07.219] [modloading-worker-0/INFO] [KubeJS/]: Loaded common.properties
+[01Jul2024 00:00:07.234] [modloading-worker-0/WARN] [net.blay09.mods.balm.forge.config.ForgeBalmConfig/]: Config field without expected type, will not validate list content (compressBlacklist in net.blay09.mods.craftingtweaks.config.CraftingTweaksConfigData$Common)
+[01Jul2024 00:00:07.234] [modloading-worker-0/WARN] [net.blay09.mods.balm.forge.config.ForgeBalmConfig/]: Config field without expected type, will not validate list content (disabledAddons in net.blay09.mods.craftingtweaks.config.CraftingTweaksConfigData$Client)
+[01Jul2024 00:00:07.291] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[01Jul2024 00:00:07.375] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/61a49a35c5283c0aaa7b0dfea5b7a53a
+[01Jul2024 00:00:07.375] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.BetterChannel$PartialPacketBegin
+[01Jul2024 00:00:07.381] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.BetterChannel$PartialPacketData
+[01Jul2024 00:00:07.390] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/3dd73fd88be832559bc3a3c4a2e63b4a
+[01Jul2024 00:00:07.390] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.BetterChannel$PartialPacketData
+[01Jul2024 00:00:07.401] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.C2SPacket$InitTPSProfile
+[01Jul2024 00:00:07.413] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/b453c08f23b83b82b690c31bf8b2a45a
+[01Jul2024 00:00:07.413] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.C2SPacket$InitTPSProfile
+[01Jul2024 00:00:07.419] [modloading-worker-0/INFO] [PluginManager/]: Scanning classes for titanium
+[01Jul2024 00:00:07.420] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.C2SPacket$RequestTeleport
+[01Jul2024 00:00:07.432] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/3a13df9e0b0a3290bb99252e1f8f68a2
+[01Jul2024 00:00:07.432] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.C2SPacket$RequestTeleport
+[01Jul2024 00:00:07.436] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.C2SPacket$RequestAvailability
+[01Jul2024 00:00:07.447] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/0c662822629034678f5a8f0e70375315
+[01Jul2024 00:00:07.447] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.C2SPacket$RequestAvailability
+[01Jul2024 00:00:07.452] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.S2CPacket$ProfilingStarted
+[01Jul2024 00:00:07.462] [modloading-worker-0/INFO] [Inventorio/]: Mod integration succeeded: Clumps
+[01Jul2024 00:00:07.464] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/2e815604a29b3a5cbfe0208e619d86c4
+[01Jul2024 00:00:07.464] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.S2CPacket$ProfilingStarted
+[01Jul2024 00:00:07.468] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.S2CPacket$ProfilingCompleted
+[01Jul2024 00:00:07.479] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/9ae83199b65a3768862799cc5e461a02
+[01Jul2024 00:00:07.479] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.S2CPacket$ProfilingCompleted
+[01Jul2024 00:00:07.483] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.S2CPacket$ProfilerInactive
+[01Jul2024 00:00:07.493] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/ae8dfae1238e312397aa53e9d14c45ca
+[01Jul2024 00:00:07.494] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.S2CPacket$ProfilerInactive
+[01Jul2024 00:00:07.501] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.S2CPacket$ProfilingResult
+[01Jul2024 00:00:07.511] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/3a94cae7336038df9152bcb7b4b94825
+[01Jul2024 00:00:07.511] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.S2CPacket$ProfilingResult
+[01Jul2024 00:00:07.515] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.S2CPacket$Availability
+[01Jul2024 00:00:07.539] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/c86a824e756d312396d1ba30e943e6aa
+[01Jul2024 00:00:07.539] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.S2CPacket$Availability
+[01Jul2024 00:00:07.540] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for diagonalfences:main
+[01Jul2024 00:00:07.543] [modloading-worker-0/INFO] [ObservableNet/]: Registering class observable.net.S2CPacket$ConsiderProfiling
+[01Jul2024 00:00:07.562] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id minecraft:channel/observable/80ae5e04c32934dab1c17d27a88baf19
+[01Jul2024 00:00:07.562] [modloading-worker-0/INFO] [ObservableNet/]: Registered class observable.net.S2CPacket$ConsiderProfiling
+[01Jul2024 00:00:07.594] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading Rhino Minecraft remapper...
+[01Jul2024 00:00:07.600] [modloading-worker-0/INFO] [dev.latvian.mods.rhino.mod.util.RhinoProperties/]: Rhino properties loaded.
+[01Jul2024 00:00:07.606] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading mappings for 1.18.2
+[01Jul2024 00:00:07.649] [modloading-worker-0/INFO] [PluginManager/]: Scanning classes for functionalstorage
+[01Jul2024 00:00:07.666] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Done in 0.072 s
+[01Jul2024 00:00:07.677] [modloading-worker-0/INFO] [twilightforest/]: Loaded compatibility for mod Tinkers Construct.
+[01Jul2024 00:00:07.677] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod undergarden.
+[01Jul2024 00:00:07.678] [modloading-worker-0/INFO] [twilightforest/]: Loaded compatibility for mod Immersive Engineering.
+[01Jul2024 00:00:07.678] [modloading-worker-0/INFO] [twilightforest/]: Loaded compatibility for mod Curios.
+[01Jul2024 00:00:07.723] [modloading-worker-0/INFO] [pneumaticcraft/]: Thirdparty integration activated for [immersiveengineering,waila,jei,crafttweaker,mekanism,curios,patchouli,create]
+[01Jul2024 00:00:07.790] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[01Jul2024 00:00:07.936] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlockEntityTypes/]: Loaded block entity configuration.
+[01Jul2024 00:00:07.986] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlocks/]: Loaded block configuration.
+[01Jul2024 00:00:08.004] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModeGroups/]: Loaded chisel mode group configuration.
+[01Jul2024 00:00:08.464] [modloading-worker-0/INFO] [KubeJS Startup/]: Hello, World! (You will only see this line once in console, during startup)
+[01Jul2024 00:00:08.478] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:custom_fluid.js in 0.171 s
+[01Jul2024 00:00:08.487] [modloading-worker-0/INFO] [KubeJS Startup/]: Hello, World! (You will only see this line once in console, during startup)
+[01Jul2024 00:00:08.487] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:custom_item.js in 0.009 s
+[01Jul2024 00:00:08.498] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:startup.js in 0.01 s
+[01Jul2024 00:00:08.505] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded 3/3 KubeJS startup scripts in 1.213 s
+[01Jul2024 00:00:08.651] [modloading-worker-0/INFO] [railways/]: Registered bogey styles from railways
+[01Jul2024 00:00:08.666] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:send_data_from_client
+[01Jul2024 00:00:08.846] [modloading-worker-0/INFO] [railways/]: Registering data fixers
+[01Jul2024 00:00:08.849] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
+[01Jul2024 00:00:08.862] [modloading-worker-0/INFO] [me.steinborn.lazydfu.LazyDFU/]: Lazy DFU
+[01Jul2024 00:00:09.195] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModes/]: Loaded chisel mode configuration.
+[01Jul2024 00:00:09.199] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModContainerTypes/]: Loaded container type configuration.
+[01Jul2024 00:00:09.204] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModCreativeTabs/]: Loaded item group configuration.
+[01Jul2024 00:00:09.281] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModItems/]: Loaded item configuration.
+[01Jul2024 00:00:09.294] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModMetadataKeys/]: Loaded metadata key configuration.
+[01Jul2024 00:00:09.303] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModelProperties/]: Loaded model property configuration.
+[01Jul2024 00:00:09.318] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperation/]: Loaded modification operation configuration.
+[01Jul2024 00:00:09.322] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperationGroups/]: Loaded modification operation group configuration.
+[01Jul2024 00:00:09.361] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModPatternPlacementTypes/]: Loaded pattern placement type configuration.
+[01Jul2024 00:00:09.367] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeSerializers/]: Loaded recipe serializer configuration.
+[01Jul2024 00:00:09.371] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModTags/]: Loaded tag configuration.
+[01Jul2024 00:00:09.437] [modloading-worker-0/INFO] [mod.chiselsandbits.forge.platform.plugin.ForgePluginManager/]: Found and loaded ChiselsAndBits plugin: jei
+[01Jul2024 00:00:09.444] [modloading-worker-0/INFO] [mod.chiselsandbits.forge.integration.jei.JEICompatConfiguration/]: Loaded JEI Compatibility configuration
+[01Jul2024 00:00:09.752] [modloading-worker-0/INFO] [railways/]: Registering tracks for Hex Casting
+[01Jul2024 00:00:09.754] [modloading-worker-0/INFO] [railways/]: Registering tracks for Oh The Biomes You'll Go
+[01Jul2024 00:00:09.755] [modloading-worker-0/INFO] [railways/]: Registering tracks for Blue Skies
+[01Jul2024 00:00:09.756] [modloading-worker-0/INFO] [railways/]: Registering tracks for Twilight Forest
+[01Jul2024 00:00:09.783] [modloading-worker-0/INFO] [railways/]: Registering tracks for Biomes O' Plenty
+[01Jul2024 00:00:09.784] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[01Jul2024 00:00:10.651] [main/INFO] [com.lumintorious.tfcambiental.TFCAmbiental/]: HELLO from Register Block
+[01Jul2024 00:00:14.319] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:14.553] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `white_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:14.553] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `orange_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:14.553] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:14.553] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:14.554] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:14.554] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `lime_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:14.554] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `pink_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:14.554] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `gray_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:14.554] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:14.554] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:14.554] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `purple_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:14.554] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `blue_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:14.554] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `brown_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:14.555] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `green_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:14.555] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `red_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:14.555] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `black_wool`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:14.565] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `oak_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:14.565] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `spruce_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:14.565] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `birch_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:14.565] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `jungle_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:14.565] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `acacia_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:14.565] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `dark_oak_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:14.565] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `crimson_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:14.565] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `warped_planks`, expected `doggytalents`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:15.492] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `domum_ornamentum` for name `architects_cutter`, expected `minecolonies`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:15.686] [main/INFO] [Puzzles Lib/]: Registering 1 element(s) to registry of type minecraft:block_entity_type for mod id visualworkbench
+[01Jul2024 00:00:15.713] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `forge` for name `cast_iron_grill`, expected `castirongrill`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:15.807] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `tfc` for name `anvil`, expected `tfc_ie_addon`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:15.954] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:15.954] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:15.990] [main/INFO] [Puzzles Lib/]: Registering 1 element(s) to registry of type minecraft:menu for mod id visualworkbench
+[01Jul2024 00:00:16.032] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: The object flaxbeard.immersivepetroleum.common.util.IPEffects$AntiFireEffect@230e7208 has been registered twice for the same name immersivepetroleum:anti_fire.
+[01Jul2024 00:00:16.033] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `poison`, expected `firstaid`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:16.033] [main/INFO] [firstaid/]: Don't worry, the minecraft poison override IS intended.
+[01Jul2024 00:00:16.267] [main/INFO] [mod.chiselsandbits.registrars.ModRecipeTypes/]: Registering recipe types.
+[01Jul2024 00:00:16.383] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `betterfortresses` for name `fortress`, expected `yungsapi`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:16.383] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `betteroceanmonuments` for name `ocean_monument`, expected `yungsapi`. This could be a intended override, but in most cases indicates a broken mod.
+[01Jul2024 00:00:16.716] [FTB Backups Config Watcher 0/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Config at C:\ALL THE FILES\terrafirma server2\config\ftbbackups2.json has changed, reloaded!
+[01Jul2024 00:00:16.876] [main/INFO] [com.tom.createores.CreateOreExcavation/]: Loaded Create Ore Excavation config file createoreexcavation-common.toml
+[01Jul2024 00:00:16.901] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\ALL THE FILES\terrafirma server2\config\smallships-common.toml is not correct. Correcting
+[01Jul2024 00:00:16.902] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key schematicVersion was corrected from 4 to its default, 4. This seems to be an error.
+[01Jul2024 00:00:16.942] [modloading-worker-0/INFO] [thetadev.constructionwand.ConstructionWand/]: ConstructionWand says hello - may the odds be ever in your favor.
+[01Jul2024 00:00:16.945] [modloading-worker-0/INFO] [net.mcreator.agsdaycounter.AgDayCounterMod/]: [Day Counter] Loading config file...
+[01Jul2024 00:00:16.947] [modloading-worker-0/INFO] [net.mcreator.agsdaycounter.AgDayCounterMod/]: [Day Counter] Config file successfuly loaded!
+[01Jul2024 00:00:16.951] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/]: Exception caught during firing event: com/mojang/blaze3d/platform/NativeImage
+	Index: 1
+	Listeners:
+		0: NORMAL
+		1: net.minecraftforge.eventbus.EventBus$$Lambda$1501/0x000001ba50778248@6124ed54
+java.lang.NoClassDefFoundError: com/mojang/blaze3d/platform/NativeImage
+	at TRANSFORMER/cartography@0.3.0-dev/lordfokas.cartography.utils.ImageHandler.<clinit>(ImageHandler.java:127)
+	at TRANSFORMER/cartography@0.3.0-dev/lordfokas.cartography.Cartography.setup(Cartography.java:39)
+	at MC-BOOTSTRAP/eventbus@5.0.3/net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247)
+	at MC-BOOTSTRAP/eventbus@5.0.3/net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239)
+	at MC-BOOTSTRAP/eventbus@5.0.3/net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+	at MC-BOOTSTRAP/eventbus@5.0.3/net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+	at LAYER PLUGIN/javafmllanguage@1.18.2-40.2.4/net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:106)
+	at LAYER PLUGIN/fmlcore@1.18.2-40.2.4/net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:107)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+Caused by: java.lang.ClassNotFoundException: com.mojang.blaze3d.platform.NativeImage
+	at cpw.mods.securejarhandler@1.0.8/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	... 15 more
+
+[01Jul2024 00:00:16.955] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: --- LootTable import: Start ---
+[01Jul2024 00:00:16.955] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Caught exception during event FMLCommonSetupEvent dispatch for modid cartography
+java.lang.NoClassDefFoundError: com/mojang/blaze3d/platform/NativeImage
+	at lordfokas.cartography.utils.ImageHandler.<clinit>(ImageHandler.java:127) ~[Cartography-1.18.2-0.3.0-dev.jar%2372!/:0.3.0-dev]
+	at lordfokas.cartography.Cartography.setup(Cartography.java:39) ~[Cartography-1.18.2-0.3.0-dev.jar%2372!/:0.3.0-dev]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:106) ~[javafmllanguage-1.18.2-40.2.4.jar%23283!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:107) ~[fmlcore-1.18.2-40.2.4.jar%23282!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+Caused by: java.lang.ClassNotFoundException: com.mojang.blaze3d.platform.NativeImage
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-1.0.8.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	... 15 more
+[01Jul2024 00:00:16.965] [modloading-worker-0/INFO] [pneumaticcraft/]: PneumaticCraft: Repressurized is loading!
+[01Jul2024 00:00:16.975] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 13: Added loot to table: Strainer: strainer_survivalist - Item: tfc:rock/loose/andesite - Count: 1 - Chance: 30 - NBT: null
+[01Jul2024 00:00:16.976] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 14: Added loot to table: Strainer: strainer_survivalist - Item: tfc:rock/loose/limestone - Count: 1 - Chance: 25 - NBT: null
+[01Jul2024 00:00:16.976] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 15: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:clay_ball - Count: 1 - Chance: 10 - NBT: null
+[01Jul2024 00:00:16.976] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 16: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:stick - Count: 1 - Chance: 10 - NBT: null
+[01Jul2024 00:00:16.976] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 17: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:bone - Count: 1 - Chance: 10 - NBT: null
+[01Jul2024 00:00:16.977] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 18: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:glass_bottle - Count: 1 - Chance: 5 - NBT: null
+[01Jul2024 00:00:16.977] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 19: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:string - Count: 1 - Chance: 2 - NBT: null
+[01Jul2024 00:00:16.977] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 20: Added loot to table: Strainer: strainer_survivalist - Item: immersiveengineering:nugget_silver - Count: 1 - Chance: 2 - NBT: null
+[01Jul2024 00:00:16.977] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 21: Added loot to table: Strainer: strainer_survivalist - Item: minecraft:gold_nugget - Count: 1 - Chance: 2 - NBT: null
+[01Jul2024 00:00:16.977] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 22: Added loot to table: Strainer: strainer_survivalist - Item: $BLANK$ - Count: 1 - Chance: 50 - NBT: null
+[01Jul2024 00:00:16.977] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 24: Copied loot table data from <parent> 'strainer_survivalist' to <child> 'strainer_survivalist_solid'
+[01Jul2024 00:00:16.977] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 25: Copied loot table data from <parent> 'strainer_survivalist' to <child> 'strainer_survivalist_reinforced'
+[01Jul2024 00:00:16.977] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 28: Added loot to table: Strainer: strainer_fisherman - Item: tfc:rock/loose/andesite - Count: 1 - Chance: 50 - NBT: null
+[01Jul2024 00:00:16.978] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 29: Added loot to table: Strainer: strainer_fisherman - Item: tfc:rock/loose/limestone - Count: 1 - Chance: 50 - NBT: null
+[01Jul2024 00:00:16.978] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 30: Added loot to table: Strainer: strainer_fisherman - Item: tfc:food/cod - Count: 1 - Chance: 40 - NBT: null
+[01Jul2024 00:00:16.978] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 31: Added loot to table: Strainer: strainer_fisherman - Item: tfc:food/salmon - Count: 1 - Chance: 25 - NBT: null
+[01Jul2024 00:00:16.978] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 32: Added loot to table: Strainer: strainer_fisherman - Item: tfc:food/tropical_fish - Count: 1 - Chance: 15 - NBT: null
+[01Jul2024 00:00:16.979] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 33: Added loot to table: Strainer: strainer_fisherman - Item: tfc:food/shellfish - Count: 1 - Chance: 10 - NBT: null
+[01Jul2024 00:00:16.979] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 34: Added loot to table: Strainer: strainer_fisherman - Item: waterstrainer:worm - Count: 1 - Chance: 10 - NBT: null
+[01Jul2024 00:00:16.979] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 35: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:pufferfish - Count: 1 - Chance: 10 - NBT: null
+[01Jul2024 00:00:16.979] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 36: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:stick - Count: 1 - Chance: 8 - NBT: null
+[01Jul2024 00:00:16.979] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 37: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:string - Count: 1 - Chance: 4 - NBT: null
+[01Jul2024 00:00:16.979] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 38: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:rotten_flesh - Count: 1 - Chance: 4 - NBT: null
+[01Jul2024 00:00:16.979] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 39: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:bone - Count: 1 - Chance: 4 - NBT: null
+[01Jul2024 00:00:16.979] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 40: Added loot to table: Strainer: strainer_fisherman - Item: minecraft:glass_bottle - Count: 1 - Chance: 4 - NBT: null
+[01Jul2024 00:00:16.980] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 41: Added loot to table: Strainer: strainer_fisherman - Item: $BLANK$ - Count: 1 - Chance: 50 - NBT: null
+[01Jul2024 00:00:16.980] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 43: Copied loot table data from <parent> 'strainer_fisherman' to <child> 'strainer_fisherman_solid'
+[01Jul2024 00:00:16.980] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: [SUCCESS] Line 44: Copied loot table data from <parent> 'strainer_fisherman' to <child> 'strainer_fisherman_reinforced'
+[01Jul2024 00:00:16.981] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: Result: Found 0 errors
+[01Jul2024 00:00:16.981] [modloading-worker-0/INFO] [mods.waterstrainer.WaterStrainer/]: --- LootTable import: End ---
+[01Jul2024 00:00:16.982] [modloading-worker-0/INFO] [net.dries007.tfc.TerraFirmaCraft/]: TFC Common Setup
+[01Jul2024 00:00:16.992] [modloading-worker-0/INFO] [com.tom.createores.CreateOreExcavation/]: Create Ore Excavation starting
+[01Jul2024 00:00:16.999] [modloading-worker-0/INFO] [me.steinborn.krypton.mod.shared.Krypton/]: Compression will use Java, encryption will use Java
+[01Jul2024 00:00:17.011] [modloading-worker-0/INFO] [com.chunksending.ChunkSending/]: chunksending mod initialized
+[01Jul2024 00:00:17.076] [modloading-worker-0/INFO] [untamedwilds.UntamedWilds/]: Registering Packets!
+[01Jul2024 00:00:17.135] [modloading-worker-0/INFO] [Mekanism/]: Loaded 'Mekanism Generators' module.
+[01Jul2024 00:00:17.191] [modloading-worker-0/INFO] [Mekanism/]: Version 10.2.5 initializing...
+[01Jul2024 00:00:17.228] [modloading-worker-0/INFO] [com.limitedchunks.LimitedChunks/]: Limited chunkloading initialized
+[01Jul2024 00:00:17.239] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [saturn] Starting version check at https://github.com/AbdElAziz333/Saturn/raw/mc1.20.1/dev/updates.json
+[01Jul2024 00:00:17.237] [modloading-worker-0/ERROR] [patchouli/]: Failed to load book dynamictreesplus:guide defined by mod dynamictreesplus, skipping
+com.google.gson.JsonSyntaxException: Missing name, expected to find a string
+	at net.minecraft.util.GsonHelper.m_13906_(GsonHelper.java:112) ~[server-1.18.2-20220404.173914-srg.jar%23281!/:?]
+	at vazkii.patchouli.common.book.Book.<init>(Book.java:122) ~[Patchouli-1.18.2-71.1.jar%23201!/:1.18.2-71.1]
+	at vazkii.patchouli.common.book.BookRegistry.loadBook(BookRegistry.java:116) ~[Patchouli-1.18.2-71.1.jar%23201!/:1.18.2-71.1]
+	at vazkii.patchouli.common.book.BookRegistry.lambda$init$3(BookRegistry.java:76) ~[Patchouli-1.18.2-71.1.jar%23201!/:1.18.2-71.1]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at vazkii.patchouli.common.book.BookRegistry.init(BookRegistry.java:71) ~[Patchouli-1.18.2-71.1.jar%23201!/:1.18.2-71.1]
+	at vazkii.patchouli.forge.common.ForgeModInitializer.onInitialize(ForgeModInitializer.java:59) ~[Patchouli-1.18.2-71.1.jar%23201!/:1.18.2-71.1]
+	at net.minecraftforge.eventbus.ASMEventHandler_496_ForgeModInitializer_onInitialize_FMLCommonSetupEvent.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-5.0.3.jar%232!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:106) ~[javafmllanguage-1.18.2-40.2.4.jar%23283!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:107) ~[fmlcore-1.18.2-40.2.4.jar%23282!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
+[01Jul2024 00:00:17.248] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
+[01Jul2024 00:00:17.283] [Immersive Engineering Contributors Thread/INFO] [immersiveengineering/]: Attempting to download special revolvers from GitHub
+[01Jul2024 00:00:17.290] [modloading-worker-0/INFO] [net.swutm.countrysflags.countrysflags/]: HELLO FROM PREINIT
+[01Jul2024 00:00:17.290] [modloading-worker-0/INFO] [net.swutm.countrysflags.countrysflags/]: DIRT BLOCK >> minecraft:dirt
+[01Jul2024 00:00:17.291] [modloading-worker-0/WARN] [FluxNetworks/]: Use FML network channel (low performance)
+[01Jul2024 00:00:17.516] [modloading-worker-0/INFO] [Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[01Jul2024 00:00:17.517] [modloading-worker-0/INFO] [Mekanism/]: Mod loaded.
+[01Jul2024 00:00:17.719] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [saturn] Found status: AHEAD Current: 0.1.5 Target: null
+[01Jul2024 00:00:17.719] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[01Jul2024 00:00:17.734] [main/FATAL] [net.minecraftforge.fml.ModLoader/LOADING]: Failed to complete lifecycle event COMMON_SETUP, 1 errors found
+[01Jul2024 00:00:17.738] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.2.1 Target: null
+[01Jul2024 00:00:17.738] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [treechopjade] Starting version check at https://raw.githubusercontent.com/hammertater/treechop/main/plugins/jade-plugin-forge/update.json
+[01Jul2024 00:00:17.830] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 20e6d6ab-fa96-48d0-9b05-b7d9cab15afb
+[01Jul2024 00:00:17.831] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to .\crash-reports\crash-2024-07-01_00.00.17-fml.txt
+[01Jul2024 00:00:17.835] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID fec5e5bf-4688-4080-97d8-97ac2e9f5c69
+[01Jul2024 00:00:17.835] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
+	Cartography (cartography) encountered an error during the common_setup event phase
+§7java.lang.NoClassDefFoundError: com/mojang/blaze3d/platform/NativeImage
+]
+	at net.minecraftforge.fml.ModLoader.waitForTransition(ModLoader.java:222) ~[fmlcore-1.18.2-40.2.4.jar%23282!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$dispatchAndHandleError$21(ModLoader.java:187) ~[fmlcore-1.18.2-40.2.4.jar%23282!/:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.dispatchAndHandleError(ModLoader.java:187) ~[fmlcore-1.18.2-40.2.4.jar%23282!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$loadMods$14(ModLoader.java:170) ~[fmlcore-1.18.2-40.2.4.jar%23282!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.loadMods(ModLoader.java:170) ~[fmlcore-1.18.2-40.2.4.jar%23282!/:?]
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:33) ~[forge-1.18.2-40.2.4-universal.jar%23286!/:?]
+	at net.minecraft.server.Main.main(Main.java:112) ~[server-1.18.2-20220404.173914-srg.jar%23281!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:32) ~[fmlloader-1.18.2-40.2.4.jar%2318!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.1.3.jar%235!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149) [bootstraplauncher-1.0.0.jar:?]
+[01Jul2024 00:00:17.898] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2321!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.18.2-40.2.4.jar%23282!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.18.2-40.2.4.jar%23282!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2321!/:?]
+	... 6 more
+[01Jul2024 00:00:17.898] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hordes] Starting version check at https://raw.githubusercontent.com/SmileycorpMC/The-Hordes/1.18/update.json
+[01Jul2024 00:00:17.916] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hordes] Found status: OUTDATED Current: 1.2.3 Target: 1.5.0
+[01Jul2024 00:00:17.918] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
+[01Jul2024 00:00:18.286] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: UP_TO_DATE Current: 1.18.2-1.0.1 Target: null
+[01Jul2024 00:00:18.286] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
+[01Jul2024 00:00:19.833] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2321!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.18.2-40.2.4.jar%23282!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.18.2-40.2.4.jar%23282!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2321!/:?]
+	... 6 more
+[01Jul2024 00:00:19.833] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [questplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/577121
+[01Jul2024 00:00:19.988] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2321!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.18.2-40.2.4.jar%23282!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.18.2-40.2.4.jar%23282!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2321!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2321!/:?]
+	... 6 more
+[01Jul2024 00:00:19.989] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [extrastorage] Starting version check at https://raw.githubusercontent.com/Edivad99/mod-version-controll/master/extrastorage_update.json
+[01Jul2024 00:00:20.161] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [extrastorage] Found status: UP_TO_DATE Current: 2.2.1 Target: null
+[01Jul2024 00:00:20.161] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [atlaslib] Starting version check at https://raw.githubusercontent.com/SmileycorpMC/Atlas-Lib/1.18/update.json
+[01Jul2024 00:00:20.287] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [atlaslib] Found status: BETA Current: 1.1.7a Target: null
+[01Jul2024 00:00:20.288] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/roofs.json
+[01Jul2024 00:00:20.305] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwroofs] Found status: UP_TO_DATE Current: 2.3.0 Target: null
+[01Jul2024 00:00:20.305] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[01Jul2024 00:00:20.323] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.2.2 Target: null
+[01Jul2024 00:00:20.323] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
+[01Jul2024 00:00:20.414] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: AHEAD Current: 1.18.2-1.0.4 Target: null
+[01Jul2024 00:00:20.414] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictreesplus] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTreesPlus.json?raw=true
+[01Jul2024 00:00:20.765] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictreesplus] Found status: AHEAD Current: 1.18.2-1.0.5 Target: null
+[01Jul2024 00:00:20.765] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cgm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cgm
+[01Jul2024 00:00:21.906] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cgm] Found status: BETA Current: 1.3.3 Target: 1.3.3
+[01Jul2024 00:00:21.907] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
+[01Jul2024 00:00:21.923] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[01Jul2024 00:00:21.923] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[01Jul2024 00:00:21.979] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 7.1.46 Target: 7.1.48
+[01Jul2024 00:00:21.979] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pneumaticcraft] Starting version check at https://raw.githubusercontent.com/TeamPneumatic/pnc-repressurized/1.18.2/release_info.json
+[01Jul2024 00:00:22.145] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pneumaticcraft] Found status: AHEAD Current: 1.18.2-3.6.4-45 Target: null
+[01Jul2024 00:00:22.145] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeitweaker] Starting version check at https://updates.blamejared.com/get?n=JEITweaker&gv=1.18.2
+[01Jul2024 00:00:22.293] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeitweaker] Found status: BETA Current: 3.0.0.9 Target: 3.0.0.9
+[01Jul2024 00:00:22.293] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.18.2
+[01Jul2024 00:00:22.339] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Found status: BETA Current: 9.1.211 Target: 9.1.211
+[01Jul2024 00:00:22.339] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[01Jul2024 00:00:22.553] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.4 Target: 40.2.21
+[01Jul2024 00:00:22.553] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Starting version check at https://cdn.snowshock35.com/mods/jei-integration/update.json
+[01Jul2024 00:00:22.687] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Found status: BETA Current: 9.0.0.37 Target: null
+[01Jul2024 00:00:22.687] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[01Jul2024 00:00:22.886] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: AHEAD Current: 0.6.10-105 Target: null
+[01Jul2024 00:00:22.887] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createoreexcavation] Starting version check at https://raw.githubusercontent.com/tom5454/Create-Ore-Excavation/main/version-check.json
+[01Jul2024 00:00:22.903] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createoreexcavation] Found status: BETA_OUTDATED Current: 1.1.2 Target: 1.1.3
+[01Jul2024 00:00:22.903] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[01Jul2024 00:00:23.088] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.9 Target: 1.9.10
+[01Jul2024 00:00:23.089] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[01Jul2024 00:00:23.140] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
+[01Jul2024 00:00:23.141] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[01Jul2024 00:00:23.158] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 3.5.9 Target: null
+[01Jul2024 00:00:23.158] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_power_loader] Starting version check at https://raw.githubusercontent.com/hlysine/create_power_loader/main/update.json
+[01Jul2024 00:00:23.175] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_power_loader] Found status: OUTDATED Current: 1.4.0-mc1.18.2 Target: 1.5.0-mc1.18.2
+[01Jul2024 00:00:23.176] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [doggytalents] Starting version check at https://www.dropbox.com/s/raw/q6ckhwos45jires/version-doggytalents.json
+[01Jul2024 00:00:24.219] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [doggytalents] Found status: BETA Current: 2.5.11 Target: 2.5.0
+[01Jul2024 00:00:24.219] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rsgauges] Starting version check at https://raw.githubusercontent.com/stfwi/rsgauges/versions/forge-1.18.2.json
+[01Jul2024 00:00:24.357] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rsgauges] Found status: UP_TO_DATE Current: 1.2.18 Target: null
+[01Jul2024 00:00:24.357] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.18.2
+[01Jul2024 00:00:24.403] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 13.3.56 Target: 13.3.56
+[01Jul2024 00:00:24.403] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[01Jul2024 00:00:24.646] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: UP_TO_DATE Current: 4.1.1494 Target: null
+[01Jul2024 00:00:24.646] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[01Jul2024 00:00:24.663] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: OUTDATED Current: 2.1.0 Target: 3.0.0
+[01Jul2024 00:00:24.663] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
+[01Jul2024 00:00:24.678] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Found status: OUTDATED Current: 1.1.1 Target: 1.1.2
+[01Jul2024 00:00:24.679] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [seamless_loading_screen] Starting version check at https://raw.githubusercontent.com/DaDerpDuck/Seamless-Loading-Screen-Forge/forge-1.18/update.json
+[01Jul2024 00:00:24.809] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [seamless_loading_screen] Found status: BETA Current: 1.18.2-3.0.1 Target: null
+[01Jul2024 00:00:24.809] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[01Jul2024 00:00:26.383] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.4.3 Target: 0.4.3
+[01Jul2024 00:00:26.384] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/smallships/main/update.json
+[01Jul2024 00:00:26.401] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Found status: OUTDATED Current: 2.0.0-b1.1.1 Target: 2.0.0-b1.3
+[01Jul2024 00:00:26.401] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [redstonepen] Starting version check at https://raw.githubusercontent.com/stfwi/redstonepen/versions/forge-1.18.2.json
+[01Jul2024 00:00:26.545] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [redstonepen] Found status: UP_TO_DATE Current: 1.0.13 Target: null
+[01Jul2024 00:00:26.545] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.18.2
+[01Jul2024 00:00:26.592] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 8.0.0+17 Target: 8.0.0+17
+[01Jul2024 00:00:26.592] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveposts] Starting version check at https://raw.githubusercontent.com/TwistedGate/ImmersivePosts/master/change.json
+[01Jul2024 00:00:26.730] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveposts] Found status: UP_TO_DATE Current: 4.3.0-3 Target: null
+[01Jul2024 00:00:26.730] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveengineering] Starting version check at https://raw.githubusercontent.com/BluSunrize/ImmersiveEngineering/1.18.2/changelog.json
+[01Jul2024 00:00:26.861] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [immersiveengineering] Found status: UP_TO_DATE Current: 1.18.2-8.4.0-161 Target: null
+[01Jul2024 00:00:26.861] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tfc_ie_addon] Starting version check at https://raw.githubusercontent.com/NMagpie/TFC-IE-Crossover/1.18.x/update.json
+[01Jul2024 00:00:27.041] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tfc_ie_addon] Found status: UP_TO_DATE Current: 0.2.4 Target: null
+[01Jul2024 00:00:27.042] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[01Jul2024 00:00:42.042] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.net.http.HttpTimeoutException: request timed out
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:571) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:139) ~[fmlcore-1.18.2-40.2.4.jar%23282!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:177) ~[fmlcore-1.18.2-40.2.4.jar%23282!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.18.2-40.2.4.jar%23282!/:?]
+[01Jul2024 00:00:42.043] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalfences] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/diagonalfences.json
+[01Jul2024 00:00:42.061] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [diagonalfences] Found status: UP_TO_DATE Current: 3.2.3 Target: null

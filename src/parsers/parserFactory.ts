@@ -30,7 +30,7 @@ export class ParserFactory {
     } else if (fileType === FileType.HS_ERR_PID) {
       return new HotspotCrashDumpParser(metadata);
     } else {
-      throw new Error('Could not determine the file type.');
+      return new StandardLogParser(metadata);
     }
   }
 }

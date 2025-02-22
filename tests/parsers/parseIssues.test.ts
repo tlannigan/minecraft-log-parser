@@ -31,7 +31,7 @@ describe('Issue parser', () => {
         severity: 'Error',
         title: 'Java 17 required',
         description:
-          'Minecraft 1.18-1.20.4 requires Java 17. May work with Java 21 but may be problematic.',
+          'Minecraft 1.18-1.20.4 requires Java 17. May work with Java 21 but potentially problematic.',
       },
     ]);
   });

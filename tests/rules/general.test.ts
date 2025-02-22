@@ -5,10 +5,12 @@ import {
   GENERAL_JAVA_17_REQUIRED,
   GENERAL_JAVA_21_REQUIRED,
   GENERAL_JAVA_8_REQUIRED,
+  GENERAL_LOG_CUT_OFF,
   GENERAL_MAXIMUM_IDS_1_12,
   GENERAL_MIXIN_FAILURE,
   GENERAL_OFFLINE_MODE,
   GENERAL_PORT_BIND_FAILURE,
+  GENERAL_POSE_STACK_NOT_EMPTY,
   GENERAL_REACH_ENTITY_ATTRIBUTES,
 } from '@/rules/general/rules';
 import { getTestFileInfo } from '../files/fileHelpers';
@@ -176,6 +178,8 @@ describe('General rules', () => {
     ]);
   });
 
+  // TODO: Add example file for maximum ID range on 1.7.10
+
   it('finds maximum ID range exceeded issue', async () => {
     const rule = GENERAL_MAXIMUM_IDS_1_12;
     const fileInfo = await getTestFileInfo(
@@ -188,6 +192,38 @@ describe('General rules', () => {
         description: rule.description,
         severity: rule.severity,
         lineNumbers: [1335],
+      },
+    ]);
+  });
+
+  it('finds pose stack not empty issue', async () => {
+    const rule = GENERAL_POSE_STACK_NOT_EMPTY;
+    const fileInfo = await getTestFileInfo(
+      '/standard/forge-1.16.5-pose_stack_not_empty.log'
+    );
+
+    expect(fileInfo.issues).toEqual([
+      {
+        title: rule.title,
+        description: rule.description,
+        severity: rule.severity,
+        lineNumbers: [661],
+      },
+    ]);
+  });
+
+  it('finds log cut off issue', async () => {
+    const rule = GENERAL_LOG_CUT_OFF;
+    const fileInfo = await getTestFileInfo(
+      '/standard/forge-1.18.2-log_cut_off.log'
+    );
+
+    expect(fileInfo.issues).toEqual([
+      {
+        title: rule.title,
+        description: rule.description,
+        severity: rule.severity,
+        lineNumbers: [1],
       },
     ]);
   });
